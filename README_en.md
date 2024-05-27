@@ -94,3 +94,76 @@ https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB/%E8%B4%AD%E7%89%A9
 ```
 
 </details>
+
+# For zyplayer
+
+<details>
+  
+<summary>Expand view</summary>
+  
+CCTV-ipv4 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/1_CCTV-4.txt
+```
+CCTV-ipv6 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/2_CCTV-6.txt  
+```
+satellite TV-ipv4 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/3_%E5%8D%AB%E8%A7%86-4.txt  
+```
+satellite TV-ipv6 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/4_%E5%8D%AB%E8%A7%86-6.txt  
+```
+NewTv-ipv4 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/5_NewTv-4.txt  
+```
+NewTv-ipv6 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/6_NewTv-6.txt  
+```
+Bestv-ipv4 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/7_Bestv-4.txt  
+```
+local station-all 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/8_%E5%9C%B0%E6%96%B9%E5%8F%B0-46.txt  
+```
+other 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/9_other.txt  
+```
+cn-other-ipv4 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/10_%E5%85%B6%E4%BB%96-4.txt  
+```
+cn-other-ipv6 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/11_%E5%85%B6%E4%BB%96-6.txt  
+```
+Radio 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/12_Radio.txt  
+```
+MIGU 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/13_%E5%92%AA%E5%92%95-46.txt  
+```
+uncharted 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/14_%E6%9C%AA%E7%9F%A5-46.txt  
+```
+Hong Kong, Macao and Taiwan 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/15_%E6%B4%9B%E6%9D%89%E7%9F%B6148.txt  
+```
+Shopping Channel 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/16_%E8%B4%AD%E7%89%A9-46.txt  
+```
+
+</details>
