@@ -20,7 +20,7 @@ CCTV17,http://mail.petzhu.top:7000/rtp/239.254.201.120:8144 $河北电信petzhu
 CCTV4欧洲,http://mail.petzhu.top:7000/rtp/239.254.201.205:4220 $河北电信petzhu
 CCTV4美洲,http://mail.petzhu.top:7000/rtp/239.254.201.206:4220 $河北电信petzhu
 CGTNEnglish,http://mail.petzhu.top:7000/rtp/239.254.200.12:8056 $河北电信petzhu
-CGTN英文记录,http://mail.petzhu.top:7000/rtp/239.254.201.208:4220 $河北电信petzhu
+CGTNDocumentary,http://mail.petzhu.top:7000/rtp/239.254.201.208:4220 $河北电信petzhu
 CGTNEspañol,http://mail.petzhu.top:7000/rtp/239.254.201.209:4220 $河北电信petzhu
 CGTNFrançais,http://mail.petzhu.top:7000/rtp/239.254.201.210:4220 $河北电信petzhu
 CGTNالعربية,http://mail.petzhu.top:7000/rtp/239.254.201.211:4220 $河北电信petzhu
