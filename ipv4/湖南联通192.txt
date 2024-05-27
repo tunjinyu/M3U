@@ -1,0 +1,55 @@
+CCTV,#genre#
+CCTV1,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv1hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV2,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv2hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV3,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8 $湖南联通192
+CCTV4,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV5,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv58m/8000000/mnf.m3u8 $湖南联通192
+CCTV5+,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5phd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV5+,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV6,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv6hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV7,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv7hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV8,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv8hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV9,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv9hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV10,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv10hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV11,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv11hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV12,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv12hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV13,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv13xwhd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV14,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctvsehd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV15,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv15hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV16,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv16hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV17,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv17hd8m/8000000/mnf.m3u8 $湖南联通192
+CCTV164k,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv16hd4k/15000000/mnf.m3u8 $湖南联通192
+CCTV4K,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4k/15000000/mnf.m3u8 $湖南联通192
+
+卫视,#genre#
+安徽卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/ahwshd8m/8000000/mnf.m3u8 $湖南联通192
+北京卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/bjwshd8m/8000000/mnf.m3u8 $湖南联通192
+东方卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dfwshd8m/8000000/mnf.m3u8 $湖南联通192
+东南卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dnwshd8m/8000000/mnf.m3u8 $湖南联通192
+甘肃卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/gswshd8m/8000000/mnf.m3u8 $湖南联通192
+广东卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/gdwshd8m/8000000/mnf.m3u8 $湖南联通192
+广西卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/gxwshd8m/8000000/mnf.m3u8 $湖南联通192
+贵州卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/gzwshd8m/8000000/mnf.m3u8 $湖南联通192
+哈哈炫动,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hhxd8m/8000000/mnf.m3u8 $湖南联通192
+海南卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hainanwshd8m/8000000/mnf.m3u8 $湖南联通192
+河北卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hbwshd8m/8000000/mnf.m3u8 $湖南联通192
+黑龙江卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hljwshd8m/8000000/mnf.m3u8 $湖南联通192
+湖南卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hunanwshd8m/8000000/mnf.m3u8 $湖南联通192
+吉林卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/jlwshd8m/8000000/mnf.m3u8 $湖南联通192
+江苏卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/jswshd8m/8000000/mnf.m3u8 $湖南联通192
+江西卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/jxws8m/8000000/mnf.m3u8 $湖南联通192
+卡酷少儿,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/kkse8m/8000000/mnf.m3u8 $湖南联通192
+辽宁卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/lnwshd8m/8000000/mnf.m3u8 $湖南联通192
+三沙卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/sswshd8m/8000000/mnf.m3u8 $湖南联通192
+山东卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/sdws8m/8000000/mnf.m3u8 $湖南联通192
+深圳卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/szwshd8m/8000000/mnf.m3u8 $湖南联通192
+天津卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/tjwshd8m/8000000/mnf.m3u8 $湖南联通192
+云南卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/ynwshd8m/8000000/mnf.m3u8 $湖南联通192
+浙江卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/zjwshd8m/8000000/mnf.m3u8 $湖南联通192
+重庆卫视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cqws8m/8000000/mnf.m3u8 $湖南联通192
+
+其他,#genre#
+谍战剧场,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dzjc8m/8000000/mnf.m3u8 $湖南联通192
+东方影视,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dfyshd8m/8000000/mnf.m3u8 $湖南联通192
+全球大片,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/qqdp8m/8000000/mnf.m3u8 $湖南联通192
+五星体育,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/wxtyhd8m/8000000/mnf.m3u8 $湖南联通192

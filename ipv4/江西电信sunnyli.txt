@@ -1,0 +1,124 @@
+CCTV,#genre#
+CCTV1,http://iku.sunnyli.link:4144/udp/239.252.219.200:5140 $江西电信sunnyli
+CCTV1,http://iku.sunnyli.link:4144/udp/239.252.219.215:5140 $江西电信sunnyli
+CCTV2,http://iku.sunnyli.link:4144/udp/239.252.220.183:5140 $江西电信sunnyli
+CCTV3,http://iku.sunnyli.link:4144/udp/239.252.219.252:5140 $江西电信sunnyli
+CCTV3,http://iku.sunnyli.link:4144/udp/239.252.220.193:5140 $江西电信sunnyli
+CCTV4,http://iku.sunnyli.link:4144/udp/239.252.220.184:5140 $江西电信sunnyli
+CCTV5,http://iku.sunnyli.link:4144/udp/239.252.219.198:5140 $江西电信sunnyli
+CCTV5,http://iku.sunnyli.link:4144/udp/239.252.219.236:5140 $江西电信sunnyli
+CCTV5+,http://iku.sunnyli.link:4144/udp/239.252.219.72:5140 $江西电信sunnyli
+CCTV6,http://iku.sunnyli.link:4144/udp/239.252.219.237:5140 $江西电信sunnyli
+CCTV6,http://iku.sunnyli.link:4144/udp/239.252.220.195:5140 $江西电信sunnyli
+CCTV7,http://iku.sunnyli.link:4144/udp/239.252.220.185:5140 $江西电信sunnyli
+CCTV8,http://iku.sunnyli.link:4144/udp/239.252.219.253:5140 $江西电信sunnyli
+CCTV8,http://iku.sunnyli.link:4144/udp/239.252.220.196:5140 $江西电信sunnyli
+CCTV9,http://iku.sunnyli.link:4144/udp/239.252.220.186:5140 $江西电信sunnyli
+CCTV10,http://iku.sunnyli.link:4144/udp/239.252.220.91:5140 $江西电信sunnyli
+CCTV11,http://iku.sunnyli.link:4144/udp/239.252.219.78:5140 $江西电信sunnyli
+CCTV12,http://iku.sunnyli.link:4144/udp/239.252.220.187:5140 $江西电信sunnyli
+CCTV13,http://iku.sunnyli.link:4144/udp/239.252.219.139:5140 $江西电信sunnyli
+CCTV14,http://iku.sunnyli.link:4144/udp/239.252.220.92:5140 $江西电信sunnyli
+CCTV15,http://iku.sunnyli.link:4144/udp/239.252.219.79:5140 $江西电信sunnyli
+CCTV17,http://iku.sunnyli.link:4144/udp/239.252.220.192:5140 $江西电信sunnyli
+CCTV164K,http://iku.sunnyli.link:4144/udp/239.252.220.237:5140 $江西电信sunnyli
+CCTV4欧洲,http://iku.sunnyli.link:4144/udp/239.252.219.192:5140 $江西电信sunnyli
+CCTV4美洲,http://iku.sunnyli.link:4144/udp/239.252.219.193:5140 $江西电信sunnyli
+CGTNEnglish,http://iku.sunnyli.link:4144/udp/239.252.219.194:5140 $江西电信sunnyli
+CGTN记录,http://iku.sunnyli.link:4144/udp/239.252.219.195:5140 $江西电信sunnyli
+CGTNEspañol,http://iku.sunnyli.link:4144/udp/239.252.219.196:5140 $江西电信sunnyli
+CGTNFrançais,http://iku.sunnyli.link:4144/udp/239.252.219.65:5140 $江西电信sunnyli
+CGTNРусский,http://iku.sunnyli.link:4144/udp/239.252.219.67:5140 $江西电信sunnyli
+CGTNالعربية,http://iku.sunnyli.link:4144/udp/239.252.219.66:5140 $江西电信sunnyli
+CCTV4K,http://iku.sunnyli.link:4144/udp/239.252.220.244:5140 $江西电信sunnyli
+CCTV兵器科技,http://iku.sunnyli.link:4144/udp/239.252.219.98:5140 $江西电信sunnyli
+CCTV第一剧场,http://iku.sunnyli.link:4144/udp/239.252.219.86:5140 $江西电信sunnyli
+CCTV电视指南,http://iku.sunnyli.link:4144/udp/239.252.219.97:5140 $江西电信sunnyli
+CCTV风云剧场,http://iku.sunnyli.link:4144/udp/239.252.219.89:5140 $江西电信sunnyli
+CCTV风云音乐,http://iku.sunnyli.link:4144/udp/239.252.219.87:5140 $江西电信sunnyli
+CCTV风云足球,http://iku.sunnyli.link:4144/udp/239.252.219.96:5140 $江西电信sunnyli
+CCTV高尔夫网球,http://iku.sunnyli.link:4144/udp/239.252.219.95:5140 $江西电信sunnyli
+CCTV怀旧剧场,http://iku.sunnyli.link:4144/udp/239.252.219.90:5140 $江西电信sunnyli
+CCTV女性时尚,http://iku.sunnyli.link:4144/udp/239.252.219.94:5140 $江西电信sunnyli
+CCTV世界地理,http://iku.sunnyli.link:4144/udp/239.252.219.93:5140 $江西电信sunnyli
+CCTV文化精品,http://iku.sunnyli.link:4144/udp/239.252.219.81:5140 $江西电信sunnyli
+CCTV央视台球,http://iku.sunnyli.link:4144/udp/239.252.219.80:5140 $江西电信sunnyli
+
+卫视,#genre#
+CETV1,http://iku.sunnyli.link:4144/udp/239.252.220.198:5140 $江西电信sunnyli
+安徽卫视,http://iku.sunnyli.link:4144/udp/239.252.220.83:5140 $江西电信sunnyli
+北京卫视,http://iku.sunnyli.link:4144/udp/239.252.219.206:5140 $江西电信sunnyli
+东方卫视,http://iku.sunnyli.link:4144/udp/239.252.219.229:5140 $江西电信sunnyli
+东南卫视,http://iku.sunnyli.link:4144/udp/239.252.220.82:5140 $江西电信sunnyli
+甘肃卫视,http://iku.sunnyli.link:4144/udp/239.252.219.140:5140 $江西电信sunnyli
+广东卫视,http://iku.sunnyli.link:4144/udp/239.252.219.213:5140 $江西电信sunnyli
+广西卫视,http://iku.sunnyli.link:4144/udp/239.252.219.183:5140 $江西电信sunnyli
+贵州卫视,http://iku.sunnyli.link:4144/udp/239.252.220.190:5140 $江西电信sunnyli
+海南卫视,http://iku.sunnyli.link:4144/udp/239.252.219.178:5140 $江西电信sunnyli
+河北卫视,http://iku.sunnyli.link:4144/udp/239.252.220.154:5140 $江西电信sunnyli
+河南卫视,http://iku.sunnyli.link:4144/udp/239.252.220.189:5140 $江西电信sunnyli
+黑龙江卫视,http://iku.sunnyli.link:4144/udp/239.252.219.211:5140 $江西电信sunnyli
+湖北卫视,http://iku.sunnyli.link:4144/udp/239.252.219.208:5140 $江西电信sunnyli
+湖南卫视,http://iku.sunnyli.link:4144/udp/239.252.219.201:5140 $江西电信sunnyli
+吉林卫视,http://iku.sunnyli.link:4144/udp/239.252.220.188:5140 $江西电信sunnyli
+江苏卫视,http://iku.sunnyli.link:4144/udp/239.252.219.214:5140 $江西电信sunnyli
+江西卫视,http://iku.sunnyli.link:4144/udp/239.252.220.63:5140 $江西电信sunnyli
+卡酷少儿,http://iku.sunnyli.link:4144/udp/239.252.220.246:5140 $江西电信sunnyli
+辽宁卫视,http://iku.sunnyli.link:4144/udp/239.252.220.62:5140 $江西电信sunnyli
+山东卫视,http://iku.sunnyli.link:4144/udp/239.252.219.228:5140 $江西电信sunnyli
+深圳卫视,http://iku.sunnyli.link:4144/udp/239.252.219.212:5140 $江西电信sunnyli
+四川卫视,http://iku.sunnyli.link:4144/udp/239.252.220.93:5140 $江西电信sunnyli
+天津卫视,http://iku.sunnyli.link:4144/udp/239.252.219.187:5140 $江西电信sunnyli
+天津卫视,http://iku.sunnyli.link:4144/udp/239.252.220.61:5140 $江西电信sunnyli
+云南卫视,http://iku.sunnyli.link:4144/udp/239.252.219.185:5140 $江西电信sunnyli
+浙江卫视,http://iku.sunnyli.link:4144/udp/239.252.219.210:5140 $江西电信sunnyli
+重庆卫视,http://iku.sunnyli.link:4144/udp/239.252.220.94:5140 $江西电信sunnyli
+
+其他,#genre#
+CHC高清电影,http://iku.sunnyli.link:4144/udp/239.252.219.83:5140 $江西电信sunnyli
+CHC家庭影院,http://iku.sunnyli.link:4144/udp/239.252.219.84:5140 $江西电信sunnyli
+CHC动作电影,http://iku.sunnyli.link:4144/udp/239.252.219.85:5140 $江西电信sunnyli
+茶频道,http://iku.sunnyli.link:4144/udp/239.252.220.160:5140 $江西电信sunnyli
+电影测试4K,http://iku.sunnyli.link:4144/udp/239.252.220.212:5140 $江西电信sunnyli
+东方财经,http://iku.sunnyli.link:4144/udp/239.252.219.57:5140 $江西电信sunnyli
+都市剧场,http://iku.sunnyli.link:4144/udp/239.252.219.225:5140 $江西电信sunnyli
+欢笑剧场,http://iku.sunnyli.link:4144/udp/239.252.219.224:5140 $江西电信sunnyli
+纪实科教,http://iku.sunnyli.link:4144/udp/239.252.220.245:5140 $江西电信sunnyli
+纪实人文,http://iku.sunnyli.link:4144/udp/239.252.219.227:5140 $江西电信sunnyli
+金鹰纪实,http://iku.sunnyli.link:4144/udp/239.252.220.155:5140 $江西电信sunnyli
+精彩影视,http://iku.sunnyli.link:4144/udp/239.252.220.223:5140 $江西电信sunnyli
+快乐垂钓,http://iku.sunnyli.link:4144/udp/239.252.220.177:5140 $江西电信sunnyli
+梨园频道,http://iku.sunnyli.link:4144/udp/239.252.220.179:5140 $江西电信sunnyli
+求索记录,http://iku.sunnyli.link:4144/udp/239.252.220.224:5140 $江西电信sunnyli
+文物宝库,http://iku.sunnyli.link:4144/udp/239.252.220.158:5140 $江西电信sunnyli
+武术世界,http://iku.sunnyli.link:4144/udp/239.252.220.180:5140 $江西电信sunnyli
+IPTV体育,http://iku.sunnyli.link:4144/udp/239.252.220.211:5140 $江西电信sunnyli
+
+未知,#genre#
+江西-188,http://iku.sunnyli.link:4144/udp/239.252.219.188:5140 $江西电信sunnyli
+
+BesTv,#genre#
+BesTv111,http://iku.sunnyli.link:4144/udp/239.252.219.111:5140 $江西电信sunnyli
+BesTv112,http://iku.sunnyli.link:4144/udp/239.252.219.112:5140 $江西电信sunnyli
+BesTv117,http://iku.sunnyli.link:4144/udp/239.252.219.117:5140 $江西电信sunnyli
+BesTv135,http://iku.sunnyli.link:4144/udp/239.252.219.135:5140 $江西电信sunnyli
+BesTv136,http://iku.sunnyli.link:4144/udp/239.252.219.136:5140 $江西电信sunnyli
+BesTv203,http://iku.sunnyli.link:4144/udp/239.252.219.203:5140 $江西电信sunnyli
+BesTv204,http://iku.sunnyli.link:4144/udp/239.252.219.204:5140 $江西电信sunnyli
+BesTv53,http://iku.sunnyli.link:4144/udp/239.252.219.53:5140 $江西电信sunnyli
+BesTv91,http://iku.sunnyli.link:4144/udp/239.252.219.91:5140 $江西电信sunnyli
+BesTv84,http://iku.sunnyli.link:4144/udp/239.252.220.84:5140 $江西电信sunnyli
+
+江西,#genre#
+昌飞航空,http://iku.sunnyli.link:4144/udp/239.252.220.47:5140 $江西电信sunnyli
+风尚购物,http://iku.sunnyli.link:4144/udp/239.252.219.101:5140 $江西电信sunnyli
+江西都市,http://iku.sunnyli.link:4144/udp/239.252.220.238:5140 $江西电信sunnyli
+江西公共农业,http://iku.sunnyli.link:4144/udp/239.252.220.102:5140 $江西电信sunnyli
+江西教育,http://iku.sunnyli.link:4144/udp/239.252.219.115:5140 $江西电信sunnyli
+江西经济生活,http://iku.sunnyli.link:4144/udp/239.252.219.173:5140 $江西电信sunnyli
+江西少儿,http://iku.sunnyli.link:4144/udp/239.252.219.113:5140 $江西电信sunnyli
+江西陶瓷,http://iku.sunnyli.link:4144/udp/239.252.220.243:5140 $江西电信sunnyli
+江西卫视,http://iku.sunnyli.link:4144/udp/239.252.220.63:5140 $江西电信sunnyli
+江西新闻,http://iku.sunnyli.link:4144/udp/239.252.220.100:5140 $江西电信sunnyli
+江西移动电视,http://iku.sunnyli.link:4144/udp/239.252.220.241:5140 $江西电信sunnyli
+江西影视旅游,http://iku.sunnyli.link:4144/udp/239.252.220.242:5140 $江西电信sunnyli

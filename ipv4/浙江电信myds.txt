@@ -1,0 +1,92 @@
+CCTV,#genre#
+CCTV1,http://guany.myds.me:25852/rtp/233.50.201.118:5140 $浙江电信myds
+CCTV2,http://guany.myds.me:25852/rtp/233.50.201.119:5140 $浙江电信myds
+CCTV3,http://guany.myds.me:25852/rtp/233.50.201.196:5140 $浙江电信myds
+CCTV5,http://guany.myds.me:25852/rtp/233.50.201.197:5140 $浙江电信myds
+CCTV5+,http://guany.myds.me:25852/rtp/233.50.201.220:5140 $浙江电信myds
+CCTV6,http://guany.myds.me:25852/rtp/233.50.201.198:5140 $浙江电信myds
+CCTV7,http://guany.myds.me:25852/rtp/233.50.201.120:5140 $浙江电信myds
+CCTV8,http://guany.myds.me:25852/rtp/233.50.201.199:5140 $浙江电信myds
+CCTV9,http://guany.myds.me:25852/rtp/233.50.201.121:5140 $浙江电信myds
+CCTV10,http://guany.myds.me:25852/rtp/233.50.201.122:5140 $浙江电信myds
+CCTV12,http://guany.myds.me:25852/rtp/233.50.201.123:5140 $浙江电信myds
+CCTV13,http://guany.myds.me:25852/rtp/233.50.201.246:5140 $浙江电信myds
+CCTV14,http://guany.myds.me:25852/rtp/233.50.201.124:5140 $浙江电信myds
+CCTV16,http://guany.myds.me:25852/rtp/233.50.201.192:5140 $浙江电信myds
+CCTV164k,http://guany.myds.me:25852/rtp/233.50.201.63:5140 $浙江电信myds
+
+卫视,#genre#
+安徽卫视,http://guany.myds.me:25852/rtp/233.50.201.113:5140 $浙江电信myds
+北京卫视,http://guany.myds.me:25852/rtp/233.50.201.107:5140 $浙江电信myds
+东方卫视,http://guany.myds.me:25852/rtp/233.50.201.125:5140 $浙江电信myds
+东南卫视,http://guany.myds.me:25852/rtp/233.50.201.146:5140 $浙江电信myds
+凤凰中文,http://guany.myds.me:25852/rtp/233.50.200.191:5140 $浙江电信myds
+凤凰资讯,http://guany.myds.me:25852/rtp/233.50.200.192:5140 $浙江电信myds
+广东卫视,http://guany.myds.me:25852/rtp/233.50.201.102:5140 $浙江电信myds
+贵州卫视,http://guany.myds.me:25852/rtp/233.50.201.142:5140 $浙江电信myds
+河北卫视,http://guany.myds.me:25852/rtp/233.50.201.140:5140 $浙江电信myds
+河南卫视,http://guany.myds.me:25852/rtp/233.50.201.144:5140 $浙江电信myds
+黑龙江卫视,http://guany.myds.me:25852/rtp/233.50.201.115:5140 $浙江电信myds
+湖北卫视,http://guany.myds.me:25852/rtp/233.50.201.114:5140 $浙江电信myds
+湖南卫视,http://guany.myds.me:25852/rtp/233.50.201.103:5140 $浙江电信myds
+江苏卫视,http://guany.myds.me:25852/rtp/233.50.201.106:5140 $浙江电信myds
+江西卫视,http://guany.myds.me:25852/rtp/233.50.201.145:5140 $浙江电信myds
+辽宁卫视,http://guany.myds.me:25852/rtp/233.50.201.141:5140 $浙江电信myds
+山东卫视,http://guany.myds.me:25852/rtp/233.50.201.105:5140 $浙江电信myds
+深圳卫视,http://guany.myds.me:25852/rtp/233.50.201.101:5140 $浙江电信myds
+四川卫视,http://guany.myds.me:25852/rtp/233.50.201.139:5140 $浙江电信myds
+天津卫视,http://guany.myds.me:25852/rtp/233.50.201.104:5140 $浙江电信myds
+浙江卫视,http://guany.myds.me:25852/rtp/233.50.201.100:5140 $浙江电信myds
+重庆卫视,http://guany.myds.me:25852/rtp/233.50.201.143:5140 $浙江电信myds
+
+BesTv,#genre#
+BesTv-201,http://guany.myds.me:25852/rtp/233.50.201.201:5140 $浙江电信myds
+BesTv-207,http://guany.myds.me:25852/rtp/233.50.201.207:5140 $浙江电信myds
+
+其他,#genre#
+茶频道,http://guany.myds.me:25852/rtp/233.50.201.188:5140 $浙江电信myds
+动漫秀场,http://guany.myds.me:25852/rtp/233.50.201.184:5140 $浙江电信myds
+都市剧场,http://guany.myds.me:25852/rtp/233.50.201.190:5140 $浙江电信myds
+法制天地,http://guany.myds.me:25852/rtp/233.50.201.191:5140 $浙江电信myds
+欢笑剧场,http://guany.myds.me:25852/rtp/233.50.201.189:5140 $浙江电信myds
+金色学堂,http://guany.myds.me:25852/rtp/233.50.201.186:5140 $浙江电信myds
+快乐垂钓,http://guany.myds.me:25852/rtp/233.50.201.109:5140 $浙江电信myds
+乐游,http://guany.myds.me:25852/rtp/233.50.201.185:5140 $浙江电信myds
+生活时尚,http://guany.myds.me:25852/rtp/233.50.201.187:5140 $浙江电信myds
+游戏风云,http://guany.myds.me:25852/rtp/233.50.201.183:5140 $浙江电信myds
+
+浙江,#genre#
+浙江经济生活,http://guany.myds.me:25852/rtp/233.50.201.133:5140 $浙江电信myds
+浙江教育,http://guany.myds.me:25852/rtp/233.50.201.134:5140 $浙江电信myds
+浙江民生,http://guany.myds.me:25852/rtp/233.50.201.136:5140 $浙江电信myds
+浙江news,http://guany.myds.me:25852/rtp/233.50.201.137:5140 $浙江电信myds
+浙江少儿,http://guany.myds.me:25852/rtp/233.50.201.138:5140 $浙江电信myds
+中国蓝直播-193,http://guany.myds.me:25852/rtp/233.50.201.193:5140 $浙江电信myds
+中国蓝直播-108,http://guany.myds.me:25852/rtp/233.50.201.108:5140 $浙江电信myds
+钱江频道,http://guany.myds.me:25852/rtp/233.50.201.132:5140 $浙江电信myds
+杭州1综合,http://guany.myds.me:25852/rtp/233.50.201.173:5140 $浙江电信myds
+杭州2明珠,http://guany.myds.me:25852/rtp/233.50.201.174:5140 $浙江电信myds
+杭州3生活,http://guany.myds.me:25852/rtp/233.50.201.175:5140 $浙江电信myds
+杭州4影视,http://guany.myds.me:25852/rtp/233.50.201.176:5140 $浙江电信myds
+杭州5青少,http://guany.myds.me:25852/rtp/233.50.201.177:5140 $浙江电信myds
+杭州导视,http://guany.myds.me:25852//rtp/233.50.201.182:5140 $浙江电信myds
+宁波TV1,http://guany.myds.me:25852/rtp/233.50.201.168:5140 $浙江电信myds
+宁波TV2,http://guany.myds.me:25852/rtp/233.50.201.178:5140 $浙江电信myds
+宁波TV3,http://guany.myds.me:25852/rtp/233.50.201.179:5140 $浙江电信myds
+宁波TV4,http://guany.myds.me:25852/rtp/233.50.201.180:5140 $浙江电信myds
+温州新闻,http://guany.myds.me:25852/rtp/233.50.201.87:5140 $浙江电信myds
+绍兴新闻,http://guany.myds.me:25852/rtp/233.50.201.156:5140 $浙江电信myds
+杭州导视,http://guany.myds.me:25852/rtp/233.50.201.182:5140 $浙江电信myds
+之江记录,http://guany.myds.me:25852/rtp/233.50.202.25:5140 $浙江电信myds
+竖屏,http://guany.myds.me:25852/rtp/233.50.201.224:5140 $浙江电信myds
+浙江之声广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.79:5140 $浙江电信myds
+浙江新闻广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.80:5140 $浙江电信myds
+经济频道广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.81:5140 $浙江电信myds
+音乐调频广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.82:5140 $浙江电信myds
+交通之声广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.83:5140 $浙江电信myds
+旅游之声广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.84:5140 $浙江电信myds
+城市之声广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.85:5140 $浙江电信myds
+民生资讯广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.86:5140 $浙江电信myds
+
+购物,#genre#
+好易购,http://guany.myds.me:25852/rtp/233.50.201.248:5140 $浙江电信myds
