@@ -25,7 +25,7 @@ CCTV164K,http://iku.sunnyli.link:4144/udp/239.252.220.237:5140 $江西电信sunn
 CCTV4欧洲,http://iku.sunnyli.link:4144/udp/239.252.219.192:5140 $江西电信sunnyli
 CCTV4美洲,http://iku.sunnyli.link:4144/udp/239.252.219.193:5140 $江西电信sunnyli
 CGTNEnglish,http://iku.sunnyli.link:4144/udp/239.252.219.194:5140 $江西电信sunnyli
-CGTN记录,http://iku.sunnyli.link:4144/udp/239.252.219.195:5140 $江西电信sunnyli
+CGTNDocumentary,http://iku.sunnyli.link:4144/udp/239.252.219.195:5140 $江西电信sunnyli
 CGTNEspañol,http://iku.sunnyli.link:4144/udp/239.252.219.196:5140 $江西电信sunnyli
 CGTNFrançais,http://iku.sunnyli.link:4144/udp/239.252.219.65:5140 $江西电信sunnyli
 CGTNРусский,http://iku.sunnyli.link:4144/udp/239.252.219.67:5140 $江西电信sunnyli
