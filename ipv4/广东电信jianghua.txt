@@ -57,7 +57,7 @@ CGTNالعربية,http://gs.jianghua.fun:8888/udp/239.253.43.200:5146 $广东�
 CCTV兵器科技,http://gs.jianghua.fun:8888/udp/239.253.43.18:5146 $广东电信jianghua
 CCTV第一剧场,http://gs.jianghua.fun:8888/udp/239.253.43.15:5146 $广东电信jianghua
 CCTV第一剧场,http://gs.jianghua.fun:8888/udp/239.253.43.28:5146 $广东电信jianghua
-CCTV电视指南[0*0],http://gs.jianghua.fun:8888/udp/239.253.43.19:5146 $广东电信jianghua
+CCTV电视指南,http://gs.jianghua.fun:8888/udp/239.253.43.19:5146 $广东电信jianghua
 CCTV风云剧场,http://gs.jianghua.fun:8888/udp/239.253.43.16:5146 $广东电信jianghua
 CCTV风云音乐,http://gs.jianghua.fun:8888/udp/239.253.43.6:5146 $广东电信jianghua
 CCTV风云足球,http://gs.jianghua.fun:8888/udp/239.253.43.14:5146 $广东电信jianghua
