@@ -1,0 +1,15 @@
+吉林电信tuyuannet,#genre#
+吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.108:5540 $吉林电信tuyuannet
+吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.211:5540 $吉林电信tuyuannet
+吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.213:5540 $吉林电信tuyuannet
+吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.214:5540 $吉林电信tuyuannet
+吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.216:5540 $吉林电信tuyuannet
+吉林教育,http://nas.tuyuannet.cn:8800/rtp/239.37.0.126:5540 $吉林电信tuyuannet
+CRT经济,http://nas.tuyuannet.cn:8800/rtp/239.37.0.099:5540 $吉林电信tuyuannet
+CRT汽车,http://nas.tuyuannet.cn:8800/rtp/239.37.0.100:5540 $吉林电信tuyuannet
+CRT市民,http://nas.tuyuannet.cn:8800/rtp/239.37.0.098:5540 $吉林电信tuyuannet
+CRT娱乐,http://nas.tuyuannet.cn:8800/rtp/239.37.0.097:5540 $吉林电信tuyuannet
+CRT综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.096:5540 $吉林电信tuyuannet
+图们1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.166:5540 $吉林电信tuyuannet
+新闻综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.250:5540 $吉林电信tuyuannet
+长影频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540 $吉林电信tuyuannet
