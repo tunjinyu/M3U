@@ -1,3 +1,5 @@
+中文 | [English](README_en.md)
+
 # 简介
 一个自用的电视直播源  
 A live TV source for own use  
@@ -6,7 +8,9 @@ A live TV source for own use
 **在开始使用前，请务必详读并同意用户协议，确保遵守相关规定。**
 
 <details>
+  
 <summary>展开查看用户协议及免责申明</summary>
+  
 在浏览此项目之前，请仔细阅读和理解以下声明：
   
 1. 若你不同意本声明的任何内容，请您立即停止，一旦开始使用，则表示你同意了。
@@ -20,6 +24,11 @@ A live TV source for own use
 </details>
 
 # raw list
+
+<details>
+  
+<summary>内容太长已折叠</summary>
+  
 CCTV-ipv4 
 ```bash
 https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB/CCTV-4.txt
@@ -84,3 +93,5 @@ https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB/%E6%B4%9B%E6%9D%89
 ```bash
 https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB/%E8%B4%AD%E7%89%A9-46.txt  
 ```
+
+</details>
