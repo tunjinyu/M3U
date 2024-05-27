@@ -247,7 +247,7 @@ CGTNالعربية,http://gs.jianghua.fun:8888/udp/239.253.43.200:5146 $广东�
 CCTV兵器科技,http://gs.jianghua.fun:8888/udp/239.253.43.18:5146 $广东电信jianghua
 CCTV第一剧场,http://gs.jianghua.fun:8888/udp/239.253.43.15:5146 $广东电信jianghua
 CCTV第一剧场,http://gs.jianghua.fun:8888/udp/239.253.43.28:5146 $广东电信jianghua
-CCTV电视指南[0*0],http://gs.jianghua.fun:8888/udp/239.253.43.19:5146 $广东电信jianghua
+CCTV电视指南,http://gs.jianghua.fun:8888/udp/239.253.43.19:5146 $广东电信jianghua
 CCTV风云剧场,http://gs.jianghua.fun:8888/udp/239.253.43.16:5146 $广东电信jianghua
 CCTV风云音乐,http://gs.jianghua.fun:8888/udp/239.253.43.6:5146 $广东电信jianghua
 CCTV风云足球,http://gs.jianghua.fun:8888/udp/239.253.43.14:5146 $广东电信jianghua
@@ -286,7 +286,7 @@ CCTV17,http://mail.petzhu.top:7000/rtp/239.254.201.120:8144 $河北电信petzhu
 CCTV4欧洲,http://mail.petzhu.top:7000/rtp/239.254.201.205:4220 $河北电信petzhu
 CCTV4美洲,http://mail.petzhu.top:7000/rtp/239.254.201.206:4220 $河北电信petzhu
 CGTNEnglish,http://mail.petzhu.top:7000/rtp/239.254.200.12:8056 $河北电信petzhu
-CGTN英文记录,http://mail.petzhu.top:7000/rtp/239.254.201.208:4220 $河北电信petzhu
+CGTNDocumentary,http://mail.petzhu.top:7000/rtp/239.254.201.208:4220 $河北电信petzhu
 CGTNEspañol,http://mail.petzhu.top:7000/rtp/239.254.201.209:4220 $河北电信petzhu
 CGTNFrançais,http://mail.petzhu.top:7000/rtp/239.254.201.210:4220 $河北电信petzhu
 CGTNالعربية,http://mail.petzhu.top:7000/rtp/239.254.201.211:4220 $河北电信petzhu
@@ -485,7 +485,7 @@ CCTV164K,http://iku.sunnyli.link:4144/udp/239.252.220.237:5140 $江西电信sunn
 CCTV4欧洲,http://iku.sunnyli.link:4144/udp/239.252.219.192:5140 $江西电信sunnyli
 CCTV4美洲,http://iku.sunnyli.link:4144/udp/239.252.219.193:5140 $江西电信sunnyli
 CGTNEnglish,http://iku.sunnyli.link:4144/udp/239.252.219.194:5140 $江西电信sunnyli
-CGTN记录,http://iku.sunnyli.link:4144/udp/239.252.219.195:5140 $江西电信sunnyli
+CGTNDocumentary,http://iku.sunnyli.link:4144/udp/239.252.219.195:5140 $江西电信sunnyli
 CGTNEspañol,http://iku.sunnyli.link:4144/udp/239.252.219.196:5140 $江西电信sunnyli
 CGTNFrançais,http://iku.sunnyli.link:4144/udp/239.252.219.65:5140 $江西电信sunnyli
 CGTNРусский,http://iku.sunnyli.link:4144/udp/239.252.219.67:5140 $江西电信sunnyli
