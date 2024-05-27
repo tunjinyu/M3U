@@ -1,0 +1,22 @@
+Rádio ADBuraca,https://stream-172.zeno.fm/68ubnd9br3quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2OHVibmQ5YnIzcXV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjcwWFcwRWlLUy02SzR4OGxIQ2otQnciLCJpYXQiOjE3MTYzMzQ4NDcsImV4cCI6MTcxNjMzNDkwN30.tEzto6PABGXxVYEzV1krhYK5_2J258YFAKKz95q8jW0
+house music radio,https://stream-161.zeno.fm/ubrbwq17qy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YnJid3ExN3F5OHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZ4Y3lLNm9HU0RDcnoxa1V1M2E2ZnciLCJpYXQiOjE3MTYzMzQ5NzQsImV4cCI6MTcxNjMzNTAzNH0.zDfGrFdZQ_lCrN4P_FxsQIhPbbTWaJnc0PbFUPfUvrQ
+
+天津文艺广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.171:5002 $天津联通hssvm
+天津经济广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.172:5002 $天津联通hssvm
+天津新闻广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.173:5002 $天津联通hssvm
+天津生活广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.174:5002 $天津联通hssvm
+天津交通广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.175:5002 $天津联通hssvm
+天津相声广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.176:5002 $天津联通hssvm
+天津小说广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.177:5002 $天津联通hssvm
+天津滨海广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.178:5002 $天津联通hssvm
+天津音乐广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.179:5002 $天津联通hssvm
+天津农村广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.180:5002 $天津联通hssvm
+
+浙江之声广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.79:5140 $浙江电信myds
+浙江新闻广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.80:5140 $浙江电信myds
+经济频道广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.81:5140 $浙江电信myds
+音乐调频广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.82:5140 $浙江电信myds
+交通之声广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.83:5140 $浙江电信myds
+旅游之声广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.84:5140 $浙江电信myds
+城市之声广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.85:5140 $浙江电信myds
+民生资讯广播[0*0],http://guany.myds.me:25852/rtp/233.50.201.86:5140 $浙江电信myds
