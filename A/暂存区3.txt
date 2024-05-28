@@ -1,0 +1,20 @@
+0100-中国联通CUCC
+0200-中国移动CMCC
+0300-中国电信CTCC
+https://raw.githubusercontent.com/tunjinyu/M3U/main/json/lei-zyplayer.json
+https://gitdl.cn/https://raw.githubusercontent.com/tunjinyu/M3U/main/json/lei-zyplayer-jiasu.json
+
+[1920*1080]
+\r\ncopy to clip\r\n
+\r  --  $北京电信226
+.*北京电信226\n
+CCTV,#genre#
+高清
+BesTv
+
+CGTNEnglish,       CGTN,   CGTN英语,     CGTN新闻,
+CGTNEspañol     CGTN西班牙语
+CGTNFrançais    CGTN法语
+CGTNالعربية        CGTN阿拉伯语
+CGTNРусский    CGTN俄语
+CGTNDocumentary     CGTN纪录
