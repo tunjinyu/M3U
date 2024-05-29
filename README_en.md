@@ -93,6 +93,10 @@ Shopping Channel
 ```bash
 https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB/16.%E8%B4%AD%E7%89%A9-46.txt
 ```
+IHOT 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB/IHOT.txt
+```
 
 </details>
 
@@ -173,6 +177,27 @@ https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/15.%E6%B4
 Shopping Channel 
 ```bash
 https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/16.%E8%B4%AD%E7%89%A9-46.txt
+```
+IHOT 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/IHOT.txt
+```
+
+</details>
+
+# For tvbox
+
+<details>
+  
+<summary>Expand view</summary>
+
+lei-tvbox.txt
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/json/lei-tvbox.txt
+```
+lei-tvbox.txt CNspeed+++
+```bash
+https://gitdl.cn/https://raw.githubusercontent.com/tunjinyu/M3U/main/json/lei-tvbox.txt
 ```
 
 </details>
