@@ -1095,28 +1095,6 @@ saveplaypos=0
 545*file*http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540
 545*title*长影频道
 546*file*http://
-546*title*====== jxtvcn,#genre# ======
-547*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=171634170064712&token=3e08573500f88b39f49176efdba4569c
-547*title*江西卫视
-548*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=171634173333261&token=0814871720eb17edc76f6689db35b7a4
-548*title*江西都市
-549*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=171634177290301&token=78ca5d0b426dbef4590c933ba96be5fc
-549*title*江西经济生活
-550*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&t=171634181021984&token=5e043518e2f5ab168fbcd92cc4e50da6
-550*title*江西影视旅游
-551*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?source=pc&t=171634183521342&token=486cebbea50f9f166bd89bc7ad8b588f
-551*title*江西公共农业
-552*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?source=pc&t=171634185630218&token=644fe2a84e16f924f50b7a8fefc782ca
-552*title*江西少儿
-553*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&t=171634187966044&token=48afd94dc6f2f73eb27add0241daeeed
-553*title*江西新闻
-554*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?source=pc&t=171634189639584&token=fee5ef472b14b3a10b4c14df240ce1da
-554*title*江西移动电视
-555*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?source=pc&t=171634191657465&token=5fa6458eef14a31fb7e34b098a9cbbc5
-555*title*江西陶瓷
-556*file*https://yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8?source=pc&t=171634194098458&token=fb2fa47bb182c3c14b756c8e453663e5
-556*title*江西风尚购物
-557*file*http://
 557*title*====== 江西电信sunnyli,#genre# ======
 558*file*http://iku.sunnyli.link:4144/udp/239.252.220.47:5140
 558*title*昌飞航空
