@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分组",ADB TV
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8
+#EXTINF:-1 group-title="未分组",ADB TV
+https://streamer-a01.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w337824150.m3u8
+#EXTINF:-1 group-title="未分组",SpiritTV Music
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="未分组",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="未分组",Famatv
+https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
+#EXTINF:-1 group-title="未分组",Rádio Sines
+https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+#EXTINF:-1 group-title="未分组",This is Bulgaria HD (1080p)
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 group-title="未分组",NHK World Japan
+http://home.huaz.site:4000/udp/239.21.1.98:5002

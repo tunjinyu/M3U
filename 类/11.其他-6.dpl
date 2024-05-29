@@ -1,0 +1,53 @@
+﻿DAUMPLAYLIST
+playname=http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
+topindex=0
+saveplaypos=0
+1*file*http://
+1*title*====== HLJ-1a0b-4001,#genre# ======
+2*file*http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225713/index.m3u8
+2*title*求索记录
+3*file*http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225673/index.m3u8
+3*title*纪实人文
+4*file*http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225670/index.m3u8
+4*title*纪实科教
+5*file*http://
+5*title*====== HLJ-1a01-7005,#genre# ======
+6*file*http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+6*title*纪实人文
+7*file*http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+7*title*纪实科教
+8*file*http://
+8*title*====== hubei-4c0a-11,#genre# ======
+9*file*http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+9*title*CHC动作电影
+10*file*http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+10*title*CHC家庭影院
+11*file*http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+11*title*CHC影迷电影
+12*file*http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?m3u8_level=2
+12*title*茶频道
+13*file*http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
+13*title*金鹰纪实
+14*file*http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
+14*title*快乐垂钓
+15*file*http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?m3u8_level=2
+15*title*梨园频道
+16*file*http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?m3u8_level=2
+16*title*文物宝库
+17*file*http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?m3u8_level=2
+17*title*武术世界
+18*file*http://
+18*title*====== hainan-5e00-1e,#genre# ======
+19*file*http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/1.m3u8
+19*title*纪实人文
+20*file*http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+20*title*4KUHD
+21*file*http://
+21*title*====== hainan-5e01-20,#genre# ======
+22*file*http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+22*title*华数0459-4K
+22*played*1
+23*file*http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
+23*title*金鹰纪实
+24*file*http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8?IAS
+24*title*纪实人文

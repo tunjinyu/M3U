@@ -1,0 +1,713 @@
+#EXTM3U
+#EXTINF:-1 group-title="北京电信226",金鹰纪实
+http://1.203.76.226:7788/udp/225.1.8.31:8156
+#EXTINF:-1 group-title="北京电信226",纪实人文
+http://1.203.76.226:7788/udp/225.1.8.53:8060
+#EXTINF:-1 group-title="北京电信226",纪实科教
+http://1.203.76.226:7788/udp/225.1.8.105:8002
+#EXTINF:-1 group-title="北京电信226",快乐垂钓
+http://1.203.76.226:7788/udp/225.1.8.71:8002
+#EXTINF:-1 group-title="北京电信226",茶频道
+http://1.203.76.226:7788/udp/225.1.8.72:8002
+#EXTINF:-1 group-title="北京电信226",华数测试4K
+http://1.203.76.226:7788/udp/225.1.8.80:2000
+#EXTINF:-1 group-title="北京联通15",茶频道
+http://111.192.176.15:8012/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通15",华数测试4K
+http://111.192.176.15:8012/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通15",纪实科教
+http://111.192.176.15:8012/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通15",纪实人文
+http://111.192.176.15:8012/rtp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通15",金鹰纪实
+http://111.192.176.15:8012/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通15",睛彩广场舞
+http://111.192.176.15:8012/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通15",睛彩竞技
+http://111.192.176.15:8012/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通15",睛彩篮球
+http://111.192.176.15:8012/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通15",睛彩青少
+http://111.192.176.15:8012/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通15",快乐垂钓
+http://111.192.176.15:8012/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通141",茶频道
+http://111.193.234.141:8888/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通141",华数测试4K
+http://111.193.234.141:8888/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通141",纪实科教
+http://111.193.234.141:8888/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通141",纪实人文
+http://111.193.234.141:8888/rtp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通141",金鹰纪实
+http://111.193.234.141:8888/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通141",睛彩广场舞
+http://111.193.234.141:8888/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通141",睛彩竞技
+http://111.193.234.141:8888/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通141",睛彩篮球
+http://111.193.234.141:8888/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通141",睛彩羽毛球
+http://111.193.234.141:8888/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通141",快乐垂钓
+http://111.193.234.141:8888/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通255",茶频道
+http://123.120.109.255:4022/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通255",华数测试4K[
+http://123.120.109.255:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通255",纪实科教
+http://123.120.109.255:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通255",纪实人文
+http://123.120.109.255:4022/rtp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通255",金鹰纪实
+http://123.120.109.255:4022/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通255",睛彩广场舞
+http://123.120.109.255:4022/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通255",睛彩竞技
+http://123.120.109.255:4022/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通255",睛彩篮球
+http://123.120.109.255:4022/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通255",睛彩羽毛球
+http://123.120.109.255:4022/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通255",快乐垂钓
+http://123.120.109.255:4022/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通sweetown",茶频道
+http://sweetown.fun:4000/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通sweetown",华数测试4K
+http://sweetown.fun:4000/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通sweetown",纪实科教
+http://sweetown.fun:4000/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通sweetown",纪实人文
+http://sweetown.fun:4000/rtp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通sweetown",金鹰纪实
+http://sweetown.fun:4000/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通sweetown",睛彩广场舞
+http://sweetown.fun:4000/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通sweetown",睛彩竞技
+http://sweetown.fun:4000/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通sweetown",睛彩篮球
+http://sweetown.fun:4000/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通sweetown",睛彩羽毛球
+http://sweetown.fun:4000/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通sweetown",快乐垂钓
+http://sweetown.fun:4000/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通zzmd",茶频道
+http://cn.zzmd.fun:8888/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通zzmd",华数测试4K
+http://cn.zzmd.fun:8888/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通zzmd",纪实科教
+http://cn.zzmd.fun:8888/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通zzmd",纪实人文
+http://cn.zzmd.fun:8888/rtp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通zzmd",金鹰纪实
+http://cn.zzmd.fun:8888/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通zzmd",睛彩广场舞
+http://cn.zzmd.fun:8888/rtp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通zzmd",睛彩竞技
+http://cn.zzmd.fun:8888/rtp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通zzmd",睛彩篮球
+http://cn.zzmd.fun:8888/rtp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通zzmd",睛彩羽毛球
+http://cn.zzmd.fun:8888/rtp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通zzmd",快乐垂钓
+http://cn.zzmd.fun:8888/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="甘肃电信38",IPTV体育
+http://42.94.210.38:9000/udp/239.255.30.115:8231
+#EXTINF:-1 group-title="甘肃电信38",东方财经
+http://42.94.210.38:9000/udp/239.255.29.43:8231
+#EXTINF:-1 group-title="甘肃电信38",东方购物
+http://42.94.210.38:9000/udp/239.255.29.42:8231
+#EXTINF:-1 group-title="甘肃电信38",动漫秀场
+http://42.94.210.38:9000/udp/239.255.29.16:8231
+#EXTINF:-1 group-title="甘肃电信38",都市剧场
+http://42.94.210.38:9000/udp/239.255.29.41:8231
+#EXTINF:-1 group-title="甘肃电信38",法治天地
+http://42.94.210.38:9000/udp/239.255.29.24:8231
+#EXTINF:-1 group-title="甘肃电信38",红色谍战剧场
+http://42.94.210.38:9000/udp/239.255.30.166:8231
+#EXTINF:-1 group-title="甘肃电信38",茶频道
+http://42.94.210.38:9000/udp/239.255.29.44:8231
+#EXTINF:-1 group-title="甘肃电信38",华数测试4K
+http://42.94.210.38:9000/udp/239.255.30.76:8231
+#EXTINF:-1 group-title="甘肃电信38",欢笑剧场
+http://42.94.210.38:9000/udp/239.255.29.19:8231
+#EXTINF:-1 group-title="甘肃电信38",欢笑剧场4K
+http://42.94.210.38:9000/udp/239.255.29.7:8231
+#EXTINF:-1 group-title="甘肃电信38",纪实人文
+http://42.94.210.38:9000/udp/239.255.30.176:8231
+#EXTINF:-1 group-title="甘肃电信38",金色学堂
+http://42.94.210.38:9000/udp/239.255.29.23:8231
+#EXTINF:-1 group-title="甘肃电信38",金鹰纪实
+http://42.94.210.38:9000/udp/239.255.29.39:8231
+#EXTINF:-1 group-title="甘肃电信38",快乐垂钓
+http://42.94.210.38:9000/udp/239.255.29.26:8231
+#EXTINF:-1 group-title="甘肃电信38",乐游
+http://42.94.210.38:9000/udp/239.255.29.17:8231
+#EXTINF:-1 group-title="甘肃电信38",魅力足球
+http://42.94.210.38:9000/udp/239.255.30.147:8231
+#EXTINF:-1 group-title="甘肃电信38",生活时尚
+http://42.94.210.38:9000/udp/239.255.29.18:8231
+#EXTINF:-1 group-title="甘肃电信38",体育
+http://42.94.210.38:9000/udp/239.255.29.31:8231
+#EXTINF:-1 group-title="甘肃电信38",游戏风云
+http://42.94.210.38:9000/udp/239.255.29.20:8231
+#EXTINF:-1 group-title="甘肃电信38",羽毛球
+http://42.94.210.38:9000/udp/239.255.29.31:8231
+#EXTINF:-1 group-title="广东电信jianghua",9屏
+http://gs.jianghua.fun:8888/udp/239.77.1.234:5146
+#EXTINF:-1 group-title="广东电信jianghua",CHC影迷电影
+http://gs.jianghua.fun:8888/udp/239.77.0.27:5146
+#EXTINF:-1 group-title="广东电信jianghua",IPTV体育
+http://gs.jianghua.fun:8888/udp/239.77.0.176:5146
+#EXTINF:-1 group-title="广东电信jianghua",IPTV体育
+http://gs.jianghua.fun:8888/udp/239.77.1.116:5146
+#EXTINF:-1 group-title="广东电信jianghua",茶频道
+http://gs.jianghua.fun:8888/udp/239.77.0.15:5146
+#EXTINF:-1 group-title="广东电信jianghua",纪实人文
+http://gs.jianghua.fun:8888/udp/239.77.0.147:5146
+#EXTINF:-1 group-title="广东电信jianghua",纪实人文
+http://gs.jianghua.fun:8888/udp/239.77.1.216:5146
+#EXTINF:-1 group-title="广东电信jianghua",金鹰纪实
+http://gs.jianghua.fun:8888/udp/239.77.1.217:5146
+#EXTINF:-1 group-title="广东电信jianghua",快乐垂钓
+http://gs.jianghua.fun:8888/udp/239.77.0.145:5146
+#EXTINF:-1 group-title="广东电信jianghua",求索记录
+http://gs.jianghua.fun:8888/udp/239.77.0.21:5146
+#EXTINF:-1 group-title="广东电信jianghua",天元围棋
+http://gs.jianghua.fun:8888/udp/239.253.43.98:5146
+#EXTINF:-1 group-title="广东电信jianghua",中国交通
+http://gs.jianghua.fun:8888/udp/239.77.1.249:5146
+#EXTINF:-1 group-title="河北电信petzhu",9屏
+http://mail.petzhu.top:7000/rtp/239.254.200.248:6000
+#EXTINF:-1 group-title="河北电信petzhu",茶频道
+http://mail.petzhu.top:7000/rtp/239.254.200.228:6258
+#EXTINF:-1 group-title="河北电信petzhu",东方财经
+http://mail.petzhu.top:7000/rtp/239.254.201.181:7214
+#EXTINF:-1 group-title="河北电信petzhu",动漫秀场
+http://mail.petzhu.top:7000/rtp/239.254.201.165:6358
+#EXTINF:-1 group-title="河北电信petzhu",都市剧场
+http://mail.petzhu.top:7000/rtp/239.254.201.167:6360
+#EXTINF:-1 group-title="河北电信petzhu",法治天地
+http://mail.petzhu.top:7000/rtp/239.254.201.183:7226
+#EXTINF:-1 group-title="河北电信petzhu",欢笑剧场4k
+http://mail.petzhu.top:7000/rtp/239.254.201.164:6355
+#EXTINF:-1 group-title="河北电信petzhu",纪实科教
+http://mail.petzhu.top:7000/rtp/239.254.200.188:6311
+#EXTINF:-1 group-title="河北电信petzhu",纪实人文
+http://mail.petzhu.top:7000/rtp/239.254.200.58:8060
+#EXTINF:-1 group-title="河北电信petzhu",金色学堂
+http://mail.petzhu.top:7000/rtp/239.254.201.182:7227
+#EXTINF:-1 group-title="河北电信petzhu",金鹰纪实
+http://mail.petzhu.top:7000/rtp/239.254.200.189:6293
+#EXTINF:-1 group-title="河北电信petzhu",快乐垂钓
+http://mail.petzhu.top:7000/rtp/239.254.200.229:6257
+#EXTINF:-1 group-title="河北电信petzhu",梨园
+http://mail.petzhu.top:7000/rtp/239.254.201.231:7228
+#EXTINF:-1 group-title="河北电信petzhu",求索纪录
+http://mail.petzhu.top:7000/rtp/239.254.201.176:7221
+#EXTINF:-1 group-title="河北电信petzhu",全纪实
+http://mail.petzhu.top:7000/rtp/239.254.201.200:6356
+#EXTINF:-1 group-title="河北电信petzhu",生活时尚
+http://mail.petzhu.top:7000/rtp/239.254.201.166:6359
+#EXTINF:-1 group-title="河北电信petzhu",天元围棋
+http://mail.petzhu.top:7000/rtp/239.254.201.156:6270
+#EXTINF:-1 group-title="河北电信petzhu",文物宝库
+http://mail.petzhu.top:7000/rtp/239.254.201.227:7230
+#EXTINF:-1 group-title="河北电信petzhu",武术世界
+http://mail.petzhu.top:7000/rtp/239.254.201.224:7229
+#EXTINF:-1 group-title="河北电信petzhu",游戏风云
+http://mail.petzhu.top:7000/rtp/239.254.201.163:6354
+#EXTINF:-1 group-title="河北电信petzhu",羽毛球专区
+http://mail.petzhu.top:7000/rtp/239.254.201.214:7264
+#EXTINF:-1 group-title="河北电信petzhu",中华美食
+http://mail.petzhu.top:7000/rtp/239.254.201.189:7171
+#EXTINF:-1 group-title="河南电信250",东方财经
+http://1.196.152.250:2000/rtp/239.16.10.235:2000
+#EXTINF:-1 group-title="河南电信250",东方财经
+http://1.196.152.250:2000/rtp/239.16.20.64:10640
+#EXTINF:-1 group-title="河南电信250",动漫秀场
+http://1.196.152.250:2000/rtp/239.16.10.234:2000
+#EXTINF:-1 group-title="河南电信250",动漫秀场
+http://1.196.152.250:2000/rtp/239.16.20.40:10400
+#EXTINF:-1 group-title="河南电信250",都市剧场
+http://1.196.152.250:2000/rtp/239.16.10.232:2000
+#EXTINF:-1 group-title="河南电信250",都市剧场
+http://1.196.152.250:2000/rtp/239.16.20.38:10380
+#EXTINF:-1 group-title="河南电信250",法治天地
+http://1.196.152.250:2000/rtp/239.16.20.156:11560
+#EXTINF:-1 group-title="河南电信250",茶频道
+http://1.196.152.250:2000/rtp/239.16.20.68:10680
+#EXTINF:-1 group-title="河南电信250",欢笑剧场
+http://1.196.152.250:2000/rtp/239.16.10.233:2000
+#EXTINF:-1 group-title="河南电信250",欢笑剧场
+http://1.196.152.250:2000/rtp/239.16.20.39:10390
+#EXTINF:-1 group-title="河南电信250",极速汽车
+http://1.196.152.250:2000/rtp/239.16.20.113:11130
+#EXTINF:-1 group-title="河南电信250",纪实人文
+http://1.196.152.250:2000/rtp/239.16.10.190:2000
+#EXTINF:-1 group-title="河南电信250",金色学堂
+http://1.196.152.250:2000/rtp/239.16.20.115:11150
+#EXTINF:-1 group-title="河南电信250",金鹰纪实
+http://1.196.152.250:2000/rtp/239.16.20.153:11530
+#EXTINF:-1 group-title="河南电信250",快乐垂钓
+http://1.196.152.250:2000/rtp/239.16.20.67:10670
+#EXTINF:-1 group-title="河南电信250",乐游
+http://1.196.152.250:2000/rtp/239.16.20.111:11110
+#EXTINF:-1 group-title="河南电信250",生活时尚
+http://1.196.152.250:2000/rtp/239.16.20.114:11140
+#EXTINF:-1 group-title="河南电信250",游戏风云
+http://1.196.152.250:2000/rtp/239.16.20.112:11120
+#EXTINF:-1 group-title="河南电信250",中华特产
+http://1.196.152.250:2000/rtp/239.16.20.132:11320
+#EXTINF:-1 group-title="黑龙江ottrrs",纪实科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="黑龙江ottrrs",纪实人文
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="湖北电信myds",CHC影迷电影
+http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088
+#EXTINF:-1 group-title="湖北电信myds",CHC动作电影
+http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094
+#EXTINF:-1 group-title="湖北电信myds",CHC家庭影院
+http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100
+#EXTINF:-1 group-title="湖北电信myds",华数测试4K
+http://www.hiliu.myds.me:8088/rtp/239.69.1.141:10482
+#EXTINF:-1 group-title="湖北电信myds",梨园频道
+http://www.hiliu.myds.me:8088/rtp/239.69.1.33:9838
+#EXTINF:-1 group-title="湖北电信myds",武术世界
+http://www.hiliu.myds.me:8088/rtp/239.69.1.47:9922
+#EXTINF:-1 group-title="湖北电信myds",快乐垂钓
+http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
+#EXTINF:-1 group-title="湖北电信myds",茶频道
+http://www.hiliu.myds.me:8088/rtp/239.69.1.144:10500
+#EXTINF:-1 group-title="湖北电信myds",金鹰纪实
+http://www.hiliu.myds.me:8088/rtp/239.69.1.109:10292
+#EXTINF:-1 group-title="湖南联通192",谍战剧场
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="湖南联通192",东方影视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dfyshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="湖南联通192",全球大片
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="湖南联通192",五星体育
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="吉林电信tuyuannet",CHC动作电影
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",CHC高清电影
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",CHC家庭影院
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",9屏
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.149:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",动漫秀场
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.242:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",都市剧场
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.241:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",法制天地
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.238:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",茶频道
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.245:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",纪实人文
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.152:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",金色学堂
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.239:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",金鹰纪实
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.161:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",快乐垂钓
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.244:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",乐游
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.236:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",梨园频道
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.088:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",晴彩竞技
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.215:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",晴彩广场舞
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.223:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",生活时尚
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.240:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",游戏风云
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.243:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",中国交通
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.226:5540
+#EXTINF:-1 group-title="江西电信sunnyli",CHC高清电影
+http://iku.sunnyli.link:4144/udp/239.252.219.83:5140
+#EXTINF:-1 group-title="江西电信sunnyli",CHC家庭影院
+http://iku.sunnyli.link:4144/udp/239.252.219.84:5140
+#EXTINF:-1 group-title="江西电信sunnyli",CHC动作电影
+http://iku.sunnyli.link:4144/udp/239.252.219.85:5140
+#EXTINF:-1 group-title="江西电信sunnyli",茶频道
+http://iku.sunnyli.link:4144/udp/239.252.220.160:5140
+#EXTINF:-1 group-title="江西电信sunnyli",电影测试4K
+http://iku.sunnyli.link:4144/udp/239.252.220.212:5140
+#EXTINF:-1 group-title="江西电信sunnyli",东方财经
+http://iku.sunnyli.link:4144/udp/239.252.219.57:5140
+#EXTINF:-1 group-title="江西电信sunnyli",都市剧场
+http://iku.sunnyli.link:4144/udp/239.252.219.225:5140
+#EXTINF:-1 group-title="江西电信sunnyli",欢笑剧场
+http://iku.sunnyli.link:4144/udp/239.252.219.224:5140
+#EXTINF:-1 group-title="江西电信sunnyli",纪实科教
+http://iku.sunnyli.link:4144/udp/239.252.220.245:5140
+#EXTINF:-1 group-title="江西电信sunnyli",纪实人文
+http://iku.sunnyli.link:4144/udp/239.252.219.227:5140
+#EXTINF:-1 group-title="江西电信sunnyli",金鹰纪实
+http://iku.sunnyli.link:4144/udp/239.252.220.155:5140
+#EXTINF:-1 group-title="江西电信sunnyli",精彩影视
+http://iku.sunnyli.link:4144/udp/239.252.220.223:5140
+#EXTINF:-1 group-title="江西电信sunnyli",快乐垂钓
+http://iku.sunnyli.link:4144/udp/239.252.220.177:5140
+#EXTINF:-1 group-title="江西电信sunnyli",梨园频道
+http://iku.sunnyli.link:4144/udp/239.252.220.179:5140
+#EXTINF:-1 group-title="江西电信sunnyli",求索记录
+http://iku.sunnyli.link:4144/udp/239.252.220.224:5140
+#EXTINF:-1 group-title="江西电信sunnyli",文物宝库
+http://iku.sunnyli.link:4144/udp/239.252.220.158:5140
+#EXTINF:-1 group-title="江西电信sunnyli",武术世界
+http://iku.sunnyli.link:4144/udp/239.252.220.180:5140
+#EXTINF:-1 group-title="江西电信sunnyli",IPTV体育
+http://iku.sunnyli.link:4144/udp/239.252.220.211:5140
+#EXTINF:-1 group-title="辽宁联通97",动漫秀场
+http://175.147.113.97:8888/rtp/232.0.0.128:1234
+#EXTINF:-1 group-title="辽宁联通97",都市剧场
+http://175.147.113.97:8888/rtp/232.0.0.149:1234
+#EXTINF:-1 group-title="辽宁联通97",法治天地
+http://175.147.113.97:8888/rtp/232.0.0.134:1234
+#EXTINF:-1 group-title="辽宁联通97",欢笑剧场4K
+http://175.147.113.97:8888/rtp/232.0.0.98:1234
+#EXTINF:-1 group-title="辽宁联通97",纪实科教
+http://175.147.113.97:8888/rtp/232.0.0.162:1234
+#EXTINF:-1 group-title="辽宁联通97",纪实人文
+http://175.147.113.97:8888/rtp/232.0.0.132:1234
+#EXTINF:-1 group-title="辽宁联通97",家庭理财
+http://175.147.113.97:8888/rtp/232.0.0.39:1234
+#EXTINF:-1 group-title="辽宁联通97",金色学堂
+http://175.147.113.97:8888/rtp/232.0.0.133:1234
+#EXTINF:-1 group-title="辽宁联通97",金鹰纪实
+http://175.147.113.97:8888/rtp/232.0.0.163:1234
+#EXTINF:-1 group-title="辽宁联通97",乐游
+http://175.147.113.97:8888/rtp/232.0.0.108:1234
+#EXTINF:-1 group-title="辽宁联通97",晴彩广场舞
+http://175.147.113.97:8888/rtp/232.0.0.64:1234
+#EXTINF:-1 group-title="辽宁联通97",晴彩竞技
+http://175.147.113.97:8888/rtp/232.0.0.19:1234
+#EXTINF:-1 group-title="辽宁联通97",晴彩篮球
+http://175.147.113.97:8888/rtp/232.0.0.24:1234
+#EXTINF:-1 group-title="辽宁联通97",晴彩青少
+http://175.147.113.97:8888/rtp/232.0.0.62:1234
+#EXTINF:-1 group-title="辽宁联通97",生活时尚
+http://175.147.113.97:8888/rtp/232.0.0.107:1234
+#EXTINF:-1 group-title="辽宁联通97",新动漫
+http://175.147.113.97:8888/rtp/232.0.0.36:1234
+#EXTINF:-1 group-title="辽宁联通97",游戏风云
+http://175.147.113.97:8888/rtp/232.0.0.127:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",动漫秀场
+http://gang.pecmd.cn:6000/rtp/232.0.0.128:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",都市剧场
+http://gang.pecmd.cn:6000/rtp/232.0.0.149:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",法治天地
+http://gang.pecmd.cn:6000/rtp/232.0.0.134:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",欢笑剧场4K
+http://gang.pecmd.cn:6000/rtp/232.0.0.98:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",纪实科教
+http://gang.pecmd.cn:6000/rtp/232.0.0.162:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",纪实人文
+http://gang.pecmd.cn:6000/rtp/232.0.0.132:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",家庭理财
+http://gang.pecmd.cn:6000/rtp/232.0.0.39:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",金色学堂
+http://gang.pecmd.cn:6000/rtp/232.0.0.133:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",金鹰纪实
+http://gang.pecmd.cn:6000/rtp/232.0.0.163:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",乐游
+http://gang.pecmd.cn:6000/rtp/232.0.0.108:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",晴彩广场舞
+http://gang.pecmd.cn:6000/rtp/232.0.0.64:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",晴彩竞技
+http://gang.pecmd.cn:6000/rtp/232.0.0.19:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",晴彩篮球
+http://gang.pecmd.cn:6000/rtp/232.0.0.24:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",晴彩青少
+http://gang.pecmd.cn:6000/rtp/232.0.0.62:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",生活时尚
+http://gang.pecmd.cn:6000/rtp/232.0.0.107:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",新动漫
+http://gang.pecmd.cn:6000/rtp/232.0.0.36:1234
+#EXTINF:-1 group-title="辽宁联通pecmd",游戏风云
+http://gang.pecmd.cn:6000/rtp/232.0.0.127:1234
+#EXTINF:-1 group-title="内蒙联通164",金鹰纪实
+http://1.25.12.164:9000/udp/239.125.2.106:4134
+#EXTINF:-1 group-title="内蒙联通164",IPTV5+
+http://1.25.12.164:9000/udp/239.125.1.25:5000
+#EXTINF:-1 group-title="山东电信huaz",9屏
+http://home.huaz.site:4000/udp/239.21.1.203:5002
+#EXTINF:-1 group-title="山东电信huaz",CHC动作电影
+http://home.huaz.site:4000/udp/239.21.2.128:5002
+#EXTINF:-1 group-title="山东电信huaz",CHC家庭影院
+http://home.huaz.site:4000/udp/239.21.2.126:5002
+#EXTINF:-1 group-title="山东电信huaz",CHC影迷电影
+http://home.huaz.site:4000/udp/239.21.2.127:5002
+#EXTINF:-1 group-title="NHK",东方财经
+http://home.huaz.site:4000/udp/239.21.2.108:5002
+#EXTINF:-1 group-title="NHK",动漫秀场
+http://home.huaz.site:4000/udp/239.21.2.92:5002
+#EXTINF:-1 group-title="NHK",都市剧场
+http://home.huaz.site:4000/udp/239.21.2.90:5002
+#EXTINF:-1 group-title="NHK",法治天地
+http://home.huaz.site:4000/udp/239.21.2.105:5002
+#EXTINF:-1 group-title="NHK",海洋频道
+http://home.huaz.site:4000/udp/239.21.2.119:5002
+#EXTINF:-1 group-title="NHK",茶频道
+http://home.huaz.site:4000/udp/239.21.2.110:5002
+#EXTINF:-1 group-title="NHK",纪实科教
+http://home.huaz.site:4000/udp/239.21.1.172:5002
+#EXTINF:-1 group-title="NHK",纪实人文
+http://home.huaz.site:4000/udp/239.21.1.171:5002
+#EXTINF:-1 group-title="NHK",金色学堂
+http://home.huaz.site:4000/udp/239.21.2.102:5002
+#EXTINF:-1 group-title="NHK",金鹰纪实
+http://home.huaz.site:4000/udp/239.21.1.170:5002
+#EXTINF:-1 group-title="NHK",精彩影视
+http://home.huaz.site:4000/udp/239.21.2.91:5002
+#EXTINF:-1 group-title="NHK",快乐垂钓
+http://home.huaz.site:4000/udp/239.21.2.97:5002
+#EXTINF:-1 group-title="NHK",乐游
+http://home.huaz.site:4000/udp/239.21.2.104:5002
+#EXTINF:-1 group-title="NHK",梨园频道
+http://home.huaz.site:4000/udp/239.21.2.101:5002
+#EXTINF:-1 group-title="NHK",魅力足球
+http://home.huaz.site:4000/udp/239.21.2.95:5002
+#EXTINF:-1 group-title="NHK",生活时尚
+http://home.huaz.site:4000/udp/239.21.2.103:5002
+#EXTINF:-1 group-title="NHK",文物宝库
+http://home.huaz.site:4000/udp/239.21.2.109:5002
+#EXTINF:-1 group-title="NHK",武术世界
+http://home.huaz.site:4000/udp/239.21.2.96:5002
+#EXTINF:-1 group-title="NHK",游戏风云
+http://home.huaz.site:4000/udp/239.21.2.107:5002
+#EXTINF:-1 group-title="NHK",中国交通
+http://home.huaz.site:4000/udp/239.21.1.115:5002
+#EXTINF:-1 group-title="NHK",重庆汽摩
+http://home.huaz.site:4000/udp/239.21.2.142:5002
+#EXTINF:-1 group-title="山西电信154",茶频道
+http://1.70.35.154:8083/udp/239.1.1.77:8077
+#EXTINF:-1 group-title="山西电信154",东方财经
+http://1.70.35.154:8083/udp/239.1.1.85:8085
+#EXTINF:-1 group-title="山西电信154",动漫秀场
+http://1.70.35.154:8083/udp/239.1.1.80:8080
+#EXTINF:-1 group-title="山西电信154",都市剧场
+http://1.70.35.154:8083/udp/239.1.1.81:8081
+#EXTINF:-1 group-title="山西电信154",法治天地
+http://1.70.35.154:8083/udp/239.1.1.79:8079
+#EXTINF:-1 group-title="山西电信154",纪实人文
+http://1.70.35.154:8083/udp/239.1.1.45:8045
+#EXTINF:-1 group-title="山西电信154",金色学堂
+http://1.70.35.154:8083/udp/239.1.1.82:8082
+#EXTINF:-1 group-title="山西电信154",金鹰纪实
+http://1.70.35.154:8083/udp/239.1.1.63:8063
+#EXTINF:-1 group-title="山西电信154",快乐垂钓
+http://1.70.35.154:8083/udp/239.1.1.86:8086
+#EXTINF:-1 group-title="山西电信154",乐游
+http://1.70.35.154:8083/udp/239.1.1.84:8084
+#EXTINF:-1 group-title="山西电信154",魅力足球
+http://1.70.35.154:8083/udp/239.1.1.75:8075
+#EXTINF:-1 group-title="山西电信154",生活时尚
+http://1.70.35.154:8083/udp/239.1.1.76:8076
+#EXTINF:-1 group-title="山西电信154",游戏风云
+http://1.70.35.154:8083/udp/239.1.1.83:8083
+#EXTINF:-1 group-title="陕西电信ssrs2004",CHC动作电影
+http://ssrs2004.win:8888/rtp/239.112.205.207:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",CHC高清电影
+http://ssrs2004.win:8888/rtp/239.112.205.206:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",CHC家庭影院
+http://ssrs2004.win:8888/rtp/239.112.205.205:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",IPTV体育
+http://ssrs2004.win:8888/rtp/239.111.205.40:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",都市剧场
+http://ssrs2004.win:8888/rtp/239.111.205.2:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",欢笑剧场
+http://ssrs2004.win:8888/rtp/239.112.205.236:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",欢笑剧场4K
+http://ssrs2004.win:8888/rtp/239.111.205.1:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",纪实人文
+http://ssrs2004.win:8888/rtp/239.112.205.204:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",金鹰纪实
+http://ssrs2004.win:8888/rtp/239.112.205.203:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",乐游
+http://ssrs2004.win:8888/rtp/239.111.205.3:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",体育休闲
+http://ssrs2004.win:8888/rtp/239.111.205.36:5140
+#EXTINF:-1 group-title="陕西电信ssrs2004",游戏风云
+http://ssrs2004.win:8888/rtp/239.111.205.4:5140
+#EXTINF:-1 group-title="上海电信79",CHC动作电影
+http://101.83.74.79:8686/udp/239.45.0.41:5140
+#EXTINF:-1 group-title="上海电信79",CHC家庭影院
+http://101.83.74.79:8686/udp/239.45.0.40:5140
+#EXTINF:-1 group-title="上海电信79",CHC家庭影院
+http://101.83.74.79:8686/udp/239.45.1.22:5140
+#EXTINF:-1 group-title="上海电信79",CHC影迷电影
+http://101.83.74.79:8686/udp/239.45.0.42:5140
+#EXTINF:-1 group-title="上海电信79",茶频道
+http://101.83.74.79:8686/udp/239.45.3.18:5140
+#EXTINF:-1 group-title="上海电信79",东方财经
+http://101.83.74.79:8686/udp/239.45.0.17:5140
+#EXTINF:-1 group-title="上海电信79",动漫秀场
+http://101.83.74.79:8686/udp/239.45.3.134:5140
+#EXTINF:-1 group-title="上海电信79",都市剧场
+http://101.83.74.79:8686/udp/239.45.3.136:5140
+#EXTINF:-1 group-title="上海电信79",法治天地
+http://101.83.74.79:8686/udp/239.45.1.46:5140
+#EXTINF:-1 group-title="上海电信79",欢笑剧场
+http://101.83.74.79:8686/udp/239.45.3.196:5140
+#EXTINF:-1 group-title="上海电信79",欢笑剧场4K
+http://101.83.74.79:8686/udp/239.45.1.4:5140
+#EXTINF:-1 group-title="上海电信79",纪实科教
+http://101.83.74.79:8686/udp/239.45.1.14:5140
+#EXTINF:-1 group-title="上海电信79",纪实人文
+http://101.83.74.79:8686/udp/239.45.3.212:5140
+#EXTINF:-1 group-title="上海电信79",金色学堂
+http://101.83.74.79:8686/udp/239.45.0.9:5140
+#EXTINF:-1 group-title="上海电信79",金鹰纪实
+http://101.83.74.79:8686/udp/239.45.1.45:5140
+#EXTINF:-1 group-title="上海电信79",快乐垂钓
+http://101.83.74.79:8686/udp/239.45.3.12:5140
+#EXTINF:-1 group-title="上海电信79",七彩戏剧
+http://101.83.74.79:8686/udp/239.45.3.61:5140
+#EXTINF:-1 group-title="上海电信79",乐游
+http://101.83.74.79:8686/udp/239.45.3.135:5140
+#EXTINF:-1 group-title="上海电信79",生活时尚
+http://101.83.74.79:8686/udp/239.45.3.132:5140
+#EXTINF:-1 group-title="上海电信79",五星体育
+http://101.83.74.79:8686/udp/239.45.3.216:5140
+#EXTINF:-1 group-title="上海电信79",游戏风云
+http://101.83.74.79:8686/udp/239.45.3.131:5140
+#EXTINF:-1 group-title="上海电信140",CHC动作电影
+http://58.37.82.140:56789/udp/239.45.0.41:5140
+#EXTINF:-1 group-title="上海电信140",CHC家庭影院
+http://58.37.82.140:56789/udp/239.45.0.40:5140
+#EXTINF:-1 group-title="上海电信140",CHC家庭影院
+http://58.37.82.140:56789/udp/239.45.1.22:5140
+#EXTINF:-1 group-title="上海电信140",CHC影迷电影
+http://58.37.82.140:56789/udp/239.45.0.42:5140
+#EXTINF:-1 group-title="上海电信140",茶频道
+http://58.37.82.140:56789/udp/239.45.3.18:5140
+#EXTINF:-1 group-title="上海电信140",东方财经
+http://58.37.82.140:56789/udp/239.45.0.17:5140
+#EXTINF:-1 group-title="上海电信140",动漫秀场
+http://58.37.82.140:56789/udp/239.45.3.134:5140
+#EXTINF:-1 group-title="上海电信140",都市剧场
+http://58.37.82.140:56789/udp/239.45.3.136:5140
+#EXTINF:-1 group-title="上海电信140",法治天地
+http://58.37.82.140:56789/udp/239.45.1.46:5140
+#EXTINF:-1 group-title="上海电信140",欢笑剧场
+http://58.37.82.140:56789/udp/239.45.3.196:5140
+#EXTINF:-1 group-title="上海电信140",欢笑剧场4K
+http://58.37.82.140:56789/udp/239.45.1.4:5140
+#EXTINF:-1 group-title="上海电信140",纪实科教
+http://58.37.82.140:56789/udp/239.45.1.14:5140
+#EXTINF:-1 group-title="上海电信140",纪实人文
+http://58.37.82.140:56789/udp/239.45.3.212:5140
+#EXTINF:-1 group-title="上海电信140",金色学堂
+http://58.37.82.140:56789/udp/239.45.0.9:5140
+#EXTINF:-1 group-title="上海电信140",金鹰纪实
+http://58.37.82.140:56789/udp/239.45.1.45:5140
+#EXTINF:-1 group-title="上海电信140",快乐垂钓
+http://58.37.82.140:56789/udp/239.45.3.12:5140
+#EXTINF:-1 group-title="上海电信140",七彩戏剧
+http://58.37.82.140:56789/udp/239.45.3.61:5140
+#EXTINF:-1 group-title="上海电信140",乐游
+http://58.37.82.140:56789/udp/239.45.3.135:5140
+#EXTINF:-1 group-title="上海电信140",生活时尚
+http://58.37.82.140:56789/udp/239.45.3.132:5140
+#EXTINF:-1 group-title="上海电信140",五星体育
+http://58.37.82.140:56789/udp/239.45.3.216:5140
+#EXTINF:-1 group-title="上海电信140",游戏风云
+http://58.37.82.140:56789/udp/239.45.3.131:5140
+#EXTINF:-1 group-title="天津联通hssvm",4K影视
+http://nas.hssvm.com:8888/udp/225.1.2.190:5002
+#EXTINF:-1 group-title="天津联通hssvm",CHC动作电影
+http://nas.hssvm.com:8888/udp/225.1.1.215:5002
+#EXTINF:-1 group-title="天津联通hssvm",CHC家庭影院
+http://nas.hssvm.com:8888/udp/225.1.1.213:5002
+#EXTINF:-1 group-title="天津联通hssvm",CHC影迷电影
+http://nas.hssvm.com:8888/udp/225.1.1.214:5002
+#EXTINF:-1 group-title="天津联通hssvm",茶频道
+http://nas.hssvm.com:8888/udp/225.1.2.19:5002
+#EXTINF:-1 group-title="天津联通hssvm",东方财富
+http://nas.hssvm.com:8888/udp/225.1.1.247:5002
+#EXTINF:-1 group-title="天津联通hssvm",动漫秀场
+http://nas.hssvm.com:8888/udp/225.1.1.134:5002
+#EXTINF:-1 group-title="天津联通hssvm",都市剧场
+http://nas.hssvm.com:8888/udp/225.1.1.146:5002
+#EXTINF:-1 group-title="天津联通hssvm",法制天地
+http://nas.hssvm.com:8888/udp/225.1.1.237:5002
+#EXTINF:-1 group-title="天津联通hssvm",欢笑剧场
+http://nas.hssvm.com:8888/udp/225.1.1.139:5002
+#EXTINF:-1 group-title="天津联通hssvm",欢笑剧场4K
+http://nas.hssvm.com:8888/udp/225.1.1.152:5002
+#EXTINF:-1 group-title="天津联通hssvm",纪实人文
+http://nas.hssvm.com:8888/udp/225.1.2.25:5002
+#EXTINF:-1 group-title="天津联通hssvm",金色学堂
+http://nas.hssvm.com:8888/udp/225.1.1.236:5002
+#EXTINF:-1 group-title="天津联通hssvm",金鹰纪实
+http://nas.hssvm.com:8888/udp/225.1.1.124:5002
+#EXTINF:-1 group-title="天津联通hssvm",金鹰卡通
+http://nas.hssvm.com:8888/udp/225.1.2.236:5002
+#EXTINF:-1 group-title="天津联通hssvm",精彩影视
+http://nas.hssvm.com:8888/udp/225.1.1.141:5002
+#EXTINF:-1 group-title="天津联通hssvm",快乐垂钓
+http://nas.hssvm.com:8888/udp/225.1.1.92:5002
+#EXTINF:-1 group-title="天津联通hssvm",乐游
+http://nas.hssvm.com:8888/udp/225.1.1.145:5002
+#EXTINF:-1 group-title="天津联通hssvm",梨园频道
+http://nas.hssvm.com:8888/udp/225.1.2.104:5002
+#EXTINF:-1 group-title="天津联通hssvm",魅力足球
+http://nas.hssvm.com:8888/udp/225.1.1.137:5002
+#EXTINF:-1 group-title="天津联通hssvm",生活时尚
+http://nas.hssvm.com:8888/udp/225.1.1.143:5002
+#EXTINF:-1 group-title="天津联通hssvm",文物宝库
+http://nas.hssvm.com:8888/udp/225.1.2.105:5002
+#EXTINF:-1 group-title="天津联通hssvm",武术世界
+http://nas.hssvm.com:8888/udp/225.1.2.129:5002
+#EXTINF:-1 group-title="天津联通hssvm",游戏风云
+http://nas.hssvm.com:8888/udp/225.1.1.135:5002
+#EXTINF:-1 group-title="浙江电信myds",茶频道
+http://guany.myds.me:25852/rtp/233.50.201.188:5140
+#EXTINF:-1 group-title="浙江电信myds",动漫秀场
+http://guany.myds.me:25852/rtp/233.50.201.184:5140
+#EXTINF:-1 group-title="浙江电信myds",都市剧场
+http://guany.myds.me:25852/rtp/233.50.201.190:5140
+#EXTINF:-1 group-title="浙江电信myds",法制天地
+http://guany.myds.me:25852/rtp/233.50.201.191:5140
+#EXTINF:-1 group-title="浙江电信myds",欢笑剧场
+http://guany.myds.me:25852/rtp/233.50.201.189:5140
+#EXTINF:-1 group-title="浙江电信myds",金色学堂
+http://guany.myds.me:25852/rtp/233.50.201.186:5140
+#EXTINF:-1 group-title="浙江电信myds",快乐垂钓
+http://guany.myds.me:25852/rtp/233.50.201.109:5140
+#EXTINF:-1 group-title="浙江电信myds",乐游
+http://guany.myds.me:25852/rtp/233.50.201.185:5140
+#EXTINF:-1 group-title="浙江电信myds",生活时尚
+http://guany.myds.me:25852/rtp/233.50.201.187:5140
+#EXTINF:-1 group-title="浙江电信myds",游戏风云
+http://guany.myds.me:25852/rtp/233.50.201.183:5140
+#EXTINF:-1 group-title="重庆电信112",精彩导视
+http://125.80.152.112:7788/rtp/235.254.196.101:1162
+#EXTINF:-1 group-title="重庆电信112",4K测试
+http://125.80.152.112:7788/rtp/235.254.198.102:7980
+#EXTINF:-1 group-title="重庆电信112",纪实人文
+http://125.80.152.112:7788/rtp/235.254.198.121:1760
+#EXTINF:-1 group-title="重庆联通dddmmh",CHC动作电影
+http://n1.dddmmh.space:8088/udp/225.0.4.229:7980
+#EXTINF:-1 group-title="重庆联通dddmmh",CHC家庭影院
+http://n1.dddmmh.space:8088/udp/225.0.4.228:7980
+#EXTINF:-1 group-title="重庆联通dddmmh",CHC影迷电影
+http://n1.dddmmh.space:8088/udp/225.0.4.230:7980
+#EXTINF:-1 group-title="重庆联通dddmmh",茶频道
+http://n1.dddmmh.space:8088/udp/225.0.4.233:7980
+#EXTINF:-1 group-title="重庆联通dddmmh",华数测试4K
+http://n1.dddmmh.space:8088/udp/225.0.4.226:7980
+#EXTINF:-1 group-title="重庆联通dddmmh",纪实人文
+http://n1.dddmmh.space:8088/udp/225.0.4.99:7980
+#EXTINF:-1 group-title="重庆联通dddmmh",精彩影视
+http://n1.dddmmh.space:8088/udp/225.0.4.231:7980
+#EXTINF:-1 group-title="重庆联通dddmmh",快乐垂钓
+http://n1.dddmmh.space:8088/udp/225.0.4.213:7980
+#EXTINF:-1 group-title="重庆联通dddmmh",求索记录
+http://n1.dddmmh.space:8088/udp/225.0.4.232:7980

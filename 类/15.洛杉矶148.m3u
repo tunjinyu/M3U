@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分组",ETRV中国
+http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",KTSF26
+http://38.64.72.148/hls/modn/list/4009/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",KTSF26
+http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",大湾区卫视
+http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",东森超视34.5
+http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",东森美洲
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",东森美洲HD
+http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",汉天TV
+http://38.64.72.148/hls/modn/list/4025/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",华语电视4001
+http://38.64.72.148/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",华语电视4002
+http://38.64.72.148/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",华语电视4003
+http://38.64.72.148/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",深圳
+http://38.64.72.148/hls/modn/list/4007/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",台视新闻HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",长城精品
+http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",中旺电视
+http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8

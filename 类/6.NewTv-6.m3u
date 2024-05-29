@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv爱情喜剧
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv超级电视剧
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv超级电影
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv超级体育
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv超级综艺
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv潮妈辣婆
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv哒啵赛事
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225559/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv东北热剧
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv动作电影
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv古装剧场
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv海外剧场
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225521/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv黑莓电影
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv黑莓动画
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225529/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv欢乐剧场
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv家庭剧场
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv金牌综艺
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv惊悚悬疑
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv精品大剧
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv精品纪录
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv精品萌宠
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221226051/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv精品体育
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv军旅剧场
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv军事评论
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv明星大片
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225550/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv农业致富
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225552/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv炫舞未来
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv怡伴健康
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225571/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",NewTv中国功夫
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv爱情喜剧
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv超级电视剧
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv超级电影
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv超级综艺
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv潮妈辣婆
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv哒啵赛事
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv东北热剧
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv动作电影
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv古装剧场
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv海外剧场
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv黑莓电影
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv黑莓动画
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv欢乐剧场
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv家庭剧场
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv金牌综艺
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv惊悚悬疑
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv精品大剧
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv精品纪录
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv精品萌宠
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv精品体育
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv军旅剧场
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv军事评论
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv明星大片
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv农业致富
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv炫舞未来
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv怡伴健康
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",NewTv中国功夫
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv爱情喜剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010000/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv超级电视剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv超级电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv超级体育
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv超级综艺
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv潮妈辣婆
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010005/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv哒啵赛事
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv电子竞技
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010084/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv东北热剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv动作电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv古装剧场
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv黑莓电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv黑莓动画
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv欢乐剧场
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv家庭剧场
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv金牌综艺
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv惊悚悬疑
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv精品大剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv精品纪录
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv精品萌宠
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010146/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv精品体育
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv军旅剧场
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010079/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv军事评论
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010080/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv农业致富
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010085/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv热播精选
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010121/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv炫舞未来
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010039/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv怡伴健康
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
+#EXTINF:-1 group-title="hainan-5e00-1e",NewTv中国功夫
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv海外剧场
+http://[2409:8087:74d9:21::6]/270000001128/9900000115/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv明星大片
+http://[2409:8087:74d9:21::6]/270000001128/9900000116/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv精品体育
+http://[2409:8087:74d9:21::6]/270000001128/9900000102/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv爱情喜剧
+http://[2409:8087:74d9:21::6]/270000001128/9900000104/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv超级电视剧
+http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv超级电影
+http://[2409:8087:74d9:21::6]/270000001128/9900000021/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv超级体育
+http://[2409:8087:74d9:21::6]/270000001128/9900000020/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv超级综艺
+http://[2409:8087:74d9:21::6]/270000001128/9900000019/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv潮妈辣婆
+http://[2409:8087:74d9:21::6]/270000001128/9900000099/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv哒啵电竞
+http://[2409:8087:74d9:21::6]/270000001128/9900000121/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv哒啵赛事
+http://[2409:8087:74d9:21::6]/270000001128/9900000097/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv东北热剧
+http://[2409:8087:74d9:21::6]/270000001128/9900000092/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv动作电影
+http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv古装剧场
+http://[2409:8087:74d9:21::6]/270000001128/9900000105/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv黑莓电影
+http://[2409:8087:74d9:21::6]/270000001128/9900000095/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv黑莓动画
+http://[2409:8087:74d9:21::6]/270000001128/9900000096/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv欢乐剧场
+http://[2409:8087:74d9:21::6]/270000001128/9900000091/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv家庭剧场
+http://[2409:8087:74d9:21::6]/270000001128/9900000108/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv金牌综艺
+http://[2409:8087:74d9:21::6]/270000001128/9900000112/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv惊悚悬疑
+http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv精品大剧
+http://[2409:8087:74d9:21::6]/270000001128/9900000100/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv精品纪录
+http://[2409:8087:74d9:21::6]/270000001128/9900000109/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv精品萌宠
+http://[2409:8087:74d9:21::6]/270000001128/9900000122/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv军旅剧场
+http://[2409:8087:74d9:21::6]/270000001128/9900000107/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv军事评论
+http://[2409:8087:74d9:21::6]/270000001128/9900000110/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv农业致富
+http://[2409:8087:74d9:21::6]/270000001128/9900000111/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv炫舞未来
+http://[2409:8087:74d9:21::6]/270000001128/9900000098/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv怡伴健康
+http://[2409:8087:74d9:21::6]/270000001128/9900000103/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",NewTv中国功夫
+http://[2409:8087:74d9:21::6]/270000001128/9900000101/index.m3u8

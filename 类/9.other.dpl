@@ -1,0 +1,20 @@
+﻿DAUMPLAYLIST
+playname=https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8
+topindex=0
+saveplaypos=0
+1*file*https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8
+1*title*ADB TV
+2*file*https://streamer-a01.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w337824150.m3u8
+2*title*ADB TV
+3*file*https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+3*title*SpiritTV Music
+4*file*https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+4*title*Kronehit TV
+5*file*https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
+5*title*Famatv
+6*file*https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+6*title*Rádio Sines
+7*file*https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+7*title*This is Bulgaria HD (1080p)
+8*file*http://home.huaz.site:4000/udp/239.21.1.98:5002
+8*title*NHK World Japan

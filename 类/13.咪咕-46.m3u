@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 group-title="黑龙江ottrrs",咪咕5680-打架
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="黑龙江ottrrs",咪咕6124-球
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="黑龙江ottrrs",咪咕6147-球
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="黑龙江ottrrs",咪咕6398
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="黑龙江ottrrs",咪咕6472
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="黑龙江ottrrs",咪咕6508-不知到
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 group-title="吉林电信tuyuannet",咪咕194-球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.194:5540
+#EXTINF:-1 group-title="吉林电信tuyuannet",咪咕195-球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.195:5540
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5547-打架
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5611
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5613
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5619
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5620
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5639
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5641
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5643
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5645
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5647
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5648
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5649
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5650
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5652
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5653
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5654
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5658
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5660
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5662
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5733
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5739
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5754
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5756
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5758
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5760
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5895-球
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5897-球
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5899
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5901
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5903
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5905
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5910
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5912
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",5914
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",6031
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a0b-4001",6046
+http://[2409:8087:1a0b:df::4001]/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",5680-打架
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",6124-球
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",6147-球
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",6398
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="HLJ-1a01-7005",6472
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",0118-球
+http://[2409:8087:74d9:21::6]/270000001128/9900000118/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",0119-球
+http://[2409:8087:74d9:21::6]/270000001128/9900000119/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",0120-
+http://[2409:8087:74d9:21::6]/270000001128/9900000120/index.m3u8
+#EXTINF:-1 group-title="甘肃-74d9-6",321
+http://[2409:8087:74d9:21::6]/270000001111/1110000321/index.m3u8
