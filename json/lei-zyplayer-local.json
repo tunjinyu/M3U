@@ -127,7 +127,14 @@
 		"type": "remote",
 		"isActive": true,
 		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "ee3c7723-8033-1a2b-99be-fdd0b86185b3",
+		"name": "IHOT",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/IHOT.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
 	}
-
 	]
 }
