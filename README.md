@@ -94,6 +94,10 @@ https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB/15.%E6%B4%9B%E6%9D
 ```bash
 https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB/16.%E8%B4%AD%E7%89%A9-46.txt
 ```
+IHOT 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB/IHOT.txt
+```
 
 </details>
 
@@ -174,6 +178,27 @@ https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/15.%E6%B4
 购物 
 ```bash
 https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/16.%E8%B4%AD%E7%89%A9-46.txt
+```
+IHOT 
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/%E7%B1%BB_zyplayer/IHOT.txt
+```
+
+</details>
+
+# 适用于tvbox
+
+<details>
+  
+<summary>展开查看</summary>
+
+lei-tvbox.txt
+```bash
+https://raw.githubusercontent.com/tunjinyu/M3U/main/json/lei-tvbox.txt
+```
+lei-tvbox.txt 加速
+```bash
+https://gitdl.cn/https://raw.githubusercontent.com/tunjinyu/M3U/main/json/lei-tvbox.txt
 ```
 
 </details>
