@@ -1,0 +1,379 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://office.gofaraway.top:888/udp/238.125.1.1:5140
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://office.gofaraway.top:888/udp/238.125.5.1:5140
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://office.gofaraway.top:888/udp/238.125.5.96:5140
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://office.gofaraway.top:888/udp/238.125.1.20:5140
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://office.gofaraway.top:888/udp/238.125.5.20:5140
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://office.gofaraway.top:888/udp/238.125.1.21:5140
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://office.gofaraway.top:888/udp/238.125.5.21:5140
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://office.gofaraway.top:888/udp/238.125.1.35:5140
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://office.gofaraway.top:888/udp/238.125.1.67:5140
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://office.gofaraway.top:888/udp/238.125.1.22:5140
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://office.gofaraway.top:888/udp/238.125.5.22:5140
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://office.gofaraway.top:888/udp/238.125.1.29:5140
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://office.gofaraway.top:888/udp/238.125.5.29:5140
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://office.gofaraway.top:888/udp/238.125.1.23:5140
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://office.gofaraway.top:888/udp/238.125.5.23:5140
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://office.gofaraway.top:888/udp/238.125.1.24:5140
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://office.gofaraway.top:888/udp/238.125.5.24:5140
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://office.gofaraway.top:888/udp/238.125.1.25:5140
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://office.gofaraway.top:888/udp/238.125.5.25:5140
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://office.gofaraway.top:888/udp/238.125.1.26:5140
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://office.gofaraway.top:888/udp/238.125.5.26:5140
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://office.gofaraway.top:888/udp/238.125.1.27:5140
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://office.gofaraway.top:888/udp/238.125.5.27:5140
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://office.gofaraway.top:888/udp/238.125.4.83:5140
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://office.gofaraway.top:888/udp/238.125.3.212:5140
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://office.gofaraway.top:888/udp/238.125.1.28:5140
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://office.gofaraway.top:888/udp/238.125.5.28:5140
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://office.gofaraway.top:888/udp/238.125.5.31:5140
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://office.gofaraway.top:888/udp/238.125.1.66:5140
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://office.gofaraway.top:888/udp/238.125.5.66:5140
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://office.gofaraway.top:888/udp/238.125.3.213:5140
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://office.gofaraway.top:888/udp/238.125.4.84:5140
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://office.gofaraway.top:888/udp/238.125.5.34:5140
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://office.gofaraway.top:888/udp/238.125.3.153:5140
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://office.gofaraway.top:888/udp/238.125.5.74:5140
+#EXTINF:-1 group-title="CCTV",CGTNEnglish
+http://office.gofaraway.top:888/udp/238.125.3.119:5140
+#EXTINF:-1 group-title="CCTV",CGTNEnglish
+http://office.gofaraway.top:888/udp/238.125.3.134:5140
+#EXTINF:-1 group-title="CCTV",CGTNEnglish
+http://office.gofaraway.top:888/udp/238.125.5.69:5140
+#EXTINF:-1 group-title="CCTV",CCTV购物
+http://office.gofaraway.top:888/udp/238.125.1.40:5140
+#EXTINF:-1 group-title="卫视",CETV1
+http://office.gofaraway.top:888/udp/238.125.1.51:5140
+#EXTINF:-1 group-title="卫视",CETV1
+http://office.gofaraway.top:888/udp/238.125.3.124:5140
+#EXTINF:-1 group-title="卫视",CETV1
+http://office.gofaraway.top:888/udp/238.125.5.51:5140
+#EXTINF:-1 group-title="卫视",CETV4
+http://office.gofaraway.top:888/udp/238.125.3.92:5140
+#EXTINF:-1 group-title="卫视",CETV4
+http://office.gofaraway.top:888/udp/238.125.4.98:5140
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://office.gofaraway.top:888/udp/238.125.1.9:5140
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://office.gofaraway.top:888/udp/238.125.5.9:5140
+#EXTINF:-1 group-title="卫视",北京卫视
+http://office.gofaraway.top:888/udp/238.125.1.3:5140
+#EXTINF:-1 group-title="卫视",北京卫视
+http://office.gofaraway.top:888/udp/238.125.5.3:5140
+#EXTINF:-1 group-title="卫视",东方卫视
+http://office.gofaraway.top:888/udp/238.125.1.5:5140
+#EXTINF:-1 group-title="卫视",东方卫视
+http://office.gofaraway.top:888/udp/238.125.5.5:5140
+#EXTINF:-1 group-title="卫视",东南卫视
+http://office.gofaraway.top:888/udp/238.125.1.49:5140
+#EXTINF:-1 group-title="卫视",东南卫视
+http://office.gofaraway.top:888/udp/238.125.5.49:5140
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://office.gofaraway.top:888/udp/238.125.5.121:5140
+#EXTINF:-1 group-title="卫视",广东卫视
+http://office.gofaraway.top:888/udp/238.125.1.12:5140
+#EXTINF:-1 group-title="卫视",广东卫视
+http://office.gofaraway.top:888/udp/238.125.5.12:5140
+#EXTINF:-1 group-title="卫视",广西卫视
+http://office.gofaraway.top:888/udp/238.125.5.105:5140
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://office.gofaraway.top:888/udp/238.125.1.65:5140
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://office.gofaraway.top:888/udp/238.125.5.65:5140
+#EXTINF:-1 group-title="卫视",哈哈炫动
+http://office.gofaraway.top:888/udp/238.125.5.106:5140
+#EXTINF:-1 group-title="卫视",海南卫视
+http://office.gofaraway.top:888/udp/238.125.1.68:5140
+#EXTINF:-1 group-title="卫视",海南卫视
+http://office.gofaraway.top:888/udp/238.125.5.68:5140
+#EXTINF:-1 group-title="卫视",河北卫视
+http://office.gofaraway.top:888/udp/238.125.1.64:5140
+#EXTINF:-1 group-title="卫视",河北卫视
+http://office.gofaraway.top:888/udp/238.125.5.64:5140
+#EXTINF:-1 group-title="卫视",河南卫视
+http://office.gofaraway.top:888/udp/238.125.3.171:5140
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://office.gofaraway.top:888/udp/238.125.1.8:5140
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://office.gofaraway.top:888/udp/238.125.5.8:5140
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://office.gofaraway.top:888/udp/238.125.1.10:5140
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://office.gofaraway.top:888/udp/238.125.5.10:5140
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://office.gofaraway.top:888/udp/238.125.1.4:5140
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://office.gofaraway.top:888/udp/238.125.5.4:5140
+#EXTINF:-1 group-title="卫视",三沙卫视
+http://office.gofaraway.top:888/udp/238.125.5.114:5140
+#EXTINF:-1 group-title="卫视",山东卫视
+http://office.gofaraway.top:888/udp/238.125.1.11:5140
+#EXTINF:-1 group-title="卫视",山东卫视
+http://office.gofaraway.top:888/udp/238.125.5.11:5140
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://office.gofaraway.top:888/udp/238.125.1.2:5140
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://office.gofaraway.top:888/udp/238.125.5.2:5140
+#EXTINF:-1 group-title="卫视",四川卫视
+http://office.gofaraway.top:888/udp/238.125.1.62:5140
+#EXTINF:-1 group-title="卫视",四川卫视
+http://office.gofaraway.top:888/udp/238.125.5.62:5140
+#EXTINF:-1 group-title="卫视",天津卫视
+http://office.gofaraway.top:888/udp/238.125.1.13:5140
+#EXTINF:-1 group-title="卫视",天津卫视
+http://office.gofaraway.top:888/udp/238.125.5.13:5140
+#EXTINF:-1 group-title="卫视",云南卫视
+http://office.gofaraway.top:888/udp/238.125.5.32:5140
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://office.gofaraway.top:888/udp/238.125.1.7:5140
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://office.gofaraway.top:888/udp/238.125.5.7:5140
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://office.gofaraway.top:888/udp/238.125.1.14:5140
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://office.gofaraway.top:888/udp/238.125.5.14:5140
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://office.gofaraway.top:888/udp/238.125.3.103:5140
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://office.gofaraway.top:888/udp/238.125.1.6:5140
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://office.gofaraway.top:888/udp/238.125.5.6:5140
+#EXTINF:-1 group-title="卫视",江西卫视
+http://office.gofaraway.top:888/udp/238.125.3.106:5140
+#EXTINF:-1 group-title="卫视",金鹰卡通
+http://office.gofaraway.top:888/udp/238.125.5.104:5140
+#EXTINF:-1 group-title="卫视",金鹰卡通
+http://office.gofaraway.top:888/udp/238.125.1.63:5140
+#EXTINF:-1 group-title="卫视",卡酷少儿
+http://office.gofaraway.top:888/udp/238.125.5.107:5140
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://office.gofaraway.top:888/udp/238.125.1.15:5140
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://office.gofaraway.top:888/udp/238.125.5.15:5140
+#EXTINF:-1 group-title="其他",纪实科教
+http://office.gofaraway.top:888/udp/238.125.3.121:5140
+#EXTINF:-1 group-title="其他",纪实科教
+http://office.gofaraway.top:888/udp/238.125.5.70:5140
+#EXTINF:-1 group-title="其他",纪实人文
+http://office.gofaraway.top:888/udp/238.125.1.50:5140
+#EXTINF:-1 group-title="其他",纪实人文
+http://office.gofaraway.top:888/udp/238.125.3.135:5140
+#EXTINF:-1 group-title="其他",纪实人文
+http://office.gofaraway.top:888/udp/238.125.5.72:5140
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://office.gofaraway.top:888/udp/238.125.3.122:5140
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://office.gofaraway.top:888/udp/238.125.5.71:5140
+#EXTINF:-1 group-title="其他",求索纪录
+http://office.gofaraway.top:888/udp/238.125.5.108:5140
+#EXTINF:-1 group-title="其他",精彩影视
+http://office.gofaraway.top:888/udp/238.125.5.110:5140
+#EXTINF:-1 group-title="其他",金色学堂
+http://office.gofaraway.top:888/udp/238.125.5.115:5140
+#EXTINF:-1 group-title="其他",茶频道
+http://office.gofaraway.top:888/udp/238.125.5.101:5140
+#EXTINF:-1 group-title="其他",超级体育
+http://office.gofaraway.top:888/udp/238.125.3.65:5140
+#EXTINF:-1 group-title="其他",第一财经
+http://office.gofaraway.top:888/udp/238.125.1.59:5140
+#EXTINF:-1 group-title="其他",东方财经
+http://office.gofaraway.top:888/udp/238.125.4.54:5140
+#EXTINF:-1 group-title="其他",动漫秀场
+http://office.gofaraway.top:888/udp/238.125.1.33:5140
+#EXTINF:-1 group-title="其他",动漫秀场
+http://office.gofaraway.top:888/udp/238.125.5.33:5140
+#EXTINF:-1 group-title="其他",都市剧场
+http://office.gofaraway.top:888/udp/238.125.1.60:5140
+#EXTINF:-1 group-title="其他",都市剧场
+http://office.gofaraway.top:888/udp/238.125.5.60:5140
+#EXTINF:-1 group-title="其他",欢笑剧场
+http://office.gofaraway.top:888/udp/238.125.1.61:5140
+#EXTINF:-1 group-title="其他",欢笑剧场
+http://office.gofaraway.top:888/udp/238.125.5.61:5140
+#EXTINF:-1 group-title="其他",法治天地
+http://office.gofaraway.top:888/udp/238.125.5.116:5140
+#EXTINF:-1 group-title="其他",生活时尚
+http://office.gofaraway.top:888/udp/238.125.5.113:5140
+#EXTINF:-1 group-title="其他",时尚
+http://office.gofaraway.top:888/udp/238.125.3.239:5140
+#EXTINF:-1 group-title="其他",时尚
+http://office.gofaraway.top:888/udp/238.125.3.240:5140
+#EXTINF:-1 group-title="其他",文物宝库
+http://office.gofaraway.top:888/udp/238.125.4.106:5140
+#EXTINF:-1 group-title="其他",武术世界
+http://office.gofaraway.top:888/udp/238.125.4.104:5140
+#EXTINF:-1 group-title="其他",游戏风云
+http://office.gofaraway.top:888/udp/238.125.1.36:5140
+#EXTINF:-1 group-title="其他",游戏风云
+http://office.gofaraway.top:888/udp/238.125.5.36:5140
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://office.gofaraway.top:888/udp/238.125.5.103:5140
+#EXTINF:-1 group-title="其他",梨园
+http://office.gofaraway.top:888/udp/238.125.4.103:5140
+#EXTINF:-1 group-title="新疆",新疆影视
+http://office.gofaraway.top:888/udp/238.125.3.179:5140
+#EXTINF:-1 group-title="新疆",新疆卫视
+http://office.gofaraway.top:888/udp/238.125.3.174:5140
+#EXTINF:-1 group-title="新疆",新疆9
+http://office.gofaraway.top:888/udp/238.125.3.182:5140
+#EXTINF:-1 group-title="新疆",新疆8
+http://office.gofaraway.top:888/udp/238.125.3.181:5140
+#EXTINF:-1 group-title="新疆",新疆7
+http://office.gofaraway.top:888/udp/238.125.3.180:5140
+#EXTINF:-1 group-title="新疆",新疆6
+http://office.gofaraway.top:888/udp/238.125.3.179:5140
+#EXTINF:-1 group-title="新疆",新疆5
+http://office.gofaraway.top:888/udp/238.125.3.178:5140
+#EXTINF:-1 group-title="新疆",新疆4
+http://office.gofaraway.top:888/udp/238.125.3.177:5140
+#EXTINF:-1 group-title="新疆",新疆3
+http://office.gofaraway.top:888/udp/238.125.3.176:5140
+#EXTINF:-1 group-title="新疆",新疆2
+http://office.gofaraway.top:888/udp/238.125.3.175:5140
+#EXTINF:-1 group-title="新疆",新疆12
+http://office.gofaraway.top:888/udp/238.125.3.185:5140
+#EXTINF:-1 group-title="新疆",新疆10
+http://office.gofaraway.top:888/udp/238.125.3.183:5140
+#EXTINF:-1 group-title="新疆",包头TV1
+http://office.gofaraway.top:888/udp/238.125.3.12:5140
+#EXTINF:-1 group-title="新疆",包头TV2
+http://office.gofaraway.top:888/udp/238.125.3.13:5140
+#EXTINF:-1 group-title="新疆",包头TV3
+http://office.gofaraway.top:888/udp/238.125.3.14:5140
+#EXTINF:-1 group-title="新疆",乌鲁木齐1
+http://office.gofaraway.top:888/udp/238.125.3.238:5140
+#EXTINF:-1 group-title="新疆",阿克苏1
+http://office.gofaraway.top:888/udp/238.125.3.84:5140
+#EXTINF:-1 group-title="新疆",阿克苏2
+http://office.gofaraway.top:888/udp/238.125.3.86:5140
+#EXTINF:-1 group-title="新疆",阿拉尔
+http://office.gofaraway.top:888/udp/238.125.3.54:5140
+#EXTINF:-1 group-title="新疆",阿勒泰2
+http://office.gofaraway.top:888/udp/238.125.3.151:5140
+#EXTINF:-1 group-title="新疆",阿勒泰1
+http://office.gofaraway.top:888/udp/238.125.3.150:5140
+#EXTINF:-1 group-title="新疆",WJQ
+http://office.gofaraway.top:888/udp/238.125.3.166:5140
+#EXTINF:-1 group-title="新疆",巴音郭楞
+http://office.gofaraway.top:888/udp/238.125.3.38:5140
+#EXTINF:-1 group-title="新疆",巴音郭楞
+http://office.gofaraway.top:888/udp/238.125.3.39:5140
+#EXTINF:-1 group-title="新疆",巴音郭楞
+http://office.gofaraway.top:888/udp/238.125.3.40:5140
+#EXTINF:-1 group-title="新疆",巴音郭楞
+http://office.gofaraway.top:888/udp/238.125.3.43:5140
+#EXTINF:-1 group-title="新疆",昌吉
+http://office.gofaraway.top:888/udp/238.125.3.27:5140
+#EXTINF:-1 group-title="新疆",哈密1
+http://office.gofaraway.top:888/udp/238.125.0.194:5140
+#EXTINF:-1 group-title="新疆",哈密3
+http://office.gofaraway.top:888/udp/238.125.0.195:5140
+#EXTINF:-1 group-title="新疆",呼图壁
+http://office.gofaraway.top:888/udp/238.125.3.91:5140
+#EXTINF:-1 group-title="新疆",霍城
+http://office.gofaraway.top:888/udp/238.125.3.6:5140
+#EXTINF:-1 group-title="新疆",霍城
+http://office.gofaraway.top:888/udp/238.125.3.7:5140
+#EXTINF:-1 group-title="新疆",教育
+http://office.gofaraway.top:888/udp/238.125.0.144:5140
+#EXTINF:-1 group-title="新疆",教育
+http://office.gofaraway.top:888/udp/238.125.4.144:5140
+#EXTINF:-1 group-title="新疆",教育
+http://office.gofaraway.top:888/udp/238.125.4.190:5140
+#EXTINF:-1 group-title="新疆",喀什
+http://office.gofaraway.top:888/udp/238.125.3.214:5140
+#EXTINF:-1 group-title="新疆",喀什
+http://office.gofaraway.top:888/udp/238.125.3.215:5140
+#EXTINF:-1 group-title="新疆",喀什
+http://office.gofaraway.top:888/udp/238.125.3.216:5140
+#EXTINF:-1 group-title="新疆",克孜勒苏柯尔克孜
+http://office.gofaraway.top:888/udp/238.125.0.241:5140
+#EXTINF:-1 group-title="新疆",克孜勒苏柯尔克孜
+http://office.gofaraway.top:888/udp/238.125.0.242:5140
+#EXTINF:-1 group-title="新疆",克孜勒苏柯尔克孜
+http://office.gofaraway.top:888/udp/238.125.4.240:5140
+#EXTINF:-1 group-title="新疆",克孜勒苏柯尔克孜1
+http://office.gofaraway.top:888/udp/238.125.0.240:5140
+#EXTINF:-1 group-title="新疆",克孜勒苏柯尔克孜2
+http://office.gofaraway.top:888/udp/238.125.4.241:5140
+#EXTINF:-1 group-title="新疆",克孜勒苏柯尔克孜3
+http://office.gofaraway.top:888/udp/238.125.4.242:5140
+#EXTINF:-1 group-title="新疆",奎屯1
+http://office.gofaraway.top:888/udp/238.125.3.248:5140
+#EXTINF:-1 group-title="新疆",奎屯3
+http://office.gofaraway.top:888/udp/238.125.3.250:5140
+#EXTINF:-1 group-title="新疆",玛纳斯
+http://office.gofaraway.top:888/udp/238.125.3.114:5140
+#EXTINF:-1 group-title="新疆",人物
+http://office.gofaraway.top:888/udp/238.125.5.109:5140
+#EXTINF:-1 group-title="新疆",乌鲁木齐
+http://office.gofaraway.top:888/udp/238.125.3.229:5140
+#EXTINF:-1 group-title="新疆",新疆影视
+http://office.gofaraway.top:888/udp/238.125.3.179:5140
+#EXTINF:-1 group-title="新疆",新视觉
+http://office.gofaraway.top:888/udp/238.125.1.34:5140
+#EXTINF:-1 group-title="新疆",伊犁哈萨克
+http://office.gofaraway.top:888/udp/238.125.0.147:5140
+#EXTINF:-1 group-title="新疆",伊犁哈萨克
+http://office.gofaraway.top:888/udp/238.125.0.148:5140
+#EXTINF:-1 group-title="新疆",伊犁哈萨克
+http://office.gofaraway.top:888/udp/238.125.0.149:5140
+#EXTINF:-1 group-title="新疆",伊犁哈萨克
+http://office.gofaraway.top:888/udp/238.125.0.150:5140
+#EXTINF:-1 group-title="新疆",伊犁哈萨克
+http://office.gofaraway.top:888/udp/238.125.4.147:5140
+#EXTINF:-1 group-title="新疆",伊犁哈萨克
+http://office.gofaraway.top:888/udp/238.125.4.148:5140
+#EXTINF:-1 group-title="新疆",伊犁哈萨克
+http://office.gofaraway.top:888/udp/238.125.4.149:5140
+#EXTINF:-1 group-title="新疆",伊犁哈萨克
+http://office.gofaraway.top:888/udp/238.125.4.150:5140
+#EXTINF:-1 group-title="新疆",伊宁
+http://office.gofaraway.top:888/udp/238.125.3.228:5140
+#EXTINF:-1 group-title="新疆",竹山
+http://office.gofaraway.top:888/udp/238.125.3.225:5140
+#EXTINF:-1 group-title="新疆",竹山
+http://office.gofaraway.top:888/udp/238.125.3.226:5140
+#EXTINF:-1 group-title="新疆",综合
+http://office.gofaraway.top:888/udp/238.125.3.164:5140
+#EXTINF:-1 group-title="新疆",综合
+http://office.gofaraway.top:888/udp/238.125.3.165:5140
+#EXTINF:-1 group-title="新疆",综合
+http://office.gofaraway.top:888/udp/238.125.4.194:5140
+#EXTINF:-1 group-title="新疆",综合
+http://office.gofaraway.top:888/udp/238.125.4.195:5140

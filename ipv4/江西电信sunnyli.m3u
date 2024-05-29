@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://iku.sunnyli.link:4144/udp/239.252.219.200:5140
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://iku.sunnyli.link:4144/udp/239.252.219.215:5140
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://iku.sunnyli.link:4144/udp/239.252.220.183:5140
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://iku.sunnyli.link:4144/udp/239.252.219.252:5140
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://iku.sunnyli.link:4144/udp/239.252.220.193:5140
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://iku.sunnyli.link:4144/udp/239.252.220.184:5140
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://iku.sunnyli.link:4144/udp/239.252.219.198:5140
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://iku.sunnyli.link:4144/udp/239.252.219.236:5140
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://iku.sunnyli.link:4144/udp/239.252.219.72:5140
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://iku.sunnyli.link:4144/udp/239.252.219.237:5140
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://iku.sunnyli.link:4144/udp/239.252.220.195:5140
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://iku.sunnyli.link:4144/udp/239.252.220.185:5140
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://iku.sunnyli.link:4144/udp/239.252.219.253:5140
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://iku.sunnyli.link:4144/udp/239.252.220.196:5140
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://iku.sunnyli.link:4144/udp/239.252.220.186:5140
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://iku.sunnyli.link:4144/udp/239.252.220.91:5140
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://iku.sunnyli.link:4144/udp/239.252.219.78:5140
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://iku.sunnyli.link:4144/udp/239.252.220.187:5140
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://iku.sunnyli.link:4144/udp/239.252.219.139:5140
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://iku.sunnyli.link:4144/udp/239.252.220.92:5140
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://iku.sunnyli.link:4144/udp/239.252.219.79:5140
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://iku.sunnyli.link:4144/udp/239.252.220.192:5140
+#EXTINF:-1 group-title="CCTV",CCTV164K
+http://iku.sunnyli.link:4144/udp/239.252.220.237:5140
+#EXTINF:-1 group-title="CCTV",CCTV4欧洲
+http://iku.sunnyli.link:4144/udp/239.252.219.192:5140
+#EXTINF:-1 group-title="CCTV",CCTV4美洲
+http://iku.sunnyli.link:4144/udp/239.252.219.193:5140
+#EXTINF:-1 group-title="CCTV",CGTNEnglish
+http://iku.sunnyli.link:4144/udp/239.252.219.194:5140
+#EXTINF:-1 group-title="CCTV",CGTNDocumentary
+http://iku.sunnyli.link:4144/udp/239.252.219.195:5140
+#EXTINF:-1 group-title="CCTV",CGTNEspañol
+http://iku.sunnyli.link:4144/udp/239.252.219.196:5140
+#EXTINF:-1 group-title="CCTV",CGTNFrançais
+http://iku.sunnyli.link:4144/udp/239.252.219.65:5140
+#EXTINF:-1 group-title="CCTV",CGTNРусский
+http://iku.sunnyli.link:4144/udp/239.252.219.67:5140
+#EXTINF:-1 group-title="CCTV",CGTNالعربية
+http://iku.sunnyli.link:4144/udp/239.252.219.66:5140
+#EXTINF:-1 group-title="CCTV",CCTV4K
+http://iku.sunnyli.link:4144/udp/239.252.220.244:5140
+#EXTINF:-1 group-title="CCTV",CCTV兵器科技
+http://iku.sunnyli.link:4144/udp/239.252.219.98:5140
+#EXTINF:-1 group-title="CCTV",CCTV第一剧场
+http://iku.sunnyli.link:4144/udp/239.252.219.86:5140
+#EXTINF:-1 group-title="CCTV",CCTV电视指南
+http://iku.sunnyli.link:4144/udp/239.252.219.97:5140
+#EXTINF:-1 group-title="CCTV",CCTV风云剧场
+http://iku.sunnyli.link:4144/udp/239.252.219.89:5140
+#EXTINF:-1 group-title="CCTV",CCTV风云音乐
+http://iku.sunnyli.link:4144/udp/239.252.219.87:5140
+#EXTINF:-1 group-title="CCTV",CCTV风云足球
+http://iku.sunnyli.link:4144/udp/239.252.219.96:5140
+#EXTINF:-1 group-title="CCTV",CCTV高尔夫网球
+http://iku.sunnyli.link:4144/udp/239.252.219.95:5140
+#EXTINF:-1 group-title="CCTV",CCTV怀旧剧场
+http://iku.sunnyli.link:4144/udp/239.252.219.90:5140
+#EXTINF:-1 group-title="CCTV",CCTV女性时尚
+http://iku.sunnyli.link:4144/udp/239.252.219.94:5140
+#EXTINF:-1 group-title="CCTV",CCTV世界地理
+http://iku.sunnyli.link:4144/udp/239.252.219.93:5140
+#EXTINF:-1 group-title="CCTV",CCTV文化精品
+http://iku.sunnyli.link:4144/udp/239.252.219.81:5140
+#EXTINF:-1 group-title="CCTV",CCTV央视台球
+http://iku.sunnyli.link:4144/udp/239.252.219.80:5140
+#EXTINF:-1 group-title="卫视",CETV1
+http://iku.sunnyli.link:4144/udp/239.252.220.198:5140
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.83:5140
+#EXTINF:-1 group-title="卫视",北京卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.206:5140
+#EXTINF:-1 group-title="卫视",东方卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.229:5140
+#EXTINF:-1 group-title="卫视",东南卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.82:5140
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.140:5140
+#EXTINF:-1 group-title="卫视",广东卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.213:5140
+#EXTINF:-1 group-title="卫视",广西卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.183:5140
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.190:5140
+#EXTINF:-1 group-title="卫视",海南卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.178:5140
+#EXTINF:-1 group-title="卫视",河北卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.154:5140
+#EXTINF:-1 group-title="卫视",河南卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.189:5140
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.211:5140
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.208:5140
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.201:5140
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.188:5140
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.214:5140
+#EXTINF:-1 group-title="卫视",江西卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.63:5140
+#EXTINF:-1 group-title="卫视",卡酷少儿
+http://iku.sunnyli.link:4144/udp/239.252.220.246:5140
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.62:5140
+#EXTINF:-1 group-title="卫视",山东卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.228:5140
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.212:5140
+#EXTINF:-1 group-title="卫视",四川卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.93:5140
+#EXTINF:-1 group-title="卫视",天津卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.187:5140
+#EXTINF:-1 group-title="卫视",天津卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.61:5140
+#EXTINF:-1 group-title="卫视",云南卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.185:5140
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://iku.sunnyli.link:4144/udp/239.252.219.210:5140
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.94:5140
+#EXTINF:-1 group-title="其他",CHC高清电影
+http://iku.sunnyli.link:4144/udp/239.252.219.83:5140
+#EXTINF:-1 group-title="其他",CHC家庭影院
+http://iku.sunnyli.link:4144/udp/239.252.219.84:5140
+#EXTINF:-1 group-title="其他",CHC动作电影
+http://iku.sunnyli.link:4144/udp/239.252.219.85:5140
+#EXTINF:-1 group-title="其他",茶频道
+http://iku.sunnyli.link:4144/udp/239.252.220.160:5140
+#EXTINF:-1 group-title="其他",电影测试4K
+http://iku.sunnyli.link:4144/udp/239.252.220.212:5140
+#EXTINF:-1 group-title="其他",东方财经
+http://iku.sunnyli.link:4144/udp/239.252.219.57:5140
+#EXTINF:-1 group-title="其他",都市剧场
+http://iku.sunnyli.link:4144/udp/239.252.219.225:5140
+#EXTINF:-1 group-title="其他",欢笑剧场
+http://iku.sunnyli.link:4144/udp/239.252.219.224:5140
+#EXTINF:-1 group-title="其他",纪实科教
+http://iku.sunnyli.link:4144/udp/239.252.220.245:5140
+#EXTINF:-1 group-title="其他",纪实人文
+http://iku.sunnyli.link:4144/udp/239.252.219.227:5140
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://iku.sunnyli.link:4144/udp/239.252.220.155:5140
+#EXTINF:-1 group-title="其他",精彩影视
+http://iku.sunnyli.link:4144/udp/239.252.220.223:5140
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://iku.sunnyli.link:4144/udp/239.252.220.177:5140
+#EXTINF:-1 group-title="其他",梨园频道
+http://iku.sunnyli.link:4144/udp/239.252.220.179:5140
+#EXTINF:-1 group-title="其他",求索记录
+http://iku.sunnyli.link:4144/udp/239.252.220.224:5140
+#EXTINF:-1 group-title="其他",文物宝库
+http://iku.sunnyli.link:4144/udp/239.252.220.158:5140
+#EXTINF:-1 group-title="其他",武术世界
+http://iku.sunnyli.link:4144/udp/239.252.220.180:5140
+#EXTINF:-1 group-title="其他",IPTV体育
+http://iku.sunnyli.link:4144/udp/239.252.220.211:5140
+#EXTINF:-1 group-title="未知",江西-188
+http://iku.sunnyli.link:4144/udp/239.252.219.188:5140
+#EXTINF:-1 group-title="BesTv",BesTv111
+http://iku.sunnyli.link:4144/udp/239.252.219.111:5140
+#EXTINF:-1 group-title="BesTv",BesTv112
+http://iku.sunnyli.link:4144/udp/239.252.219.112:5140
+#EXTINF:-1 group-title="BesTv",BesTv117
+http://iku.sunnyli.link:4144/udp/239.252.219.117:5140
+#EXTINF:-1 group-title="BesTv",BesTv135
+http://iku.sunnyli.link:4144/udp/239.252.219.135:5140
+#EXTINF:-1 group-title="BesTv",BesTv136
+http://iku.sunnyli.link:4144/udp/239.252.219.136:5140
+#EXTINF:-1 group-title="BesTv",BesTv203
+http://iku.sunnyli.link:4144/udp/239.252.219.203:5140
+#EXTINF:-1 group-title="BesTv",BesTv204
+http://iku.sunnyli.link:4144/udp/239.252.219.204:5140
+#EXTINF:-1 group-title="BesTv",BesTv53
+http://iku.sunnyli.link:4144/udp/239.252.219.53:5140
+#EXTINF:-1 group-title="BesTv",BesTv91
+http://iku.sunnyli.link:4144/udp/239.252.219.91:5140
+#EXTINF:-1 group-title="BesTv",BesTv84
+http://iku.sunnyli.link:4144/udp/239.252.220.84:5140
+#EXTINF:-1 group-title="江西",昌飞航空
+http://iku.sunnyli.link:4144/udp/239.252.220.47:5140
+#EXTINF:-1 group-title="江西",风尚购物
+http://iku.sunnyli.link:4144/udp/239.252.219.101:5140
+#EXTINF:-1 group-title="江西",江西都市
+http://iku.sunnyli.link:4144/udp/239.252.220.238:5140
+#EXTINF:-1 group-title="江西",江西公共农业
+http://iku.sunnyli.link:4144/udp/239.252.220.102:5140
+#EXTINF:-1 group-title="江西",江西教育
+http://iku.sunnyli.link:4144/udp/239.252.219.115:5140
+#EXTINF:-1 group-title="江西",江西经济生活
+http://iku.sunnyli.link:4144/udp/239.252.219.173:5140
+#EXTINF:-1 group-title="江西",江西少儿
+http://iku.sunnyli.link:4144/udp/239.252.219.113:5140
+#EXTINF:-1 group-title="江西",江西陶瓷
+http://iku.sunnyli.link:4144/udp/239.252.220.243:5140
+#EXTINF:-1 group-title="江西",江西卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.63:5140
+#EXTINF:-1 group-title="江西",江西新闻
+http://iku.sunnyli.link:4144/udp/239.252.220.100:5140
+#EXTINF:-1 group-title="江西",江西移动电视
+http://iku.sunnyli.link:4144/udp/239.252.220.241:5140
+#EXTINF:-1 group-title="江西",江西影视旅游
+http://iku.sunnyli.link:4144/udp/239.252.220.242:5140

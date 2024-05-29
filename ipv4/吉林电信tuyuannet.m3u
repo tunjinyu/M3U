@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.204:5540
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.224:5540
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.228:5540
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.229:5540
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.235:5540
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.008:5540
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.150:5540
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.197:5540
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.221:5540
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.003:5540
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.231:5540
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.232:5540
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.121:5540
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.233:5540
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.234:5540
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.001:5540
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.007:5540
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.006:5540
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.005:5540
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.002:5540
+#EXTINF:-1 group-title="CCTV",CCTV4K
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.034:5540
+#EXTINF:-1 group-title="CCTV",CCTV兵器科技
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.084:5540
+#EXTINF:-1 group-title="CCTV",CCTV第一剧场
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.078:5540
+#EXTINF:-1 group-title="CCTV",CCTV电视指南
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.115:5540
+#EXTINF:-1 group-title="CCTV",CCTV风云剧场
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.114:5540
+#EXTINF:-1 group-title="CCTV",CCTV风云音乐
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.081:5540
+#EXTINF:-1 group-title="CCTV",CCTV风云足球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.080:5540
+#EXTINF:-1 group-title="CCTV",CCTV高尔夫网球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540
+#EXTINF:-1 group-title="CCTV",CCTV怀旧剧场
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.082:5540
+#EXTINF:-1 group-title="CCTV",CCTV女性时尚
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.069:5540
+#EXTINF:-1 group-title="CCTV",CCTV世界地理
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540
+#EXTINF:-1 group-title="CCTV",CCTV央视台球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540
+#EXTINF:-1 group-title="CCTV",CCTV文化精品
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.083:5540
+#EXTINF:-1 group-title="卫视",CETV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.193:5540
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.159:5540
+#EXTINF:-1 group-title="卫视",北京卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.009:5540
+#EXTINF:-1 group-title="卫视",北京卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.050:5540
+#EXTINF:-1 group-title="卫视",东方卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.123:5540
+#EXTINF:-1 group-title="卫视",东南卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.042:5540
+#EXTINF:-1 group-title="卫视",东南卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.124:5540
+#EXTINF:-1 group-title="卫视",广东卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.012:5540
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.157:5540
+#EXTINF:-1 group-title="卫视",河北卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.154:5540
+#EXTINF:-1 group-title="卫视",河南卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.155:5540
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.013:5540
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.016:5540
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.040:5540
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.010:5540
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.038:5540
+#EXTINF:-1 group-title="卫视",金鹰卡通
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.061:5540
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.101:5540
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.111:5540
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.055:5540
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.112:5540
+#EXTINF:-1 group-title="卫视",江西卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.156:5540
+#EXTINF:-1 group-title="卫视",卡酷少儿
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.076:5540
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.160:5540
+#EXTINF:-1 group-title="卫视",山东卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.015:5540
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.014:5540
+#EXTINF:-1 group-title="卫视",四川卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.041:5540
+#EXTINF:-1 group-title="卫视",四川卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.151:5540
+#EXTINF:-1 group-title="卫视",天津卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.004:5540
+#EXTINF:-1 group-title="卫视",天津卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.064:5540
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.153:5540
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.158:5540
+#EXTINF:-1 group-title="卫视",云南卫视
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.089:5540
+#EXTINF:-1 group-title="BesTv",BesTv142
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.142:5540
+#EXTINF:-1 group-title="BesTv",BesTv162
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.162:5540
+#EXTINF:-1 group-title="BesTv",BesTv222
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.222:5540
+#EXTINF:-1 group-title="BesTv",BesTv237
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.237:5540
+#EXTINF:-1 group-title="BesTv",BesTv253-羽毛球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.253:5540
+#EXTINF:-1 group-title="BesTv",BesTv254
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.254:5540
+#EXTINF:-1 group-title="咪咕",咪咕194-球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.194:5540
+#EXTINF:-1 group-title="咪咕",咪咕195-球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.195:5540
+#EXTINF:-1 group-title="其他",CHC动作电影
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+#EXTINF:-1 group-title="其他",CHC高清电影
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+#EXTINF:-1 group-title="其他",CHC家庭影院
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+#EXTINF:-1 group-title="其他",9屏
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.149:5540
+#EXTINF:-1 group-title="其他",动漫秀场
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.242:5540
+#EXTINF:-1 group-title="其他",都市剧场
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.241:5540
+#EXTINF:-1 group-title="其他",法制天地
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.238:5540
+#EXTINF:-1 group-title="其他",茶频道
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.245:5540
+#EXTINF:-1 group-title="其他",纪实人文
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.152:5540
+#EXTINF:-1 group-title="其他",金色学堂
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.239:5540
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.161:5540
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.244:5540
+#EXTINF:-1 group-title="其他",乐游
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.236:5540
+#EXTINF:-1 group-title="其他",梨园频道
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.088:5540
+#EXTINF:-1 group-title="其他",晴彩竞技
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.215:5540
+#EXTINF:-1 group-title="其他",晴彩广场舞
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.223:5540
+#EXTINF:-1 group-title="其他",生活时尚
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.240:5540
+#EXTINF:-1 group-title="其他",游戏风云
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.243:5540
+#EXTINF:-1 group-title="其他",中国交通
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.226:5540
+#EXTINF:-1 group-title="吉林",吉林篮球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.108:5540
+#EXTINF:-1 group-title="吉林",吉林篮球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.211:5540
+#EXTINF:-1 group-title="吉林",吉林篮球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.213:5540
+#EXTINF:-1 group-title="吉林",吉林篮球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.214:5540
+#EXTINF:-1 group-title="吉林",吉林篮球
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.216:5540
+#EXTINF:-1 group-title="吉林",吉林教育
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.126:5540
+#EXTINF:-1 group-title="吉林",CRT经济
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.099:5540
+#EXTINF:-1 group-title="吉林",CRT汽车
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.100:5540
+#EXTINF:-1 group-title="吉林",CRT市民
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.098:5540
+#EXTINF:-1 group-title="吉林",CRT娱乐
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.097:5540
+#EXTINF:-1 group-title="吉林",CRT综合
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.096:5540
+#EXTINF:-1 group-title="吉林",图们1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.166:5540
+#EXTINF:-1 group-title="吉林",新闻综合
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.250:5540
+#EXTINF:-1 group-title="吉林",长影频道
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540

@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://ssrs2004.win:8888/rtp/239.112.205.59:5140
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://ssrs2004.win:8888/rtp/239.111.205.46:5140
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://ssrs2004.win:8888/rtp/239.111.205.77:5140
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://ssrs2004.win:8888/rtp/239.112.205.78:5140
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://ssrs2004.win:8888/rtp/239.112.205.221:5140
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://ssrs2004.win:8888/rtp/239.112.205.202:5140
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://ssrs2004.win:8888/rtp/239.111.205.182:5140
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://ssrs2004.win:8888/rtp/239.112.205.222:5140
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://ssrs2004.win:8888/rtp/239.111.205.13:5140
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://ssrs2004.win:8888/rtp/239.112.205.223:5140
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://ssrs2004.win:8888/rtp/239.112.205.83:5140
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://ssrs2004.win:8888/rtp/239.112.205.224:5140
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://ssrs2004.win:8888/rtp/239.112.205.85:5140
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://ssrs2004.win:8888/rtp/239.112.205.86:5140
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://ssrs2004.win:8888/rtp/239.112.205.213:5140
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://ssrs2004.win:8888/rtp/239.112.205.88:5140
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://ssrs2004.win:8888/rtp/239.111.205.53:5140
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://ssrs2004.win:8888/rtp/239.112.205.91:5140
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://ssrs2004.win:8888/rtp/239.112.205.214:5140
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://ssrs2004.win:8888/rtp/239.111.205.134:5140
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://ssrs2004.win:8888/rtp/239.111.205.133:5140
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://ssrs2004.win:8888/rtp/239.112.205.211:5140
+#EXTINF:-1 group-title="CCTV",CCTV4K
+http://ssrs2004.win:8888/rtp/239.111.205.38:5140
+#EXTINF:-1 group-title="CCTV",CCTV4欧洲
+http://ssrs2004.win:8888/rtp/239.111.205.83:5140
+#EXTINF:-1 group-title="CCTV",CCTV4美洲
+http://ssrs2004.win:8888/rtp/239.111.205.84:5140
+#EXTINF:-1 group-title="CCTV",CGTNEnglish
+http://ssrs2004.win:8888/rtp/239.111.205.32:5140
+#EXTINF:-1 group-title="CCTV",CGTNEspañol
+http://ssrs2004.win:8888/rtp/239.111.205.33:5140
+#EXTINF:-1 group-title="CCTV",CGTNFrançais
+http://ssrs2004.win:8888/rtp/239.111.205.34:5140
+#EXTINF:-1 group-title="CCTV",CGTNDocumentary
+http://ssrs2004.win:8888/rtp/239.111.205.85:5140
+#EXTINF:-1 group-title="CCTV",CGTNالعربية
+http://ssrs2004.win:8888/rtp/239.111.205.86:5140
+#EXTINF:-1 group-title="CCTV",CGTNРусский
+http://ssrs2004.win:8888/rtp/239.111.205.87:5140
+#EXTINF:-1 group-title="CCTV",CCTV兵器科技
+http://ssrs2004.win:8888/rtp/239.111.205.74:5140
+#EXTINF:-1 group-title="CCTV",CCTV第一剧场
+http://ssrs2004.win:8888/rtp/239.111.205.65:5140
+#EXTINF:-1 group-title="CCTV",CCTV电视指南
+http://ssrs2004.win:8888/rtp/239.111.205.76:5140
+#EXTINF:-1 group-title="CCTV",CCTV风云剧场
+http://ssrs2004.win:8888/rtp/239.111.205.66:5140
+#EXTINF:-1 group-title="CCTV",CCTV风云音乐
+http://ssrs2004.win:8888/rtp/239.111.205.69:5140
+#EXTINF:-1 group-title="CCTV",CCTV风云足球
+http://ssrs2004.win:8888/rtp/239.111.205.68:5140
+#EXTINF:-1 group-title="CCTV",CCTV高尔夫网球
+http://ssrs2004.win:8888/rtp/239.111.205.73:5140
+#EXTINF:-1 group-title="CCTV",CCTV怀旧剧场
+http://ssrs2004.win:8888/rtp/239.111.205.67:5140
+#EXTINF:-1 group-title="CCTV",CCTV女性时尚
+http://ssrs2004.win:8888/rtp/239.111.205.72:5140
+#EXTINF:-1 group-title="CCTV",CCTV世界地理
+http://ssrs2004.win:8888/rtp/239.111.205.71:5140
+#EXTINF:-1 group-title="CCTV",CCTV文化精品
+http://ssrs2004.win:8888/rtp/239.111.205.75:5140
+#EXTINF:-1 group-title="CCTV",CCTV央视台球
+http://ssrs2004.win:8888/rtp/239.111.205.70:5140
+#EXTINF:-1 group-title="卫视",CETV1
+http://ssrs2004.win:8888/rtp/239.112.205.201:5140
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://ssrs2004.win:8888/rtp/239.112.205.72:5140
+#EXTINF:-1 group-title="卫视",北京卫视
+http://ssrs2004.win:8888/rtp/239.112.205.65:5140
+#EXTINF:-1 group-title="卫视",东方卫视
+http://ssrs2004.win:8888/rtp/239.112.205.61:5140
+#EXTINF:-1 group-title="卫视",东南卫视
+http://ssrs2004.win:8888/rtp/239.112.205.182:5140
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://ssrs2004.win:8888/rtp/239.111.205.88:5140
+#EXTINF:-1 group-title="卫视",广东卫视
+http://ssrs2004.win:8888/rtp/239.112.205.66:5140
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://ssrs2004.win:8888/rtp/239.112.205.178:5140
+#EXTINF:-1 group-title="卫视",河北卫视
+http://ssrs2004.win:8888/rtp/239.112.205.200:5140
+#EXTINF:-1 group-title="卫视",河南卫视
+http://ssrs2004.win:8888/rtp/239.112.205.180:5140
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://ssrs2004.win:8888/rtp/239.112.205.68:5140
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://ssrs2004.win:8888/rtp/239.112.205.69:5140
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://ssrs2004.win:8888/rtp/239.112.205.62:5140
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://ssrs2004.win:8888/rtp/239.112.205.183:5140
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://ssrs2004.win:8888/rtp/239.112.205.63:5140
+#EXTINF:-1 group-title="卫视",江西卫视
+http://ssrs2004.win:8888/rtp/239.111.205.16:5140
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://ssrs2004.win:8888/rtp/239.112.205.73:5140
+#EXTINF:-1 group-title="卫视",山东卫视
+http://ssrs2004.win:8888/rtp/239.112.205.70:5140
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://ssrs2004.win:8888/rtp/239.112.205.67:5140
+#EXTINF:-1 group-title="卫视",四川卫视
+http://ssrs2004.win:8888/rtp/239.112.205.184:5140
+#EXTINF:-1 group-title="卫视",天津卫视
+http://ssrs2004.win:8888/rtp/239.112.205.74:5140
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://ssrs2004.win:8888/rtp/239.112.205.64:5140
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://ssrs2004.win:8888/rtp/239.112.205.179:5140
+#EXTINF:-1 group-title="BesTv",BesTv20
+http://ssrs2004.win:8888/rtp/239.111.205.20:5140
+#EXTINF:-1 group-title="BesTv",BesTv21
+http://ssrs2004.win:8888/rtp/239.111.205.21:5140
+#EXTINF:-1 group-title="BesTv",BesTv22
+http://ssrs2004.win:8888/rtp/239.111.205.22:5140
+#EXTINF:-1 group-title="BesTv",BesTv23
+http://ssrs2004.win:8888/rtp/239.111.205.23:5140
+#EXTINF:-1 group-title="BesTv",BesTv24
+http://ssrs2004.win:8888/rtp/239.111.205.24:5140
+#EXTINF:-1 group-title="BesTv",BesTv25
+http://ssrs2004.win:8888/rtp/239.111.205.25:5140
+#EXTINF:-1 group-title="BesTv",BesTv26
+http://ssrs2004.win:8888/rtp/239.111.205.26:5140
+#EXTINF:-1 group-title="BesTv",BesTv43
+http://ssrs2004.win:8888/rtp/239.111.205.43:5140
+#EXTINF:-1 group-title="BesTv",BesTv44
+http://ssrs2004.win:8888/rtp/239.111.205.44:5140
+#EXTINF:-1 group-title="BesTv",BesTv45
+http://ssrs2004.win:8888/rtp/239.111.205.45:5140
+#EXTINF:-1 group-title="其他",CHC动作电影
+http://ssrs2004.win:8888/rtp/239.112.205.207:5140
+#EXTINF:-1 group-title="其他",CHC高清电影
+http://ssrs2004.win:8888/rtp/239.112.205.206:5140
+#EXTINF:-1 group-title="其他",CHC家庭影院
+http://ssrs2004.win:8888/rtp/239.112.205.205:5140
+#EXTINF:-1 group-title="其他",IPTV体育
+http://ssrs2004.win:8888/rtp/239.111.205.40:5140
+#EXTINF:-1 group-title="其他",都市剧场
+http://ssrs2004.win:8888/rtp/239.111.205.2:5140
+#EXTINF:-1 group-title="其他",欢笑剧场
+http://ssrs2004.win:8888/rtp/239.112.205.236:5140
+#EXTINF:-1 group-title="其他",欢笑剧场4K
+http://ssrs2004.win:8888/rtp/239.111.205.1:5140
+#EXTINF:-1 group-title="其他",纪实人文
+http://ssrs2004.win:8888/rtp/239.112.205.204:5140
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://ssrs2004.win:8888/rtp/239.112.205.203:5140
+#EXTINF:-1 group-title="其他",乐游
+http://ssrs2004.win:8888/rtp/239.111.205.3:5140
+#EXTINF:-1 group-title="其他",体育休闲
+http://ssrs2004.win:8888/rtp/239.111.205.36:5140
+#EXTINF:-1 group-title="其他",游戏风云
+http://ssrs2004.win:8888/rtp/239.111.205.4:5140
+#EXTINF:-1 group-title="陕西",141号
+http://ssrs2004.win:8888/rtp/239.112.205.141:5140
+#EXTINF:-1 group-title="陕西",177号
+http://ssrs2004.win:8888/rtp/239.112.205.177:5140
+#EXTINF:-1 group-title="陕西",19号
+http://ssrs2004.win:8888/rtp/239.111.205.19:5140
+#EXTINF:-1 group-title="陕西",216号
+http://ssrs2004.win:8888/rtp/239.112.205.216:5140
+#EXTINF:-1 group-title="陕西",245号
+http://ssrs2004.win:8888/rtp/239.111.205.245:5140
+#EXTINF:-1 group-title="陕西",249号
+http://ssrs2004.win:8888/rtp/239.111.205.249:5140
+#EXTINF:-1 group-title="陕西",90号
+http://ssrs2004.win:8888/rtp/239.111.205.90:5140
+#EXTINF:-1 group-title="陕西",FXTV
+http://ssrs2004.win:8888/rtp/239.111.205.244:5140
+#EXTINF:-1 group-title="陕西",SXBC都市青春
+http://ssrs2004.win:8888/rtp/239.111.205.42:5140
+#EXTINF:-1 group-title="陕西",SXBC公共
+http://ssrs2004.win:8888/rtp/239.111.205.100:5140
+#EXTINF:-1 group-title="陕西",SXBC乐家购物
+http://ssrs2004.win:8888/rtp/239.111.205.101:5140
+#EXTINF:-1 group-title="陕西",SXBC生活
+http://ssrs2004.win:8888/rtp/239.111.205.98:5140
+#EXTINF:-1 group-title="陕西",SXBC西部电影
+http://ssrs2004.win:8888/rtp/239.111.205.102:5140
+#EXTINF:-1 group-title="陕西",SXBC影视
+http://ssrs2004.win:8888/rtp/239.111.205.99:5140
+#EXTINF:-1 group-title="陕西",宝鸡公共
+http://ssrs2004.win:8888/rtp/239.112.205.144:5140
+#EXTINF:-1 group-title="陕西",宝鸡公共
+http://ssrs2004.win:8888/rtp/239.112.205.148:5140
+#EXTINF:-1 group-title="陕西",宝鸡综合
+http://ssrs2004.win:8888/rtp/239.112.205.143:5140
+#EXTINF:-1 group-title="陕西",宝鸡综合
+http://ssrs2004.win:8888/rtp/239.112.205.147:5140
+#EXTINF:-1 group-title="陕西",城固
+http://ssrs2004.win:8888/rtp/239.111.205.79:5140
+#EXTINF:-1 group-title="陕西",扶风
+http://ssrs2004.win:8888/rtp/239.111.205.80:5140
+#EXTINF:-1 group-title="陕西",佛坪综合
+http://ssrs2004.win:8888/rtp/239.112.205.229:5140
+#EXTINF:-1 group-title="陕西",合阳
+http://ssrs2004.win:8888/rtp/239.112.205.190:5140
+#EXTINF:-1 group-title="陕西",岚皋电视台
+http://ssrs2004.win:8888/rtp/239.111.205.248:5140
+#EXTINF:-1 group-title="陕西",眉县新闻综合
+http://ssrs2004.win:8888/rtp/239.111.205.81:5140
+#EXTINF:-1 group-title="陕西",宁强综合
+http://ssrs2004.win:8888/rtp/239.111.205.18:5140
+#EXTINF:-1 group-title="陕西",千阳
+http://ssrs2004.win:8888/rtp/239.111.205.250:5140
+#EXTINF:-1 group-title="陕西",曲艺大观
+http://ssrs2004.win:8888/rtp/239.111.205.31:5140
+#EXTINF:-1 group-title="陕西",陕西卫视
+http://ssrs2004.win:8888/rtp/239.111.205.35:5140
+#EXTINF:-1 group-title="陕西",商洛综合
+http://ssrs2004.win:8888/rtp/239.112.205.189:5140
+#EXTINF:-1 group-title="陕西",太白电视台
+http://ssrs2004.win:8888/rtp/239.111.205.251:5140
+#EXTINF:-1 group-title="陕西",体育休闲
+http://ssrs2004.win:8888/rtp/239.111.205.36:5140
+#EXTINF:-1 group-title="陕西",西乡融媒
+http://ssrs2004.win:8888/rtp/239.111.205.17:5140
+#EXTINF:-1 group-title="陕西",新闻资讯
+http://ssrs2004.win:8888/rtp/239.111.205.28:5140
+#EXTINF:-1 group-title="陕西",悦美生活
+http://ssrs2004.win:8888/rtp/239.111.205.30:5140
+#EXTINF:-1 group-title="陕西",镇巴电视台
+http://ssrs2004.win:8888/rtp/239.112.205.231:5140

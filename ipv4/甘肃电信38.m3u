@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://42.94.210.38:9000/udp/239.255.30.101:8231
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://42.94.210.38:9000/udp/239.255.30.201:8231
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://42.94.210.38:9000/udp/239.255.30.179:8231
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://42.94.210.38:9000/udp/239.255.29.12:8231
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://42.94.210.38:9000/udp/239.255.30.83:8231
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://42.94.210.38:9000/udp/239.255.29.13:8231
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://42.94.210.38:9000/udp/239.255.30.184:8231
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://42.94.210.38:9000/udp/239.255.29.14:8231
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://42.94.210.38:9000/udp/239.255.30.178:8231
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://42.94.210.38:9000/udp/239.255.29.15:8231
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://42.94.210.38:9000/udp/239.255.30.180:8231
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://42.94.210.38:9000/udp/239.255.30.181:8231
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://42.94.210.38:9000/udp/239.255.30.62:8231
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://42.94.210.38:9000/udp/239.255.30.182:8231
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://42.94.210.38:9000/udp/239.255.29.28:8231
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://42.94.210.38:9000/udp/239.255.30.183:8231
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://42.94.210.38:9000/udp/239.255.30.68:8231
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://42.94.210.38:9000/udp/239.255.30.88:8231
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://42.94.210.38:9000/udp/239.255.30.96:8231
+#EXTINF:-1 group-title="CCTV",CCTV164K
+http://42.94.210.38:9000/udp/239.255.30.80:8231
+#EXTINF:-1 group-title="卫视",CETV1
+http://42.94.210.38:9000/udp/239.255.30.90:8231
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://42.94.210.38:9000/udp/239.255.30.84:8231
+#EXTINF:-1 group-title="卫视",北京卫视
+http://42.94.210.38:9000/udp/239.255.30.133:8231
+#EXTINF:-1 group-title="卫视",东方卫视
+http://42.94.210.38:9000/udp/239.255.30.130:8231
+#EXTINF:-1 group-title="卫视",东南卫视
+http://42.94.210.38:9000/udp/239.255.30.86:8231
+#EXTINF:-1 group-title="卫视",凤凰香港
+http://42.94.210.38:9000/udp/239.255.30.123:8231
+#EXTINF:-1 group-title="卫视",凤凰中文
+http://42.94.210.38:9000/udp/239.255.30.50:8231
+#EXTINF:-1 group-title="卫视",凤凰资讯
+http://42.94.210.38:9000/udp/239.255.30.70:8231
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://42.94.210.38:9000/udp/239.255.30.249:8231
+#EXTINF:-1 group-title="卫视",广东卫视
+http://42.94.210.38:9000/udp/239.255.30.134:8231
+#EXTINF:-1 group-title="卫视",广西卫视
+http://42.94.210.38:9000/udp/239.255.29.4:8231
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://42.94.210.38:9000/udp/239.255.30.98:8231
+#EXTINF:-1 group-title="卫视",哈哈炫动
+http://42.94.210.38:9000/udp/239.255.29.37:8231
+#EXTINF:-1 group-title="卫视",海南卫视
+http://42.94.210.38:9000/udp/239.255.30.99:8231
+#EXTINF:-1 group-title="卫视",河北卫视
+http://42.94.210.38:9000/udp/239.255.30.85:8231
+#EXTINF:-1 group-title="卫视",河南卫视
+http://42.94.210.38:9000/udp/239.255.29.3:8231
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://42.94.210.38:9000/udp/239.255.30.137:8231
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://42.94.210.38:9000/udp/239.255.30.138:8231
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://42.94.210.38:9000/udp/239.255.30.136:8231
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://42.94.210.38:9000/udp/239.255.29.5:8231
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://42.94.210.38:9000/udp/239.255.30.131:8231
+#EXTINF:-1 group-title="卫视",江西卫视
+http://42.94.210.38:9000/udp/239.255.29.47:8231
+#EXTINF:-1 group-title="卫视",江西卫视
+http://42.94.210.38:9000/udp/239.255.30.71:8231
+#EXTINF:-1 group-title="卫视",卡酷少儿
+http://42.94.210.38:9000/udp/239.255.29.38:8231
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://42.94.210.38:9000/udp/239.255.30.69:8231
+#EXTINF:-1 group-title="卫视",三沙卫视
+http://42.94.210.38:9000/udp/239.255.29.46:8231
+#EXTINF:-1 group-title="卫视",山东卫视
+http://42.94.210.38:9000/udp/239.255.30.139:8231
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://42.94.210.38:9000/udp/239.255.30.135:8231
+#EXTINF:-1 group-title="卫视",四川卫视
+http://42.94.210.38:9000/udp/239.255.30.91:8231
+#EXTINF:-1 group-title="卫视",天津卫视
+http://42.94.210.38:9000/udp/239.255.30.67:8231
+#EXTINF:-1 group-title="卫视",云南卫视
+http://42.94.210.38:9000/udp/239.255.29.2:8231
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://42.94.210.38:9000/udp/239.255.30.132:8231
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://42.94.210.38:9000/udp/239.255.30.89:8231
+#EXTINF:-1 group-title="其他",IPTV体育
+http://42.94.210.38:9000/udp/239.255.30.115:8231
+#EXTINF:-1 group-title="其他",东方财经
+http://42.94.210.38:9000/udp/239.255.29.43:8231
+#EXTINF:-1 group-title="其他",东方购物
+http://42.94.210.38:9000/udp/239.255.29.42:8231
+#EXTINF:-1 group-title="其他",动漫秀场
+http://42.94.210.38:9000/udp/239.255.29.16:8231
+#EXTINF:-1 group-title="其他",都市剧场
+http://42.94.210.38:9000/udp/239.255.29.41:8231
+#EXTINF:-1 group-title="其他",法治天地
+http://42.94.210.38:9000/udp/239.255.29.24:8231
+#EXTINF:-1 group-title="其他",红色谍战剧场
+http://42.94.210.38:9000/udp/239.255.30.166:8231
+#EXTINF:-1 group-title="其他",茶频道
+http://42.94.210.38:9000/udp/239.255.29.44:8231
+#EXTINF:-1 group-title="其他",华数测试4K
+http://42.94.210.38:9000/udp/239.255.30.76:8231
+#EXTINF:-1 group-title="其他",欢笑剧场
+http://42.94.210.38:9000/udp/239.255.29.19:8231
+#EXTINF:-1 group-title="其他",欢笑剧场4K
+http://42.94.210.38:9000/udp/239.255.29.7:8231
+#EXTINF:-1 group-title="其他",纪实人文
+http://42.94.210.38:9000/udp/239.255.30.176:8231
+#EXTINF:-1 group-title="其他",金色学堂
+http://42.94.210.38:9000/udp/239.255.29.23:8231
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://42.94.210.38:9000/udp/239.255.29.39:8231
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://42.94.210.38:9000/udp/239.255.29.26:8231
+#EXTINF:-1 group-title="其他",乐游
+http://42.94.210.38:9000/udp/239.255.29.17:8231
+#EXTINF:-1 group-title="其他",魅力足球
+http://42.94.210.38:9000/udp/239.255.30.147:8231
+#EXTINF:-1 group-title="其他",生活时尚
+http://42.94.210.38:9000/udp/239.255.29.18:8231
+#EXTINF:-1 group-title="其他",体育
+http://42.94.210.38:9000/udp/239.255.29.31:8231
+#EXTINF:-1 group-title="其他",游戏风云
+http://42.94.210.38:9000/udp/239.255.29.20:8231
+#EXTINF:-1 group-title="其他",羽毛球
+http://42.94.210.38:9000/udp/239.255.29.31:8231
+#EXTINF:-1 group-title="Bestv",Bestv华语电影
+http://42.94.210.38:9000/udp/239.255.30.193:8231
+#EXTINF:-1 group-title="Bestv",Bestv全球大片
+http://42.94.210.38:9000/udp/239.255.30.196:8231
+#EXTINF:-1 group-title="Bestv",Bestv看天下精选
+http://42.94.210.38:9000/udp/239.255.30.217:8231
+#EXTINF:-1 group-title="Bestv",Bestv100
+http://42.94.210.38:9000/udp/239.255.30.100:8231
+#EXTINF:-1 group-title="Bestv",BesTv116
+http://42.94.210.38:9000/udp/239.255.30.116:8231
+#EXTINF:-1 group-title="Bestv",BesTv118
+http://42.94.210.38:9000/udp/239.255.30.118:8231
+#EXTINF:-1 group-title="Bestv",BesTv128打牌
+http://42.94.210.38:9000/udp/239.255.30.128:8231
+#EXTINF:-1 group-title="Bestv",Bestv150
+http://42.94.210.38:9000/udp/239.255.30.150:8231
+#EXTINF:-1 group-title="Bestv",Bestv151
+http://42.94.210.38:9000/udp/239.255.30.151:8231
+#EXTINF:-1 group-title="Bestv",Bestv160
+http://42.94.210.38:9000/udp/239.255.30.160:8231
+#EXTINF:-1 group-title="Bestv",Bestv166
+http://42.94.210.38:9000/udp/239.255.30.166:8231
+#EXTINF:-1 group-title="Bestv",Bestv167
+http://42.94.210.38:9000/udp/239.255.30.167:8231
+#EXTINF:-1 group-title="Bestv",Bestv168
+http://42.94.210.38:9000/udp/239.255.30.168:8231
+#EXTINF:-1 group-title="Bestv",BesTv169
+http://42.94.210.38:9000/udp/239.255.30.169:8231
+#EXTINF:-1 group-title="Bestv",BesTv170
+http://42.94.210.38:9000/udp/239.255.30.170:8231
+#EXTINF:-1 group-title="Bestv",BesTv171
+http://42.94.210.38:9000/udp/239.255.30.171:8231
+#EXTINF:-1 group-title="Bestv",BesTv172
+http://42.94.210.38:9000/udp/239.255.30.172:8231
+#EXTINF:-1 group-title="Bestv",BesTv173
+http://42.94.210.38:9000/udp/239.255.30.173:8231
+#EXTINF:-1 group-title="Bestv",BesTv194
+http://42.94.210.38:9000/udp/239.255.30.194:8231
+#EXTINF:-1 group-title="Bestv",Bestv197
+http://42.94.210.38:9000/udp/239.255.30.197:8231
+#EXTINF:-1 group-title="Bestv",Bestv198
+http://42.94.210.38:9000/udp/239.255.30.198:8231
+#EXTINF:-1 group-title="Bestv",BesTv199
+http://42.94.210.38:9000/udp/239.255.30.199:8231
+#EXTINF:-1 group-title="Bestv",BesTv200
+http://42.94.210.38:9000/udp/239.255.30.200:8231
+#EXTINF:-1 group-title="甘肃",甘肃卫视
+http://42.94.210.38:9000/udp/239.255.30.249:8231
+#EXTINF:-1 group-title="甘肃",甘肃文化影视
+http://42.94.210.38:9000/udp/239.255.30.250:8231
+#EXTINF:-1 group-title="甘肃",甘肃公共
+http://42.94.210.38:9000/udp/239.255.30.251:8231
+#EXTINF:-1 group-title="甘肃",甘肃都市
+http://42.94.210.38:9000/udp/239.255.30.252:8231
+#EXTINF:-1 group-title="甘肃",甘肃经济
+http://42.94.210.38:9000/udp/239.255.30.253:8231
+#EXTINF:-1 group-title="甘肃",甘肃少儿
+http://42.94.210.38:9000/udp/239.255.30.254:8231
+#EXTINF:-1 group-title="甘肃",陇上生活
+http://42.94.210.38:9000/udp/239.255.30.73:8231
+#EXTINF:-1 group-title="甘肃",临夏新闻
+http://42.94.210.38:9000/udp/239.255.30.107:8231
+#EXTINF:-1 group-title="甘肃",临夏文旅
+http://42.94.210.38:9000/udp/239.255.30.108:8231
+#EXTINF:-1 group-title="甘肃",临夏经济
+http://42.94.210.38:9000/udp/239.255.30.106:8231
+#EXTINF:-1 group-title="甘肃",皋兰电视台
+http://42.94.210.38:9000/udp/239.255.30.236:8231
+#EXTINF:-1 group-title="甘肃",都市
+http://42.94.210.38:9000/udp/239.255.29.22:8231
+#EXTINF:-1 group-title="甘肃",临泽
+http://42.94.210.38:9000/udp/239.255.29.40:8231
+#EXTINF:-1 group-title="甘肃",YZTV
+http://42.94.210.38:9000/udp/239.255.30.175:8231
+#EXTINF:-1 group-title="甘肃",93号
+http://42.94.210.38:9000/udp/239.255.30.93:8231

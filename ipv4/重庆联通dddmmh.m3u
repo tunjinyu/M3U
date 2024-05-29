@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://n1.dddmmh.space:8088/udp/225.0.4.74:7980
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://n1.dddmmh.space:8088/udp/225.0.4.132:7980
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://n1.dddmmh.space:8088/udp/225.0.4.142:7980
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://n1.dddmmh.space:8088/udp/225.0.4.176:7980
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://n1.dddmmh.space:8088/udp/225.0.4.143:7980
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://n1.dddmmh.space:8088/udp/225.0.4.73:7980
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://n1.dddmmh.space:8088/udp/225.0.4.144:7980
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://n1.dddmmh.space:8088/udp/225.0.4.127:7980
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://n1.dddmmh.space:8088/udp/225.0.4.137:7980
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://n1.dddmmh.space:8088/udp/225.0.4.131:7980
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://n1.dddmmh.space:8088/udp/225.0.4.130:7980
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://n1.dddmmh.space:8088/udp/225.0.4.218:7980
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://n1.dddmmh.space:8088/udp/225.0.4.129:7980
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://n1.dddmmh.space:8088/udp/225.0.4.219:7980
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://n1.dddmmh.space:8088/udp/225.0.4.128:7980
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://n1.dddmmh.space:8088/udp/225.0.4.220:7980
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://n1.dddmmh.space:8088/udp/225.0.4.179:7980
+#EXTINF:-1 group-title="CCTV",CCTV兵器科技
+http://n1.dddmmh.space:8088/udp/225.0.4.223:7980
+#EXTINF:-1 group-title="CCTV",CCTV风云剧场
+http://n1.dddmmh.space:8088/udp/225.0.4.209:7980
+#EXTINF:-1 group-title="CCTV",CCTV风云足球
+http://n1.dddmmh.space:8088/udp/225.0.4.210:7980
+#EXTINF:-1 group-title="CCTV",CCTV高尔夫网球
+http://n1.dddmmh.space:8088/udp/225.0.4.211:7980
+#EXTINF:-1 group-title="CCTV",CCTV怀旧剧场
+http://n1.dddmmh.space:8088/udp/225.0.4.222:7980
+#EXTINF:-1 group-title="CCTV",CCTV文化精品
+http://n1.dddmmh.space:8088/udp/225.0.4.212:7980
+#EXTINF:-1 group-title="CCTV",CCTV央视台球
+http://n1.dddmmh.space:8088/udp/225.0.4.224:7980
+#EXTINF:-1 group-title="卫视",CETV早期教育
+http://n1.dddmmh.space:8088/udp/225.0.4.227:7980
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.133:7980
+#EXTINF:-1 group-title="卫视",北京卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.78:7980
+#EXTINF:-1 group-title="卫视",东方卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.80:7980
+#EXTINF:-1 group-title="卫视",广东卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.84:7980
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.175:7980
+#EXTINF:-1 group-title="卫视",河北卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.174:7980
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.201:7980
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.217:7980
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.75:7980
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.79:7980
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.98:7980
+#EXTINF:-1 group-title="卫视",山东卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.199:7980
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.202:7980
+#EXTINF:-1 group-title="卫视",天津卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.82:7980
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.81:7980
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://n1.dddmmh.space:8088/udp/225.0.4.187:7980
+#EXTINF:-1 group-title="其他",CHC动作电影
+http://n1.dddmmh.space:8088/udp/225.0.4.229:7980
+#EXTINF:-1 group-title="其他",CHC家庭影院
+http://n1.dddmmh.space:8088/udp/225.0.4.228:7980
+#EXTINF:-1 group-title="其他",CHC影迷电影
+http://n1.dddmmh.space:8088/udp/225.0.4.230:7980
+#EXTINF:-1 group-title="其他",茶频道
+http://n1.dddmmh.space:8088/udp/225.0.4.233:7980
+#EXTINF:-1 group-title="其他",华数测试4K
+http://n1.dddmmh.space:8088/udp/225.0.4.226:7980
+#EXTINF:-1 group-title="其他",纪实人文
+http://n1.dddmmh.space:8088/udp/225.0.4.99:7980
+#EXTINF:-1 group-title="其他",精彩影视
+http://n1.dddmmh.space:8088/udp/225.0.4.231:7980
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://n1.dddmmh.space:8088/udp/225.0.4.213:7980
+#EXTINF:-1 group-title="其他",求索记录
+http://n1.dddmmh.space:8088/udp/225.0.4.232:7980
+#EXTINF:-1 group-title="重庆",重庆新闻
+http://n1.dddmmh.space:8088/udp/225.0.4.188:7980
+#EXTINF:-1 group-title="重庆",重庆社会与法
+http://n1.dddmmh.space:8088/udp/225.0.4.190:7980
+#EXTINF:-1 group-title="重庆",重庆少儿
+http://n1.dddmmh.space:8088/udp/225.0.4.191:7980
+#EXTINF:-1 group-title="重庆",重庆影视
+http://n1.dddmmh.space:8088/udp/225.0.4.192:7980
+#EXTINF:-1 group-title="重庆",重庆科教
+http://n1.dddmmh.space:8088/udp/225.0.4.193:7980
+#EXTINF:-1 group-title="重庆",重庆娱乐
+http://n1.dddmmh.space:8088/udp/225.0.4.194:7980
+#EXTINF:-1 group-title="重庆",重庆汽摩
+http://n1.dddmmh.space:8088/udp/225.0.4.195:7980
+#EXTINF:-1 group-title="重庆",重庆时尚生活
+http://n1.dddmmh.space:8088/udp/225.0.4.196:7980
+#EXTINF:-1 group-title="重庆",重庆新农村
+http://n1.dddmmh.space:8088/udp/225.0.4.189:7980
+#EXTINF:-1 group-title="重庆",重庆移动
+http://n1.dddmmh.space:8088/udp/225.0.4.215:7980
+#EXTINF:-1 group-title="重庆",时尚购物
+http://n1.dddmmh.space:8088/udp/225.0.4.198:7980

@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV164k
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4K
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/ahwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/bjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dfwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",东南卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/gswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/gdwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",广西卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/gxwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/gzwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",哈哈炫动
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hhxd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",海南卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hbwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hljwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/hunanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/jlwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/jswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",江西卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/jxws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",卡酷少儿
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/kkse8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/lnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",三沙卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/sswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/sdws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/szwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",天津卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/tjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",云南卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/zjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cqws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="其他",谍战剧场
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="其他",东方影视
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/dfyshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="其他",全球大片
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="其他",五星体育
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/wxtyhd8m/8000000/mnf.m3u8

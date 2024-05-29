@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://1.25.12.164:9000/udp/239.125.2.66:4120
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://1.25.12.164:9000/udp/239.125.2.65:4120
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://1.25.12.164:9000/udp/239.125.2.52:4120
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://1.25.12.164:9000/udp/239.125.2.64:4120
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://1.25.12.164:9000/udp/239.125.2.54:4120
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://1.25.12.164:9000/udp/239.125.1.57:5000
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://1.25.12.164:9000/udp/239.125.2.56:4120
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://1.25.12.164:9000/udp/239.125.2.63:4120
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://1.25.12.164:9000/udp/239.125.2.58:4120
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://1.25.12.164:9000/udp/239.125.2.62:4120
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://1.25.12.164:9000/udp/239.125.2.61:4120
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://1.25.12.164:9000/udp/239.125.1.101:4120
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://1.25.12.164:9000/udp/239.125.2.60:4120
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://1.25.12.164:9000/udp/239.125.1.53:4120
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://1.25.12.164:9000/udp/239.125.2.59:4120
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://1.25.12.164:9000/udp/239.125.1.102:4120
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://1.25.12.164:9000/udp/239.125.2.218:4120
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://1.25.12.164:9000/udp/239.125.2.206:4120
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://1.25.12.164:9000/udp/239.125.2.204:4120
+#EXTINF:-1 group-title="CCTV",CCTV4美洲
+http://1.25.12.164:9000/udp/239.125.2.197:4120
+#EXTINF:-1 group-title="CCTV",CCTV4欧洲
+http://1.25.12.164:9000/udp/239.125.2.196:4120
+#EXTINF:-1 group-title="CCTV",CGTNالعربية
+http://1.25.12.164:9000/udp/239.125.2.202:4120
+#EXTINF:-1 group-title="CCTV",CGTNРусский
+http://1.25.12.164:9000/udp/239.125.2.203:4120
+#EXTINF:-1 group-title="CCTV",CGTNFrançais
+http://1.25.12.164:9000/udp/239.125.2.201:4120
+#EXTINF:-1 group-title="CCTV",CGTNEspañol
+http://1.25.12.164:9000/udp/239.125.2.200:4120
+#EXTINF:-1 group-title="CCTV",CGTNDocumentary
+http://1.25.12.164:9000/udp/239.125.2.199:4120
+#EXTINF:-1 group-title="CCTV",CGTNEnglish
+http://1.25.12.164:9000/udp/239.125.2.198:4120
+#EXTINF:-1 group-title="卫视",CETV4
+http://1.25.12.164:9000/udp/239.125.1.110:4120
+#EXTINF:-1 group-title="卫视",蒙古卫视
+http://1.25.12.164:9000/udp/239.125.1.24:5000
+#EXTINF:-1 group-title="卫视",蒙古卫视
+http://1.25.12.164:9000/udp/239.125.1.59:5000
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://1.25.12.164:9000/udp/239.125.2.78:4120
+#EXTINF:-1 group-title="卫视",北京卫视
+http://1.25.12.164:9000/udp/239.125.2.73:4120
+#EXTINF:-1 group-title="卫视",东方卫视
+http://1.25.12.164:9000/udp/239.125.2.82:4120
+#EXTINF:-1 group-title="卫视",广东卫视
+http://1.25.12.164:9000/udp/239.125.2.71:4120
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://1.25.12.164:9000/udp/239.125.1.158:4130
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://1.25.12.164:9000/udp/239.125.2.80:4120
+#EXTINF:-1 group-title="卫视",海南卫视
+http://1.25.12.164:9000/udp/239.125.2.189:4120
+#EXTINF:-1 group-title="卫视",河北卫视
+http://1.25.12.164:9000/udp/239.125.2.70:4120
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://1.25.12.164:9000/udp/239.125.2.83:4120
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://1.25.12.164:9000/udp/239.125.1.152:4130
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://1.25.12.164:9000/udp/239.125.2.74:4120
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://1.25.12.164:9000/udp/239.125.2.67:4120
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://1.25.12.164:9000/udp/239.125.2.69:4120
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://1.25.12.164:9000/udp/239.125.2.72:4120
+#EXTINF:-1 group-title="卫视",山东卫视
+http://1.25.12.164:9000/udp/239.125.2.75:4120
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://1.25.12.164:9000/udp/239.125.2.76:4120
+#EXTINF:-1 group-title="卫视",四川卫视
+http://1.25.12.164:9000/udp/239.125.2.79:4120
+#EXTINF:-1 group-title="卫视",天津卫视
+http://1.25.12.164:9000/udp/239.125.2.81:4120
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://1.25.12.164:9000/udp/239.125.2.68:4120
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://1.25.12.164:9000/udp/239.125.2.106:4134
+#EXTINF:-1 group-title="其他",IPTV5+
+http://1.25.12.164:9000/udp/239.125.1.25:5000
+#EXTINF:-1 group-title="蒙古",蒙古卫视
+http://1.25.12.164:9000/udp/239.125.1.24:5000
+#EXTINF:-1 group-title="蒙古",蒙古卫视
+http://1.25.12.164:9000/udp/239.125.1.59:5000
+#EXTINF:-1 group-title="蒙古",蒙古经济
+http://1.25.12.164:9000/udp/239.125.1.74:4120
+#EXTINF:-1 group-title="蒙古",蒙古蒙语
+http://1.25.12.164:9000/udp/239.125.1.66:5000
+#EXTINF:-1 group-title="蒙古",蒙古蒙语文化
+http://1.25.12.164:9000/udp/239.125.1.71:4120
+#EXTINF:-1 group-title="蒙古",蒙古农牧
+http://1.25.12.164:9000/udp/239.125.1.73:4120
+#EXTINF:-1 group-title="蒙古",蒙古少儿
+http://1.25.12.164:9000/udp/239.125.1.69:4120
+#EXTINF:-1 group-title="蒙古",蒙古文体
+http://1.25.12.164:9000/udp/239.125.1.72:4120
+#EXTINF:-1 group-title="蒙古",蒙古新闻
+http://1.25.12.164:9000/udp/239.125.1.70:4120
+#EXTINF:-1 group-title="蒙古",鄂尔多斯经济
+http://1.25.12.164:9000/udp/239.125.2.164:4153
+#EXTINF:-1 group-title="蒙古",鄂尔多斯蒙古语综合
+http://1.25.12.164:9000/udp/239.125.2.162:4151
+#EXTINF:-1 group-title="蒙古",鄂尔多斯新闻
+http://1.25.12.164:9000/udp/239.125.2.165:4154
