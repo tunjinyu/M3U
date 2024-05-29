@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 ,====== 湖北电信myds,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,湖北公共新闻
+http://www.hiliu.myds.me:8088/rtp/239.69.1.40:9880
+#EXTINF:-1 ,湖北经视
+http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
+#EXTINF:-1 ,湖北综合
+http://www.hiliu.myds.me:8088/rtp/239.69.1.42:9892
+#EXTINF:-1 ,湖北垄上
+http://www.hiliu.myds.me:8088/rtp/239.69.1.43:9898
+#EXTINF:-1 ,湖北影视
+http://www.hiliu.myds.me:8088/rtp/239.69.1.204:10866
+#EXTINF:-1 ,湖北生活
+http://www.hiliu.myds.me:8088/rtp/239.69.1.205:10872
+#EXTINF:-1 ,湖北教育
+http://www.hiliu.myds.me:8088/rtp/239.69.1.206:10878
+#EXTINF:-1 ,武汉一台新闻综合
+http://www.hiliu.myds.me:8088/rtp/239.69.1.145:10506
+#EXTINF:-1 ,武汉二台电视剧
+http://www.hiliu.myds.me:8088/rtp/239.69.1.146:10512
+#EXTINF:-1 ,武汉三台科技生活
+http://www.hiliu.myds.me:8088/rtp/239.69.1.251:11148
+#EXTINF:-1 ,武汉四台经济
+http://www.hiliu.myds.me:8088/rtp/239.69.1.35:9850
+#EXTINF:-1 ,武汉五台文体
+http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
+#EXTINF:-1 ,武汉六台外语
+http://www.hiliu.myds.me:8088/rtp/239.69.1.36:9856
+#EXTINF:-1 ,武汉教育
+http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
+#EXTINF:-1 ,蔡甸综合
+http://www.hiliu.myds.me:8088/rtp/239.69.1.245:11112
+#EXTINF:-1 ,阳新综合
+http://www.hiliu.myds.me:8088/rtp/239.69.1.34:9844
+#EXTINF:-1 ,房县综合
+http://www.hiliu.myds.me:8088/rtp/239.69.1.192:10794
+#EXTINF:-1 ,====== hubei-4c0a-11,#genre# ======
+http://1/1.m3u8
+#EXTINF:-1 ,湖北公共·新闻
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,湖北教育
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,湖北经视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,湖北垄上
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,湖北生活
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,湖北影视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?m3u8_level=2
+#EXTINF:-1 ,湖北综合
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?m3u8_level=2

@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 ,====== 浙江电信myds,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,浙江经济生活
+http://guany.myds.me:25852/rtp/233.50.201.133:5140
+#EXTINF:-1 ,浙江教育
+http://guany.myds.me:25852/rtp/233.50.201.134:5140
+#EXTINF:-1 ,浙江民生
+http://guany.myds.me:25852/rtp/233.50.201.136:5140
+#EXTINF:-1 ,浙江news
+http://guany.myds.me:25852/rtp/233.50.201.137:5140
+#EXTINF:-1 ,浙江少儿
+http://guany.myds.me:25852/rtp/233.50.201.138:5140
+#EXTINF:-1 ,中国蓝直播-193
+http://guany.myds.me:25852/rtp/233.50.201.193:5140
+#EXTINF:-1 ,中国蓝直播-108
+http://guany.myds.me:25852/rtp/233.50.201.108:5140
+#EXTINF:-1 ,钱江频道
+http://guany.myds.me:25852/rtp/233.50.201.132:5140
+#EXTINF:-1 ,杭州1综合
+http://guany.myds.me:25852/rtp/233.50.201.173:5140
+#EXTINF:-1 ,杭州2明珠
+http://guany.myds.me:25852/rtp/233.50.201.174:5140
+#EXTINF:-1 ,杭州3生活
+http://guany.myds.me:25852/rtp/233.50.201.175:5140
+#EXTINF:-1 ,杭州4影视
+http://guany.myds.me:25852/rtp/233.50.201.176:5140
+#EXTINF:-1 ,杭州5青少
+http://guany.myds.me:25852/rtp/233.50.201.177:5140
+#EXTINF:-1 ,杭州导视
+http://guany.myds.me:25852//rtp/233.50.201.182:5140
+#EXTINF:-1 ,宁波TV1
+http://guany.myds.me:25852/rtp/233.50.201.168:5140
+#EXTINF:-1 ,宁波TV2
+http://guany.myds.me:25852/rtp/233.50.201.178:5140
+#EXTINF:-1 ,宁波TV3
+http://guany.myds.me:25852/rtp/233.50.201.179:5140
+#EXTINF:-1 ,宁波TV4
+http://guany.myds.me:25852/rtp/233.50.201.180:5140
+#EXTINF:-1 ,温州新闻
+http://guany.myds.me:25852/rtp/233.50.201.87:5140
+#EXTINF:-1 ,绍兴新闻
+http://guany.myds.me:25852/rtp/233.50.201.156:5140
+#EXTINF:-1 ,杭州导视
+http://guany.myds.me:25852/rtp/233.50.201.182:5140
+#EXTINF:-1 ,之江记录
+http://guany.myds.me:25852/rtp/233.50.202.25:5140
+#EXTINF:-1 ,竖屏
+http://guany.myds.me:25852/rtp/233.50.201.224:5140
+#EXTINF:-1 ,浙江之声广播[0*0]
+http://guany.myds.me:25852/rtp/233.50.201.79:5140
+#EXTINF:-1 ,浙江新闻广播[0*0]
+http://guany.myds.me:25852/rtp/233.50.201.80:5140
+#EXTINF:-1 ,经济频道广播[0*0]
+http://guany.myds.me:25852/rtp/233.50.201.81:5140
+#EXTINF:-1 ,音乐调频广播[0*0]
+http://guany.myds.me:25852/rtp/233.50.201.82:5140
+#EXTINF:-1 ,交通之声广播[0*0]
+http://guany.myds.me:25852/rtp/233.50.201.83:5140
+#EXTINF:-1 ,旅游之声广播[0*0]
+http://guany.myds.me:25852/rtp/233.50.201.84:5140
+#EXTINF:-1 ,城市之声广播[0*0]
+http://guany.myds.me:25852/rtp/233.50.201.85:5140
+#EXTINF:-1 ,民生资讯广播[0*0]
+http://guany.myds.me:25852/rtp/233.50.201.86:5140
+#EXTINF:-1 ,====== lantian,#genre# ======
+http://1/1.m3u8
+#EXTINF:-1 ,LQTV
+https://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 ,浙江-009-1
+https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#EXTINF:-1 ,浙江-009-2
+https://ali-m-l.cztv.com/channels/lantian/channel009/720p.m3u8
+#EXTINF:-1 ,浙江-09-1
+https://ali-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+#EXTINF:-1 ,浙江-09-2
+https://ali-m-l.cztv.com/channels/lantian/channel09/720p.m3u8
+#EXTINF:-1 ,浙江-105-2
+https://ali-m-l.cztv.com/channels/lantian/channel105/720p.m3u8
+#EXTINF:-1 ,浙江-107-2
+https://ali-m-l.cztv.com/channels/lantian/channel107/720p.m3u8
+#EXTINF:-1 ,浙江-13-1
+https://ali-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+#EXTINF:-1 ,浙江-13-2
+https://ali-m-l.cztv.com/channels/lantian/channel13/720p.m3u8
+#EXTINF:-1 ,浙江-14-1
+https://ali-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
+#EXTINF:-1 ,浙江-14-2
+https://ali-m-l.cztv.com/channels/lantian/channel14/720p.m3u8
+#EXTINF:-1 ,浙江-15-1
+https://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+#EXTINF:-1 ,浙江-15-2
+https://ali-m-l.cztv.com/channels/lantian/channel15/720p.m3u8
+#EXTINF:-1 ,浙江-16-1
+https://ali-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+#EXTINF:-1 ,浙江-16-2
+https://ali-m-l.cztv.com/channels/lantian/channel16/720p.m3u8
+#EXTINF:-1 ,浙江-17-1
+https://ali-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
+#EXTINF:-1 ,浙江-17-2
+https://ali-m-l.cztv.com/channels/lantian/channel17/720p.m3u8
+#EXTINF:-1 ,浙江-18-1
+https://ali-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
+#EXTINF:-1 ,浙江-18-2
+https://ali-m-l.cztv.com/channels/lantian/channel18/720p.m3u8
+#EXTINF:-1 ,浙江-19-1
+https://ali-m-l.cztv.com/channels/lantian/channel19/1080p.m3u8
+#EXTINF:-1 ,浙江-20-1
+https://ali-m-l.cztv.com/channels/lantian/channel20/1080p.m3u8
+#EXTINF:-1 ,浙江-21-1
+https://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 ,浙江-21-2
+https://ali-m-l.cztv.com/channels/lantian/channel21/720p.m3u8
+#EXTINF:-1 ,浙江-22-2
+https://ali-m-l.cztv.com/channels/lantian/channel22/720p.m3u8
+#EXTINF:-1 ,浙江-23-2
+https://ali-m-l.cztv.com/channels/lantian/channel23/720p.m3u8
+#EXTINF:-1 ,浙江-30-2
+https://ali-m-l.cztv.com/channels/lantian/channel30/720p.m3u8
+#EXTINF:-1 ,浙江-31-2
+https://ali-m-l.cztv.com/channels/lantian/channel31/720p.m3u8
+#EXTINF:-1 ,浙江41-2
+https://ali-m-l.cztv.com/channels/lantian/channel41/720p.m3u8
+#EXTINF:-1 ,浙江42-2
+https://ali-m-l.cztv.com/channels/lantian/channel42/720p.m3u8
+#EXTINF:-1 ,浙江之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 ,浙江之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/720p.m3u8
+#EXTINF:-1 ,浙江之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+#EXTINF:-1 ,浙江之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+#EXTINF:-1 ,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 ,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
+#EXTINF:-1 ,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 ,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel01/720p.m3u8
+#EXTINF:-1 ,浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 ,浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
+#EXTINF:-1 ,浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 ,浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
+#EXTINF:-1 ,浙江好易购
+https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+#EXTINF:-1 ,浙江好易购
+https://ali-m-l.cztv.com/channels/lantian/channel011/720p.m3u8
+#EXTINF:-1 ,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 ,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
+#EXTINF:-1 ,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 ,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
+#EXTINF:-1 ,浙江影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 ,浙江影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel005/720p.m3u8
+#EXTINF:-1 ,浙江影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+#EXTINF:-1 ,浙江影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
+#EXTINF:-1 ,浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 ,浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/720p.m3u8
+#EXTINF:-1 ,浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 ,浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+#EXTINF:-1 ,浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 ,浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
+#EXTINF:-1 ,浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 ,浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+#EXTINF:-1 ,浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 ,浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+#EXTINF:-1 ,浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 ,浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+#EXTINF:-1 ,浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 ,浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+#EXTINF:-1 ,浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 ,浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+#EXTINF:-1 ,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 ,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/720p.m3u8
+#EXTINF:-1 ,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 ,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel02/720p.m3u8

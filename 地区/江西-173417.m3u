@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 ,====== 江西电信sunnyli,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,昌飞航空
+http://iku.sunnyli.link:4144/udp/239.252.220.47:5140
+#EXTINF:-1 ,风尚购物
+http://iku.sunnyli.link:4144/udp/239.252.219.101:5140
+#EXTINF:-1 ,江西都市
+http://iku.sunnyli.link:4144/udp/239.252.220.238:5140
+#EXTINF:-1 ,江西公共农业
+http://iku.sunnyli.link:4144/udp/239.252.220.102:5140
+#EXTINF:-1 ,江西教育
+http://iku.sunnyli.link:4144/udp/239.252.219.115:5140
+#EXTINF:-1 ,江西经济生活
+http://iku.sunnyli.link:4144/udp/239.252.219.173:5140
+#EXTINF:-1 ,江西少儿
+http://iku.sunnyli.link:4144/udp/239.252.219.113:5140
+#EXTINF:-1 ,江西陶瓷
+http://iku.sunnyli.link:4144/udp/239.252.220.243:5140
+#EXTINF:-1 ,江西卫视
+http://iku.sunnyli.link:4144/udp/239.252.220.63:5140
+#EXTINF:-1 ,江西新闻
+http://iku.sunnyli.link:4144/udp/239.252.220.100:5140
+#EXTINF:-1 ,江西移动电视
+http://iku.sunnyli.link:4144/udp/239.252.220.241:5140
+#EXTINF:-1 ,江西影视旅游
+http://iku.sunnyli.link:4144/udp/239.252.220.242:5140

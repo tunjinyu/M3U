@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 ,====== 河北电信petzhu,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,河北卫视
+http://mail.petzhu.top:7000/rtp/239.254.200.174:6000
+#EXTINF:-1 ,河北经济生活
+http://mail.petzhu.top:7000/rtp/239.254.200.18:6000
+#EXTINF:-1 ,河北都市
+http://mail.petzhu.top:7000/rtp/239.254.200.19:6000
+#EXTINF:-1 ,河北影视剧
+http://mail.petzhu.top:7000/rtp/239.254.200.20:6000
+#EXTINF:-1 ,河北少儿科教
+http://mail.petzhu.top:7000/rtp/239.254.200.21:6000
+#EXTINF:-1 ,河北公共
+http://mail.petzhu.top:7000/rtp/239.254.200.22:6000
+#EXTINF:-1 ,河北农民
+http://mail.petzhu.top:7000/rtp/239.254.200.23:6000
+#EXTINF:-1 ,睛彩河北
+http://mail.petzhu.top:7000/rtp/239.254.200.27:6000
+#EXTINF:-1 ,石家庄新闻综合
+http://mail.petzhu.top:7000/rtp/239.254.200.157:6000
+#EXTINF:-1 ,石家庄娱乐
+http://mail.petzhu.top:7000/rtp/239.254.200.29:6000
+#EXTINF:-1 ,石家庄生活
+http://mail.petzhu.top:7000/rtp/239.254.200.30:6000
+#EXTINF:-1 ,石家庄都市
+http://mail.petzhu.top:7000/rtp/239.254.200.31:6000
+#EXTINF:-1 ,承德新闻综合
+http://mail.petzhu.top:7000/rtp/239.254.200.32:6000
+#EXTINF:-1 ,承德公共
+http://mail.petzhu.top:7000/rtp/239.254.200.33:6000
+#EXTINF:-1 ,张家口新闻综合
+http://mail.petzhu.top:7000/rtp/239.254.200.35:6000
+#EXTINF:-1 ,秦皇岛新闻综合
+http://mail.petzhu.top:7000/rtp/239.254.200.39:6000
+#EXTINF:-1 ,秦皇岛公共
+http://mail.petzhu.top:7000/rtp/239.254.200.40:6000
+#EXTINF:-1 ,秦皇岛影视
+http://mail.petzhu.top:7000/rtp/239.254.200.41:6000
+#EXTINF:-1 ,唐山新闻综合
+http://mail.petzhu.top:7000/rtp/239.254.200.166:6000
+#EXTINF:-1 ,唐山生活服务
+http://mail.petzhu.top:7000/rtp/239.254.200.167:6000
+#EXTINF:-1 ,唐山影视
+http://mail.petzhu.top:7000/rtp/239.254.200.168:6000
+#EXTINF:-1 ,唐山公共
+http://mail.petzhu.top:7000/rtp/239.254.200.169:6000
+#EXTINF:-1 ,廊坊新闻
+http://mail.petzhu.top:7000/rtp/239.254.200.183:6000
+#EXTINF:-1 ,廊坊公共
+http://mail.petzhu.top:7000/rtp/239.254.200.184:6000
+#EXTINF:-1 ,保定新闻综合
+http://mail.petzhu.top:7000/rtp/239.254.200.144:6000
+#EXTINF:-1 ,衡水新闻综合
+http://mail.petzhu.top:7000/rtp/239.254.200.147:6000
+#EXTINF:-1 ,衡水公共
+http://mail.petzhu.top:7000/rtp/239.254.200.149:6000
+#EXTINF:-1 ,邢台综合
+http://mail.petzhu.top:7000/rtp/239.254.200.150:6000
+#EXTINF:-1 ,邢台城市生活
+http://mail.petzhu.top:7000/rtp/239.254.200.152:6000
+#EXTINF:-1 ,邯郸新闻综合
+http://mail.petzhu.top:7000/rtp/239.254.200.153:6000
+#EXTINF:-1 ,邯郸公共
+http://mail.petzhu.top:7000/rtp/239.254.200.154:6000
+#EXTINF:-1 ,邯郸科技教育
+http://mail.petzhu.top:7000/rtp/239.254.200.155:6000
+#EXTINF:-1 ,元氏电视
+http://mail.petzhu.top:7000/rtp/239.254.200.191:5169
+#EXTINF:-1 ,高邑电视
+http://mail.petzhu.top:7000/rtp/239.254.201.24:5170
+#EXTINF:-1 ,井陉矿区电视
+http://mail.petzhu.top:7000/rtp/239.254.201.14:5175
+#EXTINF:-1 ,深泽电视
+http://mail.petzhu.top:7000/rtp/239.254.201.108:5180
+#EXTINF:-1 ,赵县电视
+http://mail.petzhu.top:7000/rtp/239.254.201.111:5183
+#EXTINF:-1 ,晋州电视
+http://mail.petzhu.top:7000/rtp/239.254.201.127:5184
+#EXTINF:-1 ,井陉电视
+http://mail.petzhu.top:7000/rtp/239.254.201.215:6167
+#EXTINF:-1 ,平泉电视
+http://mail.petzhu.top:7000/rtp/239.254.200.177:5286
+#EXTINF:-1 ,兴隆电视
+http://mail.petzhu.top:7000/rtp/239.254.201.95:5295
+#EXTINF:-1 ,隆化电视
+http://mail.petzhu.top:7000/rtp/239.254.201.142:5296
+#EXTINF:-1 ,崇礼电视
+http://mail.petzhu.top:7000/rtp/239.254.201.117:5267
+#EXTINF:-1 ,邱县电视
+http://mail.petzhu.top:7000/rtp/239.254.201.129:6209
+#EXTINF:-1 ,康保电视
+http://mail.petzhu.top:7000/rtp/239.254.201.135:5270
+#EXTINF:-1 ,遵化电视
+http://mail.petzhu.top:7000/rtp/239.254.201.146:5202
+#EXTINF:-1 ,滦南电视
+http://mail.petzhu.top:7000/rtp/239.254.201.22:5191
+#EXTINF:-1 ,玉田电视
+http://mail.petzhu.top:7000/rtp/239.254.201.28:5194
+#EXTINF:-1 ,大厂电视
+http://mail.petzhu.top:7000/rtp/239.254.201.71:5310
+#EXTINF:-1 ,文安电视
+http://mail.petzhu.top:7000/rtp/239.254.201.103:5314
+#EXTINF:-1 ,三河电视
+http://mail.petzhu.top:7000/rtp/239.254.201.113:5315
+#EXTINF:-1 ,永清电视
+http://mail.petzhu.top:7000/rtp/239.254.201.141:5316
+#EXTINF:-1 ,成安电视
+http://mail.petzhu.top:7000/rtp/239.254.201.143:6210
+#EXTINF:-1 ,魏县电视
+http://mail.petzhu.top:7000/rtp/239.254.201.148:6211
+#EXTINF:-1 ,黄骅电视
+http://mail.petzhu.top:7000/rtp/239.254.201.36:5325
+#EXTINF:-1 ,吴桥电视
+http://mail.petzhu.top:7000/rtp/239.254.201.138:5337
+#EXTINF:-1 ,丰宁电视
+http://mail.petzhu.top:7000/rtp/239.254.200.5:5290
+#EXTINF:-1 ,阜平电视
+http://mail.petzhu.top:7000/rtp/239.254.201.40:5248
+#EXTINF:-1 ,涞水电视
+http://mail.petzhu.top:7000/rtp/239.254.201.10:5250
+#EXTINF:-1 ,涞源电视
+http://mail.petzhu.top:7000/rtp/239.254.200.213:5260
+#EXTINF:-1 ,高碑店电视
+http://mail.petzhu.top:7000/rtp/239.254.200.210:5254
+#EXTINF:-1 ,涿州电视
+http://mail.petzhu.top:7000/rtp/239.254.201.17:5261
+#EXTINF:-1 ,唐县电视
+http://mail.petzhu.top:7000/rtp/239.254.201.41:5264
+#EXTINF:-1 ,定州电视
+http://mail.petzhu.top:7000/rtp/239.254.201.74:6251
+#EXTINF:-1 ,雄县电视
+http://mail.petzhu.top:7000/rtp/239.254.201.94:6254
+#EXTINF:-1 ,容城电视
+http://mail.petzhu.top:7000/rtp/239.254.201.102:6256
+#EXTINF:-1 ,柏乡电视
+http://mail.petzhu.top:7000/rtp/239.254.201.140:5383
+#EXTINF:-1 ,徐水电视
+http://mail.petzhu.top:7000/rtp/239.254.201.147:6260
+#EXTINF:-1 ,安平电视
+http://mail.petzhu.top:7000/rtp/239.254.201.42:5348
+#EXTINF:-1 ,景县电视
+http://mail.petzhu.top:7000/rtp/239.254.200.240:5350
+#EXTINF:-1 ,饶阳电视
+http://mail.petzhu.top:7000/rtp/239.254.201.44:5353
+#EXTINF:-1 ,深州电视
+http://mail.petzhu.top:7000/rtp/239.254.201.46:5357
+#EXTINF:-1 ,故城电视
+http://mail.petzhu.top:7000/rtp/239.254.201.126:5362
+#EXTINF:-1 ,枣强电视
+http://mail.petzhu.top:7000/rtp/239.254.201.136:5363
+#EXTINF:-1 ,清河电视
+http://mail.petzhu.top:7000/rtp/239.254.200.170:5366
+#EXTINF:-1 ,武安电视
+http://mail.petzhu.top:7000/rtp/239.254.201.6:5216
+#EXTINF:-1 ,临漳电视
+http://mail.petzhu.top:7000/rtp/239.254.201.73:5221
+#EXTINF:-1 ,涉县电视
+http://mail.petzhu.top:7000/rtp/239.254.201.97:5222
+#EXTINF:-1 ,南宫电视
+http://mail.petzhu.top:7000/rtp/239.254.201.48:5371

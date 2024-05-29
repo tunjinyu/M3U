@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1 ,====== 广东电信jianghua,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,107号
+http://gs.jianghua.fun:8888/udp/239.77.1.107:5146
+#EXTINF:-1 ,149号
+http://gs.jianghua.fun:8888/udp/239.77.1.149:5146
+#EXTINF:-1 ,150号
+http://gs.jianghua.fun:8888/udp/239.77.1.150:5146
+#EXTINF:-1 ,153号
+http://gs.jianghua.fun:8888/udp/239.77.0.153:5146
+#EXTINF:-1 ,157号
+http://gs.jianghua.fun:8888/udp/239.77.1.157:5146
+#EXTINF:-1 ,162号
+http://gs.jianghua.fun:8888/udp/239.77.0.162:5146
+#EXTINF:-1 ,HZTV1
+http://gs.jianghua.fun:8888/udp/239.77.1.232:5146
+#EXTINF:-1 ,HZTV2
+http://gs.jianghua.fun:8888/udp/239.77.1.233:5146
+#EXTINF:-1 ,大湾区卫视
+http://gs.jianghua.fun:8888/udp/239.77.0.215:5146
+#EXTINF:-1 ,东莞生活资讯
+http://gs.jianghua.fun:8888/udp/239.253.43.105:5146
+#EXTINF:-1 ,东莞新闻综合
+http://gs.jianghua.fun:8888/udp/239.253.43.104:5146
+#EXTINF:-1 ,佛山公共
+http://gs.jianghua.fun:8888/udp/239.253.43.53:5146
+#EXTINF:-1 ,佛山南海
+http://gs.jianghua.fun:8888/udp/239.253.43.54:5146
+#EXTINF:-1 ,佛山顺德
+http://gs.jianghua.fun:8888/udp/239.253.43.55:5146
+#EXTINF:-1 ,佛山影视
+http://gs.jianghua.fun:8888/udp/239.253.43.56:5146
+#EXTINF:-1 ,佛山综合
+http://gs.jianghua.fun:8888/udp/239.253.43.57:5146
+#EXTINF:-1 ,广东IPTV精品测试1
+http://gs.jianghua.fun:8888/udp/239.77.1.203:5146
+#EXTINF:-1 ,广东IPTV精品测试2
+http://gs.jianghua.fun:8888/udp/239.77.1.201:5146
+#EXTINF:-1 ,广东IPTV精品测试4
+http://gs.jianghua.fun:8888/udp/239.77.1.10:5146
+#EXTINF:-1 ,广东民生
+http://gs.jianghua.fun:8888/udp/239.77.0.225:5146
+#EXTINF:-1 ,广东少儿
+http://gs.jianghua.fun:8888/udp/239.77.0.250:5146
+#EXTINF:-1 ,广东体育
+http://gs.jianghua.fun:8888/udp/239.77.0.112:5146
+#EXTINF:-1 ,广东体育
+http://gs.jianghua.fun:8888/udp/239.77.0.168:5146
+#EXTINF:-1 ,广东卫视
+http://gs.jianghua.fun:8888/udp/239.77.0.166:5146
+#EXTINF:-1 ,广东现代教育
+http://gs.jianghua.fun:8888/udp/239.77.0.213:5146
+#EXTINF:-1 ,广东新闻
+http://gs.jianghua.fun:8888/udp/239.77.0.173:5146
+#EXTINF:-1 ,广东影视
+http://gs.jianghua.fun:8888/udp/239.77.0.217:5146
+#EXTINF:-1 ,广东珠江
+http://gs.jianghua.fun:8888/udp/239.77.0.1:5146
+#EXTINF:-1 ,广东珠江
+http://gs.jianghua.fun:8888/udp/239.77.0.114:5146
+#EXTINF:-1 ,广东综艺4K
+http://gs.jianghua.fun:8888/udp/239.77.0.244:5146
+#EXTINF:-1 ,广东综艺4k
+http://gs.jianghua.fun:8888/udp/239.77.0.245:5146
+#EXTINF:-1 ,广东综艺4k
+http://gs.jianghua.fun:8888/udp/239.77.0.252:5146
+#EXTINF:-1 ,广东综艺4K
+http://gs.jianghua.fun:8888/udp/239.77.1.237:5146
+#EXTINF:-1 ,广州法治
+http://gs.jianghua.fun:8888/udp/239.253.43.74:5146
+#EXTINF:-1 ,广州竞赛
+http://gs.jianghua.fun:8888/udp/239.253.43.70:5146
+#EXTINF:-1 ,广州竞赛
+http://gs.jianghua.fun:8888/udp/239.253.43.75:5146
+#EXTINF:-1 ,广州新闻
+http://gs.jianghua.fun:8888/udp/239.253.43.72:5146
+#EXTINF:-1 ,广州影视
+http://gs.jianghua.fun:8888/udp/239.253.43.73:5146
+#EXTINF:-1 ,广州综合
+http://gs.jianghua.fun:8888/udp/239.253.43.71:5146
+#EXTINF:-1 ,河源公共
+http://gs.jianghua.fun:8888/udp/239.253.43.214:5146
+#EXTINF:-1 ,河源综合
+http://gs.jianghua.fun:8888/udp/239.253.43.213:5146
+#EXTINF:-1 ,江门侨乡生活
+http://gs.jianghua.fun:8888/udp/239.77.0.202:5146
+#EXTINF:-1 ,江门综合
+http://gs.jianghua.fun:8888/udp/239.77.0.201:5146
+#EXTINF:-1 ,揭阳生活
+http://gs.jianghua.fun:8888/udp/239.77.0.251:5146
+#EXTINF:-1 ,揭阳综合
+http://gs.jianghua.fun:8888/udp/239.77.0.229:5146
+#EXTINF:-1 ,经济科教
+http://gs.jianghua.fun:8888/udp/239.77.0.85:5146
+#EXTINF:-1 ,客家生活
+http://gs.jianghua.fun:8888/udp/239.253.43.124:5146
+#EXTINF:-1 ,岭南戏曲
+http://gs.jianghua.fun:8888/udp/239.77.0.122:5146
+#EXTINF:-1 ,茂名公共
+http://gs.jianghua.fun:8888/udp/239.77.0.207:5146
+#EXTINF:-1 ,茂名综合
+http://gs.jianghua.fun:8888/udp/239.77.0.206:5146
+#EXTINF:-1 ,梅州-1
+http://gs.jianghua.fun:8888/udp/239.253.43.123:5146
+#EXTINF:-1 ,南方购物
+http://gs.jianghua.fun:8888/udp/239.77.0.19:5146
+#EXTINF:-1 ,南方购物
+http://gs.jianghua.fun:8888/udp/239.77.0.22:5146
+#EXTINF:-1 ,南国都市4K
+http://gs.jianghua.fun:8888/udp/239.253.43.99:5146
+#EXTINF:-1 ,清远文旅生活
+http://gs.jianghua.fun:8888/udp/239.253.43.34:5146
+#EXTINF:-1 ,清远文旅生活
+http://gs.jianghua.fun:8888/udp/239.77.0.241:5146
+#EXTINF:-1 ,清远新闻综合
+http://gs.jianghua.fun:8888/udp/239.253.43.33:5146
+#EXTINF:-1 ,汕头经济生活
+http://gs.jianghua.fun:8888/udp/239.253.43.46:5146
+#EXTINF:-1 ,汕头经济生活
+http://gs.jianghua.fun:8888/udp/239.77.1.131:5146
+#EXTINF:-1 ,汕头文旅体育
+http://gs.jianghua.fun:8888/udp/239.253.43.47:5146
+#EXTINF:-1 ,汕尾文化生活
+http://gs.jianghua.fun:8888/udp/239.77.0.187:5146
+#EXTINF:-1 ,汕尾新闻综合
+http://gs.jianghua.fun:8888/udp/239.77.0.25:5146
+#EXTINF:-1 ,韶关绿色生活
+http://gs.jianghua.fun:8888/udp/239.77.0.119:5146
+#EXTINF:-1 ,韶关新闻综合
+http://gs.jianghua.fun:8888/udp/239.77.0.117:5146
+#EXTINF:-1 ,深圳财经生活
+http://gs.jianghua.fun:8888/udp/239.77.1.242:5146
+#EXTINF:-1 ,深圳电视剧
+http://gs.jianghua.fun:8888/udp/239.77.1.125:5146
+#EXTINF:-1 ,深圳电视剧
+http://gs.jianghua.fun:8888/udp/239.77.1.177:5146
+#EXTINF:-1 ,深圳电视剧
+http://gs.jianghua.fun:8888/udp/239.77.1.7:5146
+#EXTINF:-1 ,深圳都市
+http://gs.jianghua.fun:8888/udp/239.77.1.124:5146
+#EXTINF:-1 ,深圳都市
+http://gs.jianghua.fun:8888/udp/239.77.1.176:5146
+#EXTINF:-1 ,深圳公共
+http://gs.jianghua.fun:8888/udp/239.77.1.126:5146
+#EXTINF:-1 ,深圳公共
+http://gs.jianghua.fun:8888/udp/239.77.1.178:5146
+#EXTINF:-1 ,深圳公共
+http://gs.jianghua.fun:8888/udp/239.77.1.9:5146
+#EXTINF:-1 ,深圳龙岗
+http://gs.jianghua.fun:8888/udp/239.77.1.223:5146
+#EXTINF:-1 ,深圳少儿
+http://gs.jianghua.fun:8888/udp/239.77.1.244:5146
+#EXTINF:-1 ,深圳体育健康
+http://gs.jianghua.fun:8888/udp/239.77.1.128:5146
+#EXTINF:-1 ,深圳体育健康
+http://gs.jianghua.fun:8888/udp/239.77.1.140:5146
+#EXTINF:-1 ,深圳体育健康
+http://gs.jianghua.fun:8888/udp/239.77.1.8:5146
+#EXTINF:-1 ,深圳宜和购物
+http://gs.jianghua.fun:8888/udp/239.77.1.87:5146
+#EXTINF:-1 ,深圳娱乐
+http://gs.jianghua.fun:8888/udp/239.77.1.243:5146
+#EXTINF:-1 ,深圳众创TV
+http://gs.jianghua.fun:8888/udp/239.77.1.247:5146
+#EXTINF:-1 ,香山文化
+http://gs.jianghua.fun:8888/udp/239.253.43.63:5146
+#EXTINF:-1 ,徐闻综合
+http://gs.jianghua.fun:8888/udp/239.253.43.112:5146
+#EXTINF:-1 ,云浮文旅
+http://gs.jianghua.fun:8888/udp/239.77.0.254:5146
+#EXTINF:-1 ,云浮综合
+http://gs.jianghua.fun:8888/udp/239.77.0.253:5146
+#EXTINF:-1 ,湛江公共
+http://gs.jianghua.fun:8888/udp/239.77.0.140:5146
+#EXTINF:-1 ,湛江新闻综合
+http://gs.jianghua.fun:8888/udp/239.77.0.141:5146
+#EXTINF:-1 ,肇庆生活服务
+http://gs.jianghua.fun:8888/udp/239.253.43.2:5146
+#EXTINF:-1 ,肇庆综合
+http://gs.jianghua.fun:8888/udp/239.253.43.1:5146
+#EXTINF:-1 ,中山综合
+http://gs.jianghua.fun:8888/udp/239.253.43.62:5146
+#EXTINF:-1 ,珠海1
+http://gs.jianghua.fun:8888/udp/239.77.0.155:5146
+#EXTINF:-1 ,珠海2
+http://gs.jianghua.fun:8888/udp/239.77.0.154:5146

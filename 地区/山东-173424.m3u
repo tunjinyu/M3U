@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:-1 ,====== 山东电信huaz,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,山东教育
+http://home.huaz.site:4000/udp/239.21.1.169:5002
+#EXTINF:-1 ,山东居家购物
+http://home.huaz.site:4000/udp/239.21.1.112:5002
+#EXTINF:-1 ,山东农科
+http://home.huaz.site:4000/udp/239.21.1.183:5002
+#EXTINF:-1 ,山东齐鲁
+http://home.huaz.site:4000/udp/239.21.1.134:5002
+#EXTINF:-1 ,山东少儿
+http://home.huaz.site:4000/udp/239.21.1.208:5002
+#EXTINF:-1 ,山东生活
+http://home.huaz.site:4000/udp/239.21.1.175:5002
+#EXTINF:-1 ,山东体育
+http://home.huaz.site:4000/udp/239.21.2.77:5002
+#EXTINF:-1 ,山东体育休闲
+http://home.huaz.site:4000/udp/239.21.1.141:5002
+#EXTINF:-1 ,山东体育休闲
+http://home.huaz.site:4000/udp/239.21.1.95:5002
+#EXTINF:-1 ,山东卫视
+http://home.huaz.site:4000/udp/239.21.1.87:5002
+#EXTINF:-1 ,山东文旅
+http://home.huaz.site:4000/udp/239.21.1.176:5002
+#EXTINF:-1 ,山东新闻
+http://home.huaz.site:4000/udp/239.21.1.140:5002
+#EXTINF:-1 ,山东综艺
+http://home.huaz.site:4000/udp/239.21.1.177:5002
+#EXTINF:-1 ,安丘综合
+http://home.huaz.site:4000/udp/239.21.2.13:5002
+#EXTINF:-1 ,滨州综合
+http://home.huaz.site:4000/udp/239.21.1.238:5002
+#EXTINF:-1 ,测试-山东经济广播
+http://home.huaz.site:4000/udp/239.21.2.148:5002
+#EXTINF:-1 ,昌乐综合
+http://home.huaz.site:4000/udp/239.21.1.245:5002
+#EXTINF:-1 ,昌邑综合
+http://home.huaz.site:4000/udp/239.21.2.27:5002
+#EXTINF:-1 ,茌平综合
+http://home.huaz.site:4000/udp/239.21.1.219:5002
+#EXTINF:-1 ,岱岳
+http://home.huaz.site:4000/udp/239.21.2.139:5002
+#EXTINF:-1 ,单县综合
+http://home.huaz.site:4000/udp/239.21.2.21:5002
+#EXTINF:-1 ,德州经济生活
+http://home.huaz.site:4000/udp/239.21.1.76:5002
+#EXTINF:-1 ,德州新闻综合
+http://home.huaz.site:4000/udp/239.21.1.75:5002
+#EXTINF:-1 ,定陶1
+http://home.huaz.site:4000/udp/239.21.1.244:5002
+#EXTINF:-1 ,东平综合
+http://home.huaz.site:4000/udp/239.21.1.216:5002
+#EXTINF:-1 ,海洋频道
+http://home.huaz.site:4000/udp/239.21.2.119:5002
+#EXTINF:-1 ,河东综合
+http://home.huaz.site:4000/udp/239.21.2.136:5002
+#EXTINF:-1 ,济南教育
+http://home.huaz.site:4000/udp/239.21.1.133:5002
+#EXTINF:-1 ,济南新闻综合
+http://home.huaz.site:4000/udp/239.21.1.94:5002
+#EXTINF:-1 ,济宁高新
+http://home.huaz.site:4000/udp/239.21.2.83:5002
+#EXTINF:-1 ,济宁综合
+http://home.huaz.site:4000/udp/239.21.2.19:5002
+#EXTINF:-1 ,济阳综合
+http://home.huaz.site:4000/udp/239.21.1.187:5002
+#EXTINF:-1 ,嘉祥综合
+http://home.huaz.site:4000/udp/239.21.2.84:5002
+#EXTINF:-1 ,莒县综合
+http://home.huaz.site:4000/udp/239.21.1.236:5002
+#EXTINF:-1 ,巨野新闻
+http://home.huaz.site:4000/udp/239.21.1.215:5002
+#EXTINF:-1 ,莱西综合
+http://home.huaz.site:4000/udp/239.21.1.247:5002
+#EXTINF:-1 ,兰陵公共
+http://home.huaz.site:4000/udp/239.21.2.63:5002
+#EXTINF:-1 ,兰陵综合
+http://home.huaz.site:4000/udp/239.21.1.237:5002
+#EXTINF:-1 ,岚山
+http://home.huaz.site:4000/udp/239.21.1.209:5002
+#EXTINF:-1 ,崂山
+http://home.huaz.site:4000/udp/239.21.1.223:5002
+#EXTINF:-1 ,崂山
+http://home.huaz.site:4000/udp/239.21.2.122:5002
+#EXTINF:-1 ,梁山综合
+http://home.huaz.site:4000/udp/239.21.2.12:5002
+#EXTINF:-1 ,陵城综合
+http://home.huaz.site:4000/udp/239.21.2.24:5002
+#EXTINF:-1 ,龙口综合
+http://home.huaz.site:4000/udp/239.21.2.146:5002
+#EXTINF:-1 ,蒙阴综合
+http://home.huaz.site:4000/udp/239.21.2.23:5002
+#EXTINF:-1 ,宁津综合
+http://home.huaz.site:4000/udp/239.21.2.50:5002
+#EXTINF:-1 ,宁阳综合
+http://home.huaz.site:4000/udp/239.21.1.143:5002
+#EXTINF:-1 ,平度新闻
+http://home.huaz.site:4000/udp/239.21.1.228:5002
+#EXTINF:-1 ,平原综合
+http://home.huaz.site:4000/udp/239.21.1.243:5002
+#EXTINF:-1 ,齐河综合
+http://home.huaz.site:4000/udp/239.21.1.230:5002
+#EXTINF:-1 ,青州文化旅游
+http://home.huaz.site:4000/udp/239.21.1.231:5002
+#EXTINF:-1 ,青州综合
+http://home.huaz.site:4000/udp/239.21.1.232:5002
+#EXTINF:-1 ,曲阜综合
+http://home.huaz.site:4000/udp/239.21.1.225:5002
+#EXTINF:-1 ,任城1
+http://home.huaz.site:4000/udp/239.21.2.143:5002
+#EXTINF:-1 ,任城2
+http://home.huaz.site:4000/udp/239.21.2.144:5002
+#EXTINF:-1 ,荣成综合
+http://home.huaz.site:4000/udp/239.21.1.227:5002
+#EXTINF:-1 ,乳山综合
+http://home.huaz.site:4000/udp/239.21.1.220:5002
+#EXTINF:-1 ,商河综合
+http://home.huaz.site:4000/udp/239.21.2.53:5002
+#EXTINF:-1 ,莘县综合
+http://home.huaz.site:4000/udp/239.21.1.211:5002
+#EXTINF:-1 ,寿光蔬菜
+http://home.huaz.site:4000/udp/239.21.1.218:5002
+#EXTINF:-1 ,泰山
+http://home.huaz.site:4000/udp/239.21.2.147:5002
+#EXTINF:-1 ,潍坊高新区
+http://home.huaz.site:4000/udp/239.21.2.131:5002
+#EXTINF:-1 ,潍坊经济生活
+http://home.huaz.site:4000/udp/239.21.1.78:5002
+#EXTINF:-1 ,潍坊科教文旅
+http://home.huaz.site:4000/udp/239.21.2.89:5002
+#EXTINF:-1 ,潍坊新闻综合
+http://home.huaz.site:4000/udp/239.21.1.77:5002
+#EXTINF:-1 ,潍坊影视综艺
+http://home.huaz.site:4000/udp/239.21.2.88:5002
+#EXTINF:-1 ,文登
+http://home.huaz.site:4000/udp/239.21.1.174:5002
+#EXTINF:-1 ,无棣综合
+http://home.huaz.site:4000/udp/239.21.1.214:5002
+#EXTINF:-1 ,武城综合
+http://home.huaz.site:4000/udp/239.21.1.239:5002
+#EXTINF:-1 ,武城综艺
+http://home.huaz.site:4000/udp/239.21.1.240:5002
+#EXTINF:-1 ,夏津公共
+http://home.huaz.site:4000/udp/239.21.1.102:5002
+#EXTINF:-1 ,夏津综合
+http://home.huaz.site:4000/udp/239.21.1.106:5002
+#EXTINF:-1 ,烟台经济
+http://home.huaz.site:4000/udp/239.21.1.205:5002
+#EXTINF:-1 ,烟台新闻
+http://home.huaz.site:4000/udp/239.21.1.116:5002
+#EXTINF:-1 ,烟台影视
+http://home.huaz.site:4000/udp/239.21.1.204:5002
+#EXTINF:-1 ,兖州新闻
+http://home.huaz.site:4000/udp/239.21.1.224:5002
+#EXTINF:-1 ,沂水生活
+http://home.huaz.site:4000/udp/239.21.2.80:5002
+#EXTINF:-1 ,沂水综合
+http://home.huaz.site:4000/udp/239.21.2.79:5002
+#EXTINF:-1 ,鱼台生活
+http://home.huaz.site:4000/udp/239.21.2.135:5002
+#EXTINF:-1 ,鱼台综合
+http://home.huaz.site:4000/udp/239.21.2.134:5002
+#EXTINF:-1 ,禹城综合
+http://home.huaz.site:4000/udp/239.21.1.241:5002
+#EXTINF:-1 ,禹城综艺
+http://home.huaz.site:4000/udp/239.21.1.242:5002
+#EXTINF:-1 ,郓城新闻
+http://home.huaz.site:4000/udp/239.21.1.251:5002
+#EXTINF:-1 ,淄博新闻
+http://home.huaz.site:4000/udp/239.21.1.84:5002
+#EXTINF:-1 ,淄博影视
+http://home.huaz.site:4000/udp/239.21.1.182:5002
+#EXTINF:-1 ,淄川新闻
+http://home.huaz.site:4000/udp/239.21.1.160:5002
+#EXTINF:-1 ,综合
+http://home.huaz.site:4000/udp/239.21.1.193:5002
+#EXTINF:-1 ,邹城综合
+http://home.huaz.site:4000/udp/239.21.1.185:5002
+#EXTINF:-1 ,LYTV1
+http://home.huaz.site:4000/udp/239.21.2.130:5002
+#EXTINF:-1 ,ZYTV综合
+http://home.huaz.site:4000/udp/239.21.2.145:5002
+#EXTINF:-1 ,123号
+http://home.huaz.site:4000/udp/239.21.2.123:5002
+#EXTINF:-1 ,52号
+http://home.huaz.site:4000/udp/239.21.2.52:5002
+#EXTINF:-1 ,56号
+http://home.huaz.site:4000/udp/239.21.2.56:5002
+#EXTINF:-1 ,57号
+http://home.huaz.site:4000/udp/239.21.2.57:5002
+#EXTINF:-1 ,58号
+http://home.huaz.site:4000/udp/239.21.2.58:5002
+#EXTINF:-1 ,59号
+http://home.huaz.site:4000/udp/239.21.2.59:5002
+#EXTINF:-1 ,60号
+http://home.huaz.site:4000/udp/239.21.2.60:5002
+#EXTINF:-1 ,61号
+http://home.huaz.site:4000/udp/239.21.2.61:5002
+#EXTINF:-1 ,62号
+http://home.huaz.site:4000/udp/239.21.2.62:5002
+#EXTINF:-1 ,64号
+http://home.huaz.site:4000/udp/239.21.2.64:5002
+#EXTINF:-1 ,65号
+http://home.huaz.site:4000/udp/239.21.2.65:5002
+#EXTINF:-1 ,68号
+http://home.huaz.site:4000/udp/239.21.2.68:5002
+#EXTINF:-1 ,71号4K
+http://home.huaz.site:4000/udp/239.21.2.71:5002
+#EXTINF:-1 ,临沂经济
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+#EXTINF:-1 ,临沂公共
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 ,临沂综合
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
