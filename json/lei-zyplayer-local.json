@@ -1,0 +1,133 @@
+{
+	"iptv": [
+	{
+		"id": "a79c64c2-e07a-c085-0795-f86a67414b1b",
+		"name": "CCTV-ipv4",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/1.CCTV-4.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "945a86e0-cf7e-8af4-3a8e-acdcf6ff0d44",
+		"name": "CCTV-ipv6",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/2.CCTV-6.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "34f5e522-2691-0488-0aa6-a27f1f7afe23",
+		"name": "卫视-ipv4",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/3.%E5%8D%AB%E8%A7%86-4.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "529359f0-5afc-47c0-6d01-e975a45b00f6",
+		"name": "卫视-ipv6",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/4.%E5%8D%AB%E8%A7%86-6.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "0317c955-471b-98b7-9024-873718fd83a6",
+		"name": "NewTv-ipv4",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/5.NewTv-4.txt  ",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "75237c04-fab1-d53e-825c-344229f1fe42",
+		"name": "NewTv-ipv6",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/6.NewTv-6.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "e356cb43-28f9-560b-dc2a-5a93c2c43d78",
+		"name": "Bestv-ipv4",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/7.Bestv-4.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "7c8191d0-6929-4b83-d866-4a20f17255a4",
+		"name": "地方台-all",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/8.%E5%9C%B0%E6%96%B9%E5%8F%B0-46.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "966d5d6a-adaf-f28b-9c94-0a9449ca076c",
+		"name": "other",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/9.other.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "67369573-fe53-a06f-5740-0f90256d64a0",
+		"name": "其他-ipv4",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/10.%E5%85%B6%E4%BB%96-4.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "2f6cc57c-da38-0ac0-d628-7be443be9b8d",
+		"name": "其他-ipv6",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/11.%E5%85%B6%E4%BB%96-6.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "d28e021d-9945-b173-48ca-ab227352da15",
+		"name": "Radio",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/12.Radio.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "f1053753-5055-51e9-08ec-06ece7692b48",
+		"name": "咪咕",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/13.%E5%92%AA%E5%92%95-46.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "cd44397d-a478-dd51-b082-261721556a5d",
+		"name": "未知",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/14.%E6%9C%AA%E7%9F%A5-46.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "6c061eeb-a067-cc41-53d6-543f599478e1",
+		"name": "港澳台",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/15.%E6%B4%9B%E6%9D%89%E7%9F%B6148.txt  ",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	},
+	{
+		"id": "ee3c7723-8033-1a2b-99be-fdd0b86185b3",
+		"name": "购物",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/16.%E8%B4%AD%E7%89%A9-46.txt",
+		"type": "remote",
+		"isActive": true,
+		"epg": "https://epg.112114.xyz/"
+	}
+
+	]
+}
