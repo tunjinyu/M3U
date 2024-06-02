@@ -129,9 +129,9 @@
 		"epg": "https://epg.112114.xyz/"
 	},
 	{
-		"id": "ee3c7723-8033-1a2b-99be-fdd0b86185b3",
+		"id": "485e5d63-8ca1-21d2-d9e0-c4147cb89ba0",
 		"name": "IHOT",
-		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/IHOT.txt",
+		"url": "http://192.168.0.2/tv/%E7%B1%BB_zyplayer/5.1.IHOT-6.txt",
 		"type": "remote",
 		"isActive": true,
 		"epg": "https://epg.112114.xyz/"
