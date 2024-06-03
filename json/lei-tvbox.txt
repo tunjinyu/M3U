@@ -3820,6 +3820,23 @@ Tiktok网络电台,https://lhttp.qingting.fm/live/5062/64k.mp3?Qt=05c7ac946880ad
 Rádio ADBuraca,https://stream-172.zeno.fm/68ubnd9br3quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2OHVibmQ5YnIzcXV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjcwWFcwRWlLUy02SzR4OGxIQ2otQnciLCJpYXQiOjE3MTYzMzQ4NDcsImV4cCI6MTcxNjMzNDkwN30.tEzto6PABGXxVYEzV1krhYK5_2J258YFAKKz95q8jW0
 house music radio,https://stream-161.zeno.fm/ubrbwq17qy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YnJid3ExN3F5OHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZ4Y3lLNm9HU0RDcnoxa1V1M2E2ZnciLCJpYXQiOjE3MTYzMzQ5NzQsImV4cCI6MTcxNjMzNTAzNH0.zDfGrFdZQ_lCrN4P_FxsQIhPbbTWaJnc0PbFUPfUvrQ
 Hit FM劲曲,http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+My Radio,https://stream.hndt.com/live/yingshi/playlist.m3u8
+Big Radio,https://stream.hndt.com/live/gudian/playlist.m3u8
+
+CNR,#genre#
+CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+CNR阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+
 CNR文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 CNR交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
@@ -3832,12 +3849,23 @@ CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
 CNR台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 CNR经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+
+
 CRI轻松调频,http://sk.cri.cn/915.m3u8
 CRI华语环球,http://sk.cri.cn/hyhq.m3u8
 CRI环球资讯,http://sk.cri.cn/905.m3u8
 CRI南海之声,https://sk.cri.cn/nhzs.m3u8
 CRI英语资讯,http://sk.cri.cn/am846.m3u8
 CRI世界华声,http://sk.cri.cn/hxfh.m3u8
+
+CRI环球资讯广播,https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI英语环球广播 China Plus Radio,http://sk.cri.cn/am846.m3u8
+CRI外语教学广播 China Plus Radio,http://sk.cri.cn/am1008.m3u8
+CRI南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI轻松调频,http://sk.cri.cn/915.m3u8
+CRI粤语国际,http://sk.cri.cn/hxfh.m3u8
+
 天津文艺广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.171:5002 $天津联通hssvm
 天津经济广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.172:5002 $天津联通hssvm
 天津新闻广播[768*576],http://nas.hssvm.com:8888/udp/225.1.1.173:5002 $天津联通hssvm
