@@ -3823,7 +3823,6 @@ Hit FM劲曲,http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 My Radio,https://stream.hndt.com/live/yingshi/playlist.m3u8
 Big Radio,https://stream.hndt.com/live/gudian/playlist.m3u8
 
-CNR,#genre#
 CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 CNR文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
